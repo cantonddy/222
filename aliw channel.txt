@@ -22,6 +22,7 @@ Monday
 8:15pm - One Small Act (replay)
 8:30pm - The Story of the Filipino
 9:00pm - Newscoop
+10:00pm - Sign OFF
 
 Tuesday
 12:00am - Sign OFF
@@ -46,6 +47,7 @@ Tuesday
 8:15pm - One Small Act (replay)
 8:30pm - The Story of the Filipino
 9:00pm - Newscoop
+10:00pm - Sign OFF
 
 Wednesday
 12:00am - Sign OFF
@@ -70,6 +72,7 @@ Wednesday
 8:15pm - One Small Act (replay)
 8:30pm - The Story of the Filipino
 9:00pm - Newscoop
+10:00pm - Sign OFF
 
 Thursday
 12:00am - Sign OFF
@@ -94,6 +97,7 @@ Thursday
 8:15pm - One Small Act (replay)
 8:30pm - The Story of the Filipino
 9:00pm - Newscoop
+10:00pm - Sign OFF
 
 
 Friday
@@ -108,18 +112,12 @@ Friday
 2:00pm - NegoShow
 3:00pm - Señor Balita
 4:00pm - Newscoop
-5:00pm - NBL
-5:30pm - NBL
-6:00pm - NBL
-6:30pm - NBL
-6:45pm - NBL
-7:00pm - NBL
-7:30pm - NBL
-8:00pm - NBL
-8:15pm - NBL
-8:30pm - NBL
-9:00pm - NBL
-
+5:00pm - Sulong na Bayan
+6:00pm - Life Balance
+7:00pm - Up-Up Pilipinas
+8:00pm - Pangga Ruth Abao LIVE
+9:00pm - Life Balance
+10:00pm - Sign OFF
 
 Saturday
 12:00am - Sign OFF
@@ -135,17 +133,12 @@ Saturday
 2:00pm - Usapang Senado
 3:00pm - Work Related
 4:00pm - Brgy. 882
-5:00pm - NBL
-5:30pm - NBL
-6:00pm - NBL
-6:30pm - NBL
-6:45pm - NBL
-7:00pm - NBL
-7:30pm - NBL
-8:00pm - NBL
-8:15pm - NBL
-8:30pm - NBL
-9:00pm - NBL
+5:00pm - Sandigan ng Bayan
+6:00pm - Life Balance
+7:00pm - Usapang Senado
+8:00pm - Pulis at Ur Serbis
+9:00pm - Beyond Wellness with Ms. P
+10:00pm - Sign OFF
 
 
 Sunday
@@ -162,17 +155,15 @@ Sunday
 12:30pm - Senior Moments
 2:00pm - Usapang Payaman
 4:00pm - Kabuhayan at Negosyo
-5:00pm - NBL
-5:30pm - NBL
-6:00pm - NBL
-6:30pm - NBL
-6:45pm - NBL
+5:00pm - IZ Balita
+6:00pm - Anong Say ni Father, Anong Say nina Brothers
 7:00pm - NBL
 7:30pm - NBL
 8:00pm - NBL
 8:15pm - NBL
 8:30pm - NBL
 9:00pm - NBL
+
 
 
 
