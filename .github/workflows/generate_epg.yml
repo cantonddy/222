@@ -1,0 +1,41 @@
+name: Generate XMLTV EPG
+
+on:
+  # Run daily at midnight UTC
+  schedule:
+    - cron: '0 0 * * *'
+  # Allow manual trigger from the GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      # Need full history for the commit action
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Execute EPG Parser Script
+      # This runs the script which reads all .txt files and creates epg.xml
+      run: |
+        python epg_parser.py
+      
+    - name: Commit and Push Changes
+      # Uses a third-party action to automatically commit and push the new file
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        # Commit only the generated XML file
+        file_pattern: 'epg.xml'
+        commit_message: "Auto-generated EPG update for 7 days"
+        # Optional: Set author for a cleaner commit history
+        commit_author: 'GitHub Actions <actions@github.com>'
+        # Recommended: Ensures the commit action can push to the branch
+        commit_options: '--no-verify'
