@@ -6,6 +6,10 @@ import re
 # --- Configuration ---
 # XMLTV time format: YYYYMMDDHHMMSS +0800 (Assuming Asia/Manila time zone for all channels)
 XMLTV_TIME_FORMAT = "%Y%m%d%H%M%S +0800"
+# --- NEW CONFIGURATION ---
+# Set the number of days for the EPG schedule (4 weeks = 28 days)
+EPG_SCHEDULE_DAYS = 28
+# -------------------------
 
 # Map of uploaded text filenames to their unique XMLTV Channel IDs
 CHANNEL_MAP = {
@@ -32,20 +36,19 @@ def parse_time_to_24h(time_str):
     if not time_str:
         return None, None
     
-    # Normalize common variations
-    time_str = time_str.replace('nn', ' PM').replace('am', ' AM').replace('pm', ' PM').strip().upper()
+    # Normalize common variations: replace 'NN' (from abante.txt) with 'PM'
+    time_str = time_str.strip().upper().replace('NN', 'PM')
 
     try:
-        # Use strptime to handle AM/PM conversion
+        # Try I:MM AM/PM format
         dt = datetime.strptime(time_str, '%I:%M %p')
         return dt.hour, dt.minute
     except ValueError:
         try:
-            # Handle times without space (e.g., '12:00PM')
+            # Try I:MMAM/PM format (no space)
             dt = datetime.strptime(time_str, '%I:%M%p')
             return dt.hour, dt.minute
         except ValueError:
-            print(f"Warning: Could not parse time string: '{time_str}'. Skipping program.")
             return None, None
 
 def parse_schedule_file(filepath, channel_id):
@@ -53,16 +56,18 @@ def parse_schedule_file(filepath, channel_id):
     programs = []
     current_day = None
     
-    # Regex to capture time and title: TIME - TITLE (handles varying separators and whitespace)
-    # The time group captures the 12-hour string (e.g., '10:30 AM', '12:00pm')
-    program_line_re = re.compile(r'^\s*(\d{1,2}:\d{2}\s*(?:AM|PM|am|pm|nn))\s*[-–]\s*(.*)\s*$', re.I) 
+    # Reworked Regex:
+    # 1. Capture Time: (\d{1,2}:\d{2}\s*(?:AM|PM|am|pm|nn)) - Allows 1 or 2 digits for hour, 2 for minute, optional space, and AM/PM/am/pm/nn (case-insensitive due to re.I)
+    # 2. Capture Separator: \s*[-–\s]+\s* - Allows zero or more spaces, one or more hyphens, en-dashes, em-dashes, or spaces, followed by zero or more spaces. This is much more flexible.
+    # 3. Capture Title: (.*)
+    program_line_re = re.compile(r'^\s*(\d{1,2}:\d{2}\s*(?:AM|PM|am|pm|nn))\s*[-–\s]+\s*(.*)\s*$', re.I) 
     
-    # Specific regex for 'lighttv.txt' which uses multiple spaces instead of a dash
     lighttv_program_line_re = re.compile(r'^\s*(\d{1,2}:\d{2}\s*(?:AM|PM|am|pm))\s{2,}(.*)\s*$', re.I) 
 
     with open(filepath, 'r', encoding='utf-8') as f:
-        for line in f:
-            line = line.strip()
+        for line_num, line in enumerate(f, 1):
+            original_line = line.strip()
+            line = original_line.strip()
             if not line:
                 continue
 
@@ -75,13 +80,14 @@ def parse_schedule_file(filepath, channel_id):
             if not current_day:
                 continue
             
-            # --- Try to parse the program line based on filename heuristics ---
             match = None
-            if 'lighttv.txt' in filepath.lower():
+            
+            # 1. Try the general robust regex first
+            match = program_line_re.match(line)
+            
+            # 2. If general fails, try the specific lighttv regex (only if lighttv is relevant)
+            if not match and 'lighttv.txt' in filepath.lower():
                  match = lighttv_program_line_re.match(line)
-            else:
-                 # Standard regex for most files
-                 match = program_line_re.match(line)
                  
             if match:
                 time_str, title = match.groups()
@@ -94,6 +100,10 @@ def parse_schedule_file(filepath, channel_id):
                         'title': title,
                         'channel_id': channel_id
                     })
+            else:
+                 # LOGGING: Print lines that failed to match for easy debugging
+                 print(f"FAILED TO PARSE | File: {filepath} | Line {line_num}: '{original_line}'")
+
 
     # Pre-parse time for sorting and then sort by day index, hour, and minute
     parsed_programs = []
@@ -105,6 +115,7 @@ def parse_schedule_file(filepath, channel_id):
              p['day_index'] = DAYS_OF_WEEK[p['day']]
              parsed_programs.append(p)
              
+    # Sort: ensures programs are chronological within each day
     parsed_programs.sort(key=lambda x: (x['day_index'], x['hour'], x['minute']))
     
     # Remove temporary sorting keys before returning
@@ -138,14 +149,15 @@ def generate_xmltv(all_programs):
     for p in all_programs:
         programs_by_channel.setdefault(p['channel_id'], []).append(p)
 
-    # We generate a full 7-day schedule for each channel
+    # We generate a full schedule for each channel
     today = datetime.now().date()
     
     for chan_id, programs_data in programs_by_channel.items():
         
-        # Create a list of all program instances over the 7-day period
+        # Create a list of all program instances over the EPG_SCHEDULE_DAYS period
         dated_programs = []
-        for i in range(7): # Generate 7 days of schedule
+        # --- MODIFICATION HERE: Changed range(7) to range(EPG_SCHEDULE_DAYS) ---
+        for i in range(EPG_SCHEDULE_DAYS): 
             current_date = today + timedelta(days=i)
             current_day_name = current_date.strftime('%A').upper()
             
@@ -174,8 +186,7 @@ def generate_xmltv(all_programs):
             if i + 1 < len(dated_programs):
                 stop_dt = dated_programs[i+1]['start_dt']
             else:
-                # If it's the very last program in the 7-day window, assume a 1-hour duration.
-                # This is a fallback and can be adjusted if program durations are known.
+                # If it's the very last program in the window, assume a 1-hour duration.
                 stop_dt = start_dt + timedelta(hours=1)
 
 
@@ -235,7 +246,7 @@ def main():
     with open(output_filename, 'w', encoding='utf-8') as f:
         f.write(xmltv_content)
         
-    print(f"\nSuccessfully generated {output_filename} containing {len(all_programs)} base program entries over 7 days.")
+    print(f"\nSuccessfully generated {output_filename} containing {len(all_programs)} base program entries over {EPG_SCHEDULE_DAYS} days.")
 
 if __name__ == '__main__':
     main()
