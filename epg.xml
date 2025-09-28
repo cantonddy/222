@@ -13732,16 +13732,24 @@
     <desc lang="en">Sign Off</desc>
   </programme>
   <programme start="20250928040000 +0800" stop="20250928080000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
-  <programme start="20250928080000 +0800" stop="20250928090000 +0800" channel="abante.ph">
+  <programme start="20250928080000 +0800" stop="20250928083000 +0800" channel="abante.ph">
     <title lang="en">Showbiz Overtime!</title>
     <desc lang="en">Showbiz Overtime!</desc>
   </programme>
-  <programme start="20250928090000 +0800" stop="20250928140000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20250928083000 +0800" stop="20250928100000 +0800" channel="abante.ph">
+    <title lang="en">Abantech at Negosyo</title>
+    <desc lang="en">Abantech at Negosyo</desc>
+  </programme>
+  <programme start="20250928100000 +0800" stop="20250928120000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20250928120000 +0800" stop="20250928140000 +0800" channel="abante.ph">
+    <title lang="en">Abante sa Tanghali</title>
+    <desc lang="en">Abante sa Tanghali</desc>
   </programme>
   <programme start="20250928140000 +0800" stop="20250928150000 +0800" channel="abante.ph">
     <title lang="en">Showbiz Pulis</title>
@@ -13752,8 +13760,8 @@
     <desc lang="en">Abante Radyo Balita Buong Bansa</desc>
   </programme>
   <programme start="20250928153000 +0800" stop="20250928163000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20250928163000 +0800" stop="20250928180000 +0800" channel="abante.ph">
     <title lang="en">Anything Goes</title>
@@ -13764,16 +13772,16 @@
     <desc lang="en">Agenda Weekend</desc>
   </programme>
   <programme start="20250928193000 +0800" stop="20250928210000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20250928210000 +0800" stop="20250928220000 +0800" channel="abante.ph">
     <title lang="en">Abanteliling</title>
     <desc lang="en">Abanteliling</desc>
   </programme>
   <programme start="20250928220000 +0800" stop="20250929000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20250929000000 +0800" stop="20250929040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -13787,25 +13795,25 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20250929070000 +0800" stop="20250929090000 +0800" channel="abante.ph">
+  <programme start="20250929070000 +0800" stop="20250929080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20250929080000 +0800" stop="20250929090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20250929090000 +0800" stop="20250929103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20250929103000 +0800" stop="20250929120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20250929120000 +0800" stop="20250929123000 +0800" channel="abante.ph">
+  <programme start="20250929120000 +0800" stop="20250929130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
-  </programme>
-  <programme start="20250929123000 +0800" stop="20250929130000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
   </programme>
   <programme start="20250929130000 +0800" stop="20250929140000 +0800" channel="abante.ph">
     <title lang="en">Sportalakan</title>
@@ -13815,29 +13823,37 @@
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20250929150000 +0800" stop="20250929180000 +0800" channel="abante.ph">
+  <programme start="20250929150000 +0800" stop="20250929160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20250929160000 +0800" stop="20250929170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20250929170000 +0800" stop="20250929180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20250929180000 +0800" stop="20250929193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
     <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20250929193000 +0800" stop="20250929200000 +0800" channel="abante.ph">
+  <programme start="20250929193000 +0800" stop="20250929203000 +0800" channel="abante.ph">
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20250929200000 +0800" stop="20250929210000 +0800" channel="abante.ph">
+  <programme start="20250929203000 +0800" stop="20250929213000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20250929210000 +0800" stop="20250929220000 +0800" channel="abante.ph">
+  <programme start="20250929213000 +0800" stop="20250929223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20250929220000 +0800" stop="20250930000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20250929223000 +0800" stop="20250930000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20250930000000 +0800" stop="20250930040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -13851,37 +13867,45 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20250930070000 +0800" stop="20250930090000 +0800" channel="abante.ph">
+  <programme start="20250930070000 +0800" stop="20250930080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20250930080000 +0800" stop="20250930090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20250930090000 +0800" stop="20250930103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20250930103000 +0800" stop="20250930120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20250930120000 +0800" stop="20250930123000 +0800" channel="abante.ph">
+  <programme start="20250930120000 +0800" stop="20250930130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20250930123000 +0800" stop="20250930130000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
-  </programme>
   <programme start="20250930130000 +0800" stop="20250930140000 +0800" channel="abante.ph">
-    <title lang="en">Serbisyo Publiko sa Abante Radyo</title>
-    <desc lang="en">Serbisyo Publiko sa Abante Radyo</desc>
+    <title lang="en">Sportalakan</title>
+    <desc lang="en">Sportalakan</desc>
   </programme>
   <programme start="20250930140000 +0800" stop="20250930150000 +0800" channel="abante.ph">
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20250930150000 +0800" stop="20250930180000 +0800" channel="abante.ph">
+  <programme start="20250930150000 +0800" stop="20250930160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20250930160000 +0800" stop="20250930170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20250930170000 +0800" stop="20250930180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20250930180000 +0800" stop="20250930193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
@@ -13891,17 +13915,17 @@
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20250930203000 +0800" stop="20250930210000 +0800" channel="abante.ph">
-    <title lang="en">Marisol Academy Tonite</title>
-    <desc lang="en">Marisol Academy Tonite</desc>
+  <programme start="20250930203000 +0800" stop="20250930213000 +0800" channel="abante.ph">
+    <title lang="en">Jigo Live</title>
+    <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20250930210000 +0800" stop="20250930220000 +0800" channel="abante.ph">
+  <programme start="20250930213000 +0800" stop="20250930223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20250930220000 +0800" stop="20251001000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20250930223000 +0800" stop="20251001000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251001000000 +0800" stop="20251001040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -13915,53 +13939,65 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251001070000 +0800" stop="20251001090000 +0800" channel="abante.ph">
+  <programme start="20251001070000 +0800" stop="20251001080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251001080000 +0800" stop="20251001090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251001090000 +0800" stop="20251001103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251001103000 +0800" stop="20251001120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251001120000 +0800" stop="20251001123000 +0800" channel="abante.ph">
+  <programme start="20251001120000 +0800" stop="20251001130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20251001123000 +0800" stop="20251001140000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
+  <programme start="20251001130000 +0800" stop="20251001140000 +0800" channel="abante.ph">
+    <title lang="en">Sportalakan</title>
+    <desc lang="en">Sportalakan</desc>
   </programme>
   <programme start="20251001140000 +0800" stop="20251001150000 +0800" channel="abante.ph">
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251001150000 +0800" stop="20251001180000 +0800" channel="abante.ph">
+  <programme start="20251001150000 +0800" stop="20251001160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251001160000 +0800" stop="20251001170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251001170000 +0800" stop="20251001180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251001180000 +0800" stop="20251001193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
     <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20251001193000 +0800" stop="20251001200000 +0800" channel="abante.ph">
+  <programme start="20251001193000 +0800" stop="20251001203000 +0800" channel="abante.ph">
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251001200000 +0800" stop="20251001210000 +0800" channel="abante.ph">
+  <programme start="20251001203000 +0800" stop="20251001213000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251001210000 +0800" stop="20251001220000 +0800" channel="abante.ph">
+  <programme start="20251001213000 +0800" stop="20251001223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251001220000 +0800" stop="20251002000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251001223000 +0800" stop="20251002000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251002000000 +0800" stop="20251002040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -13975,25 +14011,25 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251002070000 +0800" stop="20251002090000 +0800" channel="abante.ph">
+  <programme start="20251002070000 +0800" stop="20251002080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251002080000 +0800" stop="20251002090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251002090000 +0800" stop="20251002103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251002103000 +0800" stop="20251002120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251002120000 +0800" stop="20251002123000 +0800" channel="abante.ph">
+  <programme start="20251002120000 +0800" stop="20251002130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
-  </programme>
-  <programme start="20251002123000 +0800" stop="20251002130000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
   </programme>
   <programme start="20251002130000 +0800" stop="20251002140000 +0800" channel="abante.ph">
     <title lang="en">Sportalakan</title>
@@ -14003,9 +14039,17 @@
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251002150000 +0800" stop="20251002180000 +0800" channel="abante.ph">
+  <programme start="20251002150000 +0800" stop="20251002160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251002160000 +0800" stop="20251002170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251002170000 +0800" stop="20251002180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251002180000 +0800" stop="20251002193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
@@ -14015,17 +14059,17 @@
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251002203000 +0800" stop="20251002210000 +0800" channel="abante.ph">
-    <title lang="en">Marisol Academy Tonite</title>
-    <desc lang="en">Marisol Academy Tonite</desc>
+  <programme start="20251002203000 +0800" stop="20251002213000 +0800" channel="abante.ph">
+    <title lang="en">Jigo Live</title>
+    <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251002210000 +0800" stop="20251002220000 +0800" channel="abante.ph">
+  <programme start="20251002213000 +0800" stop="20251002223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251002220000 +0800" stop="20251003000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251002223000 +0800" stop="20251003000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251003000000 +0800" stop="20251003040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14039,53 +14083,65 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251003070000 +0800" stop="20251003090000 +0800" channel="abante.ph">
+  <programme start="20251003070000 +0800" stop="20251003080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251003080000 +0800" stop="20251003090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251003090000 +0800" stop="20251003103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251003103000 +0800" stop="20251003120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251003120000 +0800" stop="20251003123000 +0800" channel="abante.ph">
+  <programme start="20251003120000 +0800" stop="20251003130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20251003123000 +0800" stop="20251003140000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
+  <programme start="20251003130000 +0800" stop="20251003140000 +0800" channel="abante.ph">
+    <title lang="en">Sportalakan</title>
+    <desc lang="en">Sportalakan</desc>
   </programme>
   <programme start="20251003140000 +0800" stop="20251003150000 +0800" channel="abante.ph">
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251003150000 +0800" stop="20251003180000 +0800" channel="abante.ph">
+  <programme start="20251003150000 +0800" stop="20251003160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251003160000 +0800" stop="20251003170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251003170000 +0800" stop="20251003180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251003180000 +0800" stop="20251003193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
     <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20251003193000 +0800" stop="20251003200000 +0800" channel="abante.ph">
+  <programme start="20251003193000 +0800" stop="20251003203000 +0800" channel="abante.ph">
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251003200000 +0800" stop="20251003210000 +0800" channel="abante.ph">
+  <programme start="20251003203000 +0800" stop="20251003213000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251003210000 +0800" stop="20251003220000 +0800" channel="abante.ph">
+  <programme start="20251003213000 +0800" stop="20251003223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251003220000 +0800" stop="20251004000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251003223000 +0800" stop="20251004000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251004000000 +0800" stop="20251004040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14100,20 +14156,24 @@
     <desc lang="en">Abante Pilipinas</desc>
   </programme>
   <programme start="20251004070000 +0800" stop="20251004080000 +0800" channel="abante.ph">
-    <title lang="en">Abante sa Umaga</title>
-    <desc lang="en">Abante sa Umaga</desc>
+    <title lang="en">Abante sa Umaga Weekend</title>
+    <desc lang="en">Abante sa Umaga Weekend</desc>
   </programme>
   <programme start="20251004080000 +0800" stop="20251004090000 +0800" channel="abante.ph">
-    <title lang="en">Parekoy</title>
-    <desc lang="en">Parekoy</desc>
+    <title lang="en">Point of Order</title>
+    <desc lang="en">Point of Order</desc>
   </programme>
   <programme start="20251004090000 +0800" stop="20251004100000 +0800" channel="abante.ph">
-    <title lang="en">Kasangga mo ang Langit</title>
-    <desc lang="en">Kasangga mo ang Langit</desc>
+    <title lang="en">Cong Radyo</title>
+    <desc lang="en">Cong Radyo</desc>
   </programme>
-  <programme start="20251004100000 +0800" stop="20251004120000 +0800" channel="abante.ph">
-    <title lang="en">Saktong Tapatan</title>
-    <desc lang="en">Saktong Tapatan</desc>
+  <programme start="20251004100000 +0800" stop="20251004110000 +0800" channel="abante.ph">
+    <title lang="en">Tulong Abante</title>
+    <desc lang="en">Tulong Abante</desc>
+  </programme>
+  <programme start="20251004110000 +0800" stop="20251004120000 +0800" channel="abante.ph">
+    <title lang="en">Abante sa Tanghali</title>
+    <desc lang="en">Abante sa Tanghali</desc>
   </programme>
   <programme start="20251004120000 +0800" stop="20251004130000 +0800" channel="abante.ph">
     <title lang="en">OOTD</title>
@@ -14148,24 +14208,32 @@
     <desc lang="en">Roadside</desc>
   </programme>
   <programme start="20251004223000 +0800" stop="20251005000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251005000000 +0800" stop="20251005040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
     <desc lang="en">Sign Off</desc>
   </programme>
   <programme start="20251005040000 +0800" stop="20251005080000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
-  <programme start="20251005080000 +0800" stop="20251005090000 +0800" channel="abante.ph">
+  <programme start="20251005080000 +0800" stop="20251005083000 +0800" channel="abante.ph">
     <title lang="en">Showbiz Overtime!</title>
     <desc lang="en">Showbiz Overtime!</desc>
   </programme>
-  <programme start="20251005090000 +0800" stop="20251005140000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251005083000 +0800" stop="20251005100000 +0800" channel="abante.ph">
+    <title lang="en">Abantech at Negosyo</title>
+    <desc lang="en">Abantech at Negosyo</desc>
+  </programme>
+  <programme start="20251005100000 +0800" stop="20251005120000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251005120000 +0800" stop="20251005140000 +0800" channel="abante.ph">
+    <title lang="en">Abante sa Tanghali</title>
+    <desc lang="en">Abante sa Tanghali</desc>
   </programme>
   <programme start="20251005140000 +0800" stop="20251005150000 +0800" channel="abante.ph">
     <title lang="en">Showbiz Pulis</title>
@@ -14176,8 +14244,8 @@
     <desc lang="en">Abante Radyo Balita Buong Bansa</desc>
   </programme>
   <programme start="20251005153000 +0800" stop="20251005163000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251005163000 +0800" stop="20251005180000 +0800" channel="abante.ph">
     <title lang="en">Anything Goes</title>
@@ -14188,16 +14256,16 @@
     <desc lang="en">Agenda Weekend</desc>
   </programme>
   <programme start="20251005193000 +0800" stop="20251005210000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251005210000 +0800" stop="20251005220000 +0800" channel="abante.ph">
     <title lang="en">Abanteliling</title>
     <desc lang="en">Abanteliling</desc>
   </programme>
   <programme start="20251005220000 +0800" stop="20251006000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251006000000 +0800" stop="20251006040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14211,25 +14279,25 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251006070000 +0800" stop="20251006090000 +0800" channel="abante.ph">
+  <programme start="20251006070000 +0800" stop="20251006080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251006080000 +0800" stop="20251006090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251006090000 +0800" stop="20251006103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251006103000 +0800" stop="20251006120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251006120000 +0800" stop="20251006123000 +0800" channel="abante.ph">
+  <programme start="20251006120000 +0800" stop="20251006130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
-  </programme>
-  <programme start="20251006123000 +0800" stop="20251006130000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
   </programme>
   <programme start="20251006130000 +0800" stop="20251006140000 +0800" channel="abante.ph">
     <title lang="en">Sportalakan</title>
@@ -14239,29 +14307,37 @@
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251006150000 +0800" stop="20251006180000 +0800" channel="abante.ph">
+  <programme start="20251006150000 +0800" stop="20251006160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251006160000 +0800" stop="20251006170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251006170000 +0800" stop="20251006180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251006180000 +0800" stop="20251006193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
     <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20251006193000 +0800" stop="20251006200000 +0800" channel="abante.ph">
+  <programme start="20251006193000 +0800" stop="20251006203000 +0800" channel="abante.ph">
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251006200000 +0800" stop="20251006210000 +0800" channel="abante.ph">
+  <programme start="20251006203000 +0800" stop="20251006213000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251006210000 +0800" stop="20251006220000 +0800" channel="abante.ph">
+  <programme start="20251006213000 +0800" stop="20251006223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251006220000 +0800" stop="20251007000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251006223000 +0800" stop="20251007000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251007000000 +0800" stop="20251007040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14275,37 +14351,45 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251007070000 +0800" stop="20251007090000 +0800" channel="abante.ph">
+  <programme start="20251007070000 +0800" stop="20251007080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251007080000 +0800" stop="20251007090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251007090000 +0800" stop="20251007103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251007103000 +0800" stop="20251007120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251007120000 +0800" stop="20251007123000 +0800" channel="abante.ph">
+  <programme start="20251007120000 +0800" stop="20251007130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20251007123000 +0800" stop="20251007130000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
-  </programme>
   <programme start="20251007130000 +0800" stop="20251007140000 +0800" channel="abante.ph">
-    <title lang="en">Serbisyo Publiko sa Abante Radyo</title>
-    <desc lang="en">Serbisyo Publiko sa Abante Radyo</desc>
+    <title lang="en">Sportalakan</title>
+    <desc lang="en">Sportalakan</desc>
   </programme>
   <programme start="20251007140000 +0800" stop="20251007150000 +0800" channel="abante.ph">
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251007150000 +0800" stop="20251007180000 +0800" channel="abante.ph">
+  <programme start="20251007150000 +0800" stop="20251007160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251007160000 +0800" stop="20251007170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251007170000 +0800" stop="20251007180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251007180000 +0800" stop="20251007193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
@@ -14315,17 +14399,17 @@
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251007203000 +0800" stop="20251007210000 +0800" channel="abante.ph">
-    <title lang="en">Marisol Academy Tonite</title>
-    <desc lang="en">Marisol Academy Tonite</desc>
+  <programme start="20251007203000 +0800" stop="20251007213000 +0800" channel="abante.ph">
+    <title lang="en">Jigo Live</title>
+    <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251007210000 +0800" stop="20251007220000 +0800" channel="abante.ph">
+  <programme start="20251007213000 +0800" stop="20251007223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251007220000 +0800" stop="20251008000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251007223000 +0800" stop="20251008000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251008000000 +0800" stop="20251008040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14339,53 +14423,65 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251008070000 +0800" stop="20251008090000 +0800" channel="abante.ph">
+  <programme start="20251008070000 +0800" stop="20251008080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251008080000 +0800" stop="20251008090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251008090000 +0800" stop="20251008103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251008103000 +0800" stop="20251008120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251008120000 +0800" stop="20251008123000 +0800" channel="abante.ph">
+  <programme start="20251008120000 +0800" stop="20251008130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20251008123000 +0800" stop="20251008140000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
+  <programme start="20251008130000 +0800" stop="20251008140000 +0800" channel="abante.ph">
+    <title lang="en">Sportalakan</title>
+    <desc lang="en">Sportalakan</desc>
   </programme>
   <programme start="20251008140000 +0800" stop="20251008150000 +0800" channel="abante.ph">
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251008150000 +0800" stop="20251008180000 +0800" channel="abante.ph">
+  <programme start="20251008150000 +0800" stop="20251008160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251008160000 +0800" stop="20251008170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251008170000 +0800" stop="20251008180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251008180000 +0800" stop="20251008193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
     <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20251008193000 +0800" stop="20251008200000 +0800" channel="abante.ph">
+  <programme start="20251008193000 +0800" stop="20251008203000 +0800" channel="abante.ph">
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251008200000 +0800" stop="20251008210000 +0800" channel="abante.ph">
+  <programme start="20251008203000 +0800" stop="20251008213000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251008210000 +0800" stop="20251008220000 +0800" channel="abante.ph">
+  <programme start="20251008213000 +0800" stop="20251008223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251008220000 +0800" stop="20251009000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251008223000 +0800" stop="20251009000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251009000000 +0800" stop="20251009040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14399,25 +14495,25 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251009070000 +0800" stop="20251009090000 +0800" channel="abante.ph">
+  <programme start="20251009070000 +0800" stop="20251009080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251009080000 +0800" stop="20251009090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251009090000 +0800" stop="20251009103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251009103000 +0800" stop="20251009120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251009120000 +0800" stop="20251009123000 +0800" channel="abante.ph">
+  <programme start="20251009120000 +0800" stop="20251009130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
-  </programme>
-  <programme start="20251009123000 +0800" stop="20251009130000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
   </programme>
   <programme start="20251009130000 +0800" stop="20251009140000 +0800" channel="abante.ph">
     <title lang="en">Sportalakan</title>
@@ -14427,9 +14523,17 @@
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251009150000 +0800" stop="20251009180000 +0800" channel="abante.ph">
+  <programme start="20251009150000 +0800" stop="20251009160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251009160000 +0800" stop="20251009170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251009170000 +0800" stop="20251009180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251009180000 +0800" stop="20251009193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
@@ -14439,17 +14543,17 @@
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251009203000 +0800" stop="20251009210000 +0800" channel="abante.ph">
-    <title lang="en">Marisol Academy Tonite</title>
-    <desc lang="en">Marisol Academy Tonite</desc>
+  <programme start="20251009203000 +0800" stop="20251009213000 +0800" channel="abante.ph">
+    <title lang="en">Jigo Live</title>
+    <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251009210000 +0800" stop="20251009220000 +0800" channel="abante.ph">
+  <programme start="20251009213000 +0800" stop="20251009223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251009220000 +0800" stop="20251010000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251009223000 +0800" stop="20251010000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251010000000 +0800" stop="20251010040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14463,53 +14567,65 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251010070000 +0800" stop="20251010090000 +0800" channel="abante.ph">
+  <programme start="20251010070000 +0800" stop="20251010080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251010080000 +0800" stop="20251010090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251010090000 +0800" stop="20251010103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251010103000 +0800" stop="20251010120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251010120000 +0800" stop="20251010123000 +0800" channel="abante.ph">
+  <programme start="20251010120000 +0800" stop="20251010130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20251010123000 +0800" stop="20251010140000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
+  <programme start="20251010130000 +0800" stop="20251010140000 +0800" channel="abante.ph">
+    <title lang="en">Sportalakan</title>
+    <desc lang="en">Sportalakan</desc>
   </programme>
   <programme start="20251010140000 +0800" stop="20251010150000 +0800" channel="abante.ph">
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251010150000 +0800" stop="20251010180000 +0800" channel="abante.ph">
+  <programme start="20251010150000 +0800" stop="20251010160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251010160000 +0800" stop="20251010170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251010170000 +0800" stop="20251010180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251010180000 +0800" stop="20251010193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
     <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20251010193000 +0800" stop="20251010200000 +0800" channel="abante.ph">
+  <programme start="20251010193000 +0800" stop="20251010203000 +0800" channel="abante.ph">
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251010200000 +0800" stop="20251010210000 +0800" channel="abante.ph">
+  <programme start="20251010203000 +0800" stop="20251010213000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251010210000 +0800" stop="20251010220000 +0800" channel="abante.ph">
+  <programme start="20251010213000 +0800" stop="20251010223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251010220000 +0800" stop="20251011000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251010223000 +0800" stop="20251011000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251011000000 +0800" stop="20251011040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14524,20 +14640,24 @@
     <desc lang="en">Abante Pilipinas</desc>
   </programme>
   <programme start="20251011070000 +0800" stop="20251011080000 +0800" channel="abante.ph">
-    <title lang="en">Abante sa Umaga</title>
-    <desc lang="en">Abante sa Umaga</desc>
+    <title lang="en">Abante sa Umaga Weekend</title>
+    <desc lang="en">Abante sa Umaga Weekend</desc>
   </programme>
   <programme start="20251011080000 +0800" stop="20251011090000 +0800" channel="abante.ph">
-    <title lang="en">Parekoy</title>
-    <desc lang="en">Parekoy</desc>
+    <title lang="en">Point of Order</title>
+    <desc lang="en">Point of Order</desc>
   </programme>
   <programme start="20251011090000 +0800" stop="20251011100000 +0800" channel="abante.ph">
-    <title lang="en">Kasangga mo ang Langit</title>
-    <desc lang="en">Kasangga mo ang Langit</desc>
+    <title lang="en">Cong Radyo</title>
+    <desc lang="en">Cong Radyo</desc>
   </programme>
-  <programme start="20251011100000 +0800" stop="20251011120000 +0800" channel="abante.ph">
-    <title lang="en">Saktong Tapatan</title>
-    <desc lang="en">Saktong Tapatan</desc>
+  <programme start="20251011100000 +0800" stop="20251011110000 +0800" channel="abante.ph">
+    <title lang="en">Tulong Abante</title>
+    <desc lang="en">Tulong Abante</desc>
+  </programme>
+  <programme start="20251011110000 +0800" stop="20251011120000 +0800" channel="abante.ph">
+    <title lang="en">Abante sa Tanghali</title>
+    <desc lang="en">Abante sa Tanghali</desc>
   </programme>
   <programme start="20251011120000 +0800" stop="20251011130000 +0800" channel="abante.ph">
     <title lang="en">OOTD</title>
@@ -14572,24 +14692,32 @@
     <desc lang="en">Roadside</desc>
   </programme>
   <programme start="20251011223000 +0800" stop="20251012000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251012000000 +0800" stop="20251012040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
     <desc lang="en">Sign Off</desc>
   </programme>
   <programme start="20251012040000 +0800" stop="20251012080000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
-  <programme start="20251012080000 +0800" stop="20251012090000 +0800" channel="abante.ph">
+  <programme start="20251012080000 +0800" stop="20251012083000 +0800" channel="abante.ph">
     <title lang="en">Showbiz Overtime!</title>
     <desc lang="en">Showbiz Overtime!</desc>
   </programme>
-  <programme start="20251012090000 +0800" stop="20251012140000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251012083000 +0800" stop="20251012100000 +0800" channel="abante.ph">
+    <title lang="en">Abantech at Negosyo</title>
+    <desc lang="en">Abantech at Negosyo</desc>
+  </programme>
+  <programme start="20251012100000 +0800" stop="20251012120000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251012120000 +0800" stop="20251012140000 +0800" channel="abante.ph">
+    <title lang="en">Abante sa Tanghali</title>
+    <desc lang="en">Abante sa Tanghali</desc>
   </programme>
   <programme start="20251012140000 +0800" stop="20251012150000 +0800" channel="abante.ph">
     <title lang="en">Showbiz Pulis</title>
@@ -14600,8 +14728,8 @@
     <desc lang="en">Abante Radyo Balita Buong Bansa</desc>
   </programme>
   <programme start="20251012153000 +0800" stop="20251012163000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251012163000 +0800" stop="20251012180000 +0800" channel="abante.ph">
     <title lang="en">Anything Goes</title>
@@ -14612,16 +14740,16 @@
     <desc lang="en">Agenda Weekend</desc>
   </programme>
   <programme start="20251012193000 +0800" stop="20251012210000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251012210000 +0800" stop="20251012220000 +0800" channel="abante.ph">
     <title lang="en">Abanteliling</title>
     <desc lang="en">Abanteliling</desc>
   </programme>
   <programme start="20251012220000 +0800" stop="20251013000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251013000000 +0800" stop="20251013040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14635,25 +14763,25 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251013070000 +0800" stop="20251013090000 +0800" channel="abante.ph">
+  <programme start="20251013070000 +0800" stop="20251013080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251013080000 +0800" stop="20251013090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251013090000 +0800" stop="20251013103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251013103000 +0800" stop="20251013120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251013120000 +0800" stop="20251013123000 +0800" channel="abante.ph">
+  <programme start="20251013120000 +0800" stop="20251013130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
-  </programme>
-  <programme start="20251013123000 +0800" stop="20251013130000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
   </programme>
   <programme start="20251013130000 +0800" stop="20251013140000 +0800" channel="abante.ph">
     <title lang="en">Sportalakan</title>
@@ -14663,29 +14791,37 @@
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251013150000 +0800" stop="20251013180000 +0800" channel="abante.ph">
+  <programme start="20251013150000 +0800" stop="20251013160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251013160000 +0800" stop="20251013170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251013170000 +0800" stop="20251013180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251013180000 +0800" stop="20251013193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
     <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20251013193000 +0800" stop="20251013200000 +0800" channel="abante.ph">
+  <programme start="20251013193000 +0800" stop="20251013203000 +0800" channel="abante.ph">
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251013200000 +0800" stop="20251013210000 +0800" channel="abante.ph">
+  <programme start="20251013203000 +0800" stop="20251013213000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251013210000 +0800" stop="20251013220000 +0800" channel="abante.ph">
+  <programme start="20251013213000 +0800" stop="20251013223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251013220000 +0800" stop="20251014000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251013223000 +0800" stop="20251014000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251014000000 +0800" stop="20251014040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14699,37 +14835,45 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251014070000 +0800" stop="20251014090000 +0800" channel="abante.ph">
+  <programme start="20251014070000 +0800" stop="20251014080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251014080000 +0800" stop="20251014090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251014090000 +0800" stop="20251014103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251014103000 +0800" stop="20251014120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251014120000 +0800" stop="20251014123000 +0800" channel="abante.ph">
+  <programme start="20251014120000 +0800" stop="20251014130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20251014123000 +0800" stop="20251014130000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
-  </programme>
   <programme start="20251014130000 +0800" stop="20251014140000 +0800" channel="abante.ph">
-    <title lang="en">Serbisyo Publiko sa Abante Radyo</title>
-    <desc lang="en">Serbisyo Publiko sa Abante Radyo</desc>
+    <title lang="en">Sportalakan</title>
+    <desc lang="en">Sportalakan</desc>
   </programme>
   <programme start="20251014140000 +0800" stop="20251014150000 +0800" channel="abante.ph">
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251014150000 +0800" stop="20251014180000 +0800" channel="abante.ph">
+  <programme start="20251014150000 +0800" stop="20251014160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251014160000 +0800" stop="20251014170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251014170000 +0800" stop="20251014180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251014180000 +0800" stop="20251014193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
@@ -14739,17 +14883,17 @@
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251014203000 +0800" stop="20251014210000 +0800" channel="abante.ph">
-    <title lang="en">Marisol Academy Tonite</title>
-    <desc lang="en">Marisol Academy Tonite</desc>
+  <programme start="20251014203000 +0800" stop="20251014213000 +0800" channel="abante.ph">
+    <title lang="en">Jigo Live</title>
+    <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251014210000 +0800" stop="20251014220000 +0800" channel="abante.ph">
+  <programme start="20251014213000 +0800" stop="20251014223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251014220000 +0800" stop="20251015000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251014223000 +0800" stop="20251015000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251015000000 +0800" stop="20251015040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14763,53 +14907,65 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251015070000 +0800" stop="20251015090000 +0800" channel="abante.ph">
+  <programme start="20251015070000 +0800" stop="20251015080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251015080000 +0800" stop="20251015090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251015090000 +0800" stop="20251015103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251015103000 +0800" stop="20251015120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251015120000 +0800" stop="20251015123000 +0800" channel="abante.ph">
+  <programme start="20251015120000 +0800" stop="20251015130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20251015123000 +0800" stop="20251015140000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
+  <programme start="20251015130000 +0800" stop="20251015140000 +0800" channel="abante.ph">
+    <title lang="en">Sportalakan</title>
+    <desc lang="en">Sportalakan</desc>
   </programme>
   <programme start="20251015140000 +0800" stop="20251015150000 +0800" channel="abante.ph">
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251015150000 +0800" stop="20251015180000 +0800" channel="abante.ph">
+  <programme start="20251015150000 +0800" stop="20251015160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251015160000 +0800" stop="20251015170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251015170000 +0800" stop="20251015180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251015180000 +0800" stop="20251015193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
     <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20251015193000 +0800" stop="20251015200000 +0800" channel="abante.ph">
+  <programme start="20251015193000 +0800" stop="20251015203000 +0800" channel="abante.ph">
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251015200000 +0800" stop="20251015210000 +0800" channel="abante.ph">
+  <programme start="20251015203000 +0800" stop="20251015213000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251015210000 +0800" stop="20251015220000 +0800" channel="abante.ph">
+  <programme start="20251015213000 +0800" stop="20251015223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251015220000 +0800" stop="20251016000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251015223000 +0800" stop="20251016000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251016000000 +0800" stop="20251016040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14823,25 +14979,25 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251016070000 +0800" stop="20251016090000 +0800" channel="abante.ph">
+  <programme start="20251016070000 +0800" stop="20251016080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251016080000 +0800" stop="20251016090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251016090000 +0800" stop="20251016103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251016103000 +0800" stop="20251016120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251016120000 +0800" stop="20251016123000 +0800" channel="abante.ph">
+  <programme start="20251016120000 +0800" stop="20251016130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
-  </programme>
-  <programme start="20251016123000 +0800" stop="20251016130000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
   </programme>
   <programme start="20251016130000 +0800" stop="20251016140000 +0800" channel="abante.ph">
     <title lang="en">Sportalakan</title>
@@ -14851,9 +15007,17 @@
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251016150000 +0800" stop="20251016180000 +0800" channel="abante.ph">
+  <programme start="20251016150000 +0800" stop="20251016160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251016160000 +0800" stop="20251016170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251016170000 +0800" stop="20251016180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251016180000 +0800" stop="20251016193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
@@ -14863,17 +15027,17 @@
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251016203000 +0800" stop="20251016210000 +0800" channel="abante.ph">
-    <title lang="en">Marisol Academy Tonite</title>
-    <desc lang="en">Marisol Academy Tonite</desc>
+  <programme start="20251016203000 +0800" stop="20251016213000 +0800" channel="abante.ph">
+    <title lang="en">Jigo Live</title>
+    <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251016210000 +0800" stop="20251016220000 +0800" channel="abante.ph">
+  <programme start="20251016213000 +0800" stop="20251016223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251016220000 +0800" stop="20251017000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251016223000 +0800" stop="20251017000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251017000000 +0800" stop="20251017040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14887,53 +15051,65 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251017070000 +0800" stop="20251017090000 +0800" channel="abante.ph">
+  <programme start="20251017070000 +0800" stop="20251017080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251017080000 +0800" stop="20251017090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251017090000 +0800" stop="20251017103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251017103000 +0800" stop="20251017120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251017120000 +0800" stop="20251017123000 +0800" channel="abante.ph">
+  <programme start="20251017120000 +0800" stop="20251017130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20251017123000 +0800" stop="20251017140000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
+  <programme start="20251017130000 +0800" stop="20251017140000 +0800" channel="abante.ph">
+    <title lang="en">Sportalakan</title>
+    <desc lang="en">Sportalakan</desc>
   </programme>
   <programme start="20251017140000 +0800" stop="20251017150000 +0800" channel="abante.ph">
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251017150000 +0800" stop="20251017180000 +0800" channel="abante.ph">
+  <programme start="20251017150000 +0800" stop="20251017160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251017160000 +0800" stop="20251017170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251017170000 +0800" stop="20251017180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251017180000 +0800" stop="20251017193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
     <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20251017193000 +0800" stop="20251017200000 +0800" channel="abante.ph">
+  <programme start="20251017193000 +0800" stop="20251017203000 +0800" channel="abante.ph">
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251017200000 +0800" stop="20251017210000 +0800" channel="abante.ph">
+  <programme start="20251017203000 +0800" stop="20251017213000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251017210000 +0800" stop="20251017220000 +0800" channel="abante.ph">
+  <programme start="20251017213000 +0800" stop="20251017223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251017220000 +0800" stop="20251018000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251017223000 +0800" stop="20251018000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251018000000 +0800" stop="20251018040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -14948,20 +15124,24 @@
     <desc lang="en">Abante Pilipinas</desc>
   </programme>
   <programme start="20251018070000 +0800" stop="20251018080000 +0800" channel="abante.ph">
-    <title lang="en">Abante sa Umaga</title>
-    <desc lang="en">Abante sa Umaga</desc>
+    <title lang="en">Abante sa Umaga Weekend</title>
+    <desc lang="en">Abante sa Umaga Weekend</desc>
   </programme>
   <programme start="20251018080000 +0800" stop="20251018090000 +0800" channel="abante.ph">
-    <title lang="en">Parekoy</title>
-    <desc lang="en">Parekoy</desc>
+    <title lang="en">Point of Order</title>
+    <desc lang="en">Point of Order</desc>
   </programme>
   <programme start="20251018090000 +0800" stop="20251018100000 +0800" channel="abante.ph">
-    <title lang="en">Kasangga mo ang Langit</title>
-    <desc lang="en">Kasangga mo ang Langit</desc>
+    <title lang="en">Cong Radyo</title>
+    <desc lang="en">Cong Radyo</desc>
   </programme>
-  <programme start="20251018100000 +0800" stop="20251018120000 +0800" channel="abante.ph">
-    <title lang="en">Saktong Tapatan</title>
-    <desc lang="en">Saktong Tapatan</desc>
+  <programme start="20251018100000 +0800" stop="20251018110000 +0800" channel="abante.ph">
+    <title lang="en">Tulong Abante</title>
+    <desc lang="en">Tulong Abante</desc>
+  </programme>
+  <programme start="20251018110000 +0800" stop="20251018120000 +0800" channel="abante.ph">
+    <title lang="en">Abante sa Tanghali</title>
+    <desc lang="en">Abante sa Tanghali</desc>
   </programme>
   <programme start="20251018120000 +0800" stop="20251018130000 +0800" channel="abante.ph">
     <title lang="en">OOTD</title>
@@ -14996,24 +15176,32 @@
     <desc lang="en">Roadside</desc>
   </programme>
   <programme start="20251018223000 +0800" stop="20251019000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251019000000 +0800" stop="20251019040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
     <desc lang="en">Sign Off</desc>
   </programme>
   <programme start="20251019040000 +0800" stop="20251019080000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
-  <programme start="20251019080000 +0800" stop="20251019090000 +0800" channel="abante.ph">
+  <programme start="20251019080000 +0800" stop="20251019083000 +0800" channel="abante.ph">
     <title lang="en">Showbiz Overtime!</title>
     <desc lang="en">Showbiz Overtime!</desc>
   </programme>
-  <programme start="20251019090000 +0800" stop="20251019140000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251019083000 +0800" stop="20251019100000 +0800" channel="abante.ph">
+    <title lang="en">Abantech at Negosyo</title>
+    <desc lang="en">Abantech at Negosyo</desc>
+  </programme>
+  <programme start="20251019100000 +0800" stop="20251019120000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251019120000 +0800" stop="20251019140000 +0800" channel="abante.ph">
+    <title lang="en">Abante sa Tanghali</title>
+    <desc lang="en">Abante sa Tanghali</desc>
   </programme>
   <programme start="20251019140000 +0800" stop="20251019150000 +0800" channel="abante.ph">
     <title lang="en">Showbiz Pulis</title>
@@ -15024,8 +15212,8 @@
     <desc lang="en">Abante Radyo Balita Buong Bansa</desc>
   </programme>
   <programme start="20251019153000 +0800" stop="20251019163000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251019163000 +0800" stop="20251019180000 +0800" channel="abante.ph">
     <title lang="en">Anything Goes</title>
@@ -15036,16 +15224,16 @@
     <desc lang="en">Agenda Weekend</desc>
   </programme>
   <programme start="20251019193000 +0800" stop="20251019210000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251019210000 +0800" stop="20251019220000 +0800" channel="abante.ph">
     <title lang="en">Abanteliling</title>
     <desc lang="en">Abanteliling</desc>
   </programme>
   <programme start="20251019220000 +0800" stop="20251020000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251020000000 +0800" stop="20251020040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -15059,25 +15247,25 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251020070000 +0800" stop="20251020090000 +0800" channel="abante.ph">
+  <programme start="20251020070000 +0800" stop="20251020080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251020080000 +0800" stop="20251020090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251020090000 +0800" stop="20251020103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251020103000 +0800" stop="20251020120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251020120000 +0800" stop="20251020123000 +0800" channel="abante.ph">
+  <programme start="20251020120000 +0800" stop="20251020130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
-  </programme>
-  <programme start="20251020123000 +0800" stop="20251020130000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
   </programme>
   <programme start="20251020130000 +0800" stop="20251020140000 +0800" channel="abante.ph">
     <title lang="en">Sportalakan</title>
@@ -15087,29 +15275,37 @@
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251020150000 +0800" stop="20251020180000 +0800" channel="abante.ph">
+  <programme start="20251020150000 +0800" stop="20251020160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251020160000 +0800" stop="20251020170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251020170000 +0800" stop="20251020180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251020180000 +0800" stop="20251020193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
     <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20251020193000 +0800" stop="20251020200000 +0800" channel="abante.ph">
+  <programme start="20251020193000 +0800" stop="20251020203000 +0800" channel="abante.ph">
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251020200000 +0800" stop="20251020210000 +0800" channel="abante.ph">
+  <programme start="20251020203000 +0800" stop="20251020213000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251020210000 +0800" stop="20251020220000 +0800" channel="abante.ph">
+  <programme start="20251020213000 +0800" stop="20251020223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251020220000 +0800" stop="20251021000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251020223000 +0800" stop="20251021000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251021000000 +0800" stop="20251021040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -15123,37 +15319,45 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251021070000 +0800" stop="20251021090000 +0800" channel="abante.ph">
+  <programme start="20251021070000 +0800" stop="20251021080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251021080000 +0800" stop="20251021090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251021090000 +0800" stop="20251021103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251021103000 +0800" stop="20251021120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021123000 +0800" channel="abante.ph">
+  <programme start="20251021120000 +0800" stop="20251021130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20251021123000 +0800" stop="20251021130000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
-  </programme>
   <programme start="20251021130000 +0800" stop="20251021140000 +0800" channel="abante.ph">
-    <title lang="en">Serbisyo Publiko sa Abante Radyo</title>
-    <desc lang="en">Serbisyo Publiko sa Abante Radyo</desc>
+    <title lang="en">Sportalakan</title>
+    <desc lang="en">Sportalakan</desc>
   </programme>
   <programme start="20251021140000 +0800" stop="20251021150000 +0800" channel="abante.ph">
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251021150000 +0800" stop="20251021180000 +0800" channel="abante.ph">
+  <programme start="20251021150000 +0800" stop="20251021160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251021160000 +0800" stop="20251021170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251021170000 +0800" stop="20251021180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251021180000 +0800" stop="20251021193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
@@ -15163,17 +15367,17 @@
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251021203000 +0800" stop="20251021210000 +0800" channel="abante.ph">
-    <title lang="en">Marisol Academy Tonite</title>
-    <desc lang="en">Marisol Academy Tonite</desc>
+  <programme start="20251021203000 +0800" stop="20251021213000 +0800" channel="abante.ph">
+    <title lang="en">Jigo Live</title>
+    <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251021210000 +0800" stop="20251021220000 +0800" channel="abante.ph">
+  <programme start="20251021213000 +0800" stop="20251021223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251021220000 +0800" stop="20251022000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251021223000 +0800" stop="20251022000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251022000000 +0800" stop="20251022040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -15187,53 +15391,65 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251022070000 +0800" stop="20251022090000 +0800" channel="abante.ph">
+  <programme start="20251022070000 +0800" stop="20251022080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251022080000 +0800" stop="20251022090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251022090000 +0800" stop="20251022103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251022103000 +0800" stop="20251022120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251022120000 +0800" stop="20251022123000 +0800" channel="abante.ph">
+  <programme start="20251022120000 +0800" stop="20251022130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20251022123000 +0800" stop="20251022140000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
+  <programme start="20251022130000 +0800" stop="20251022140000 +0800" channel="abante.ph">
+    <title lang="en">Sportalakan</title>
+    <desc lang="en">Sportalakan</desc>
   </programme>
   <programme start="20251022140000 +0800" stop="20251022150000 +0800" channel="abante.ph">
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251022150000 +0800" stop="20251022180000 +0800" channel="abante.ph">
+  <programme start="20251022150000 +0800" stop="20251022160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251022160000 +0800" stop="20251022170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251022170000 +0800" stop="20251022180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251022180000 +0800" stop="20251022193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
     <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20251022193000 +0800" stop="20251022200000 +0800" channel="abante.ph">
+  <programme start="20251022193000 +0800" stop="20251022203000 +0800" channel="abante.ph">
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251022200000 +0800" stop="20251022210000 +0800" channel="abante.ph">
+  <programme start="20251022203000 +0800" stop="20251022213000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251022210000 +0800" stop="20251022220000 +0800" channel="abante.ph">
+  <programme start="20251022213000 +0800" stop="20251022223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251022220000 +0800" stop="20251023000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251022223000 +0800" stop="20251023000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251023000000 +0800" stop="20251023040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -15247,25 +15463,25 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251023070000 +0800" stop="20251023090000 +0800" channel="abante.ph">
+  <programme start="20251023070000 +0800" stop="20251023080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251023080000 +0800" stop="20251023090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251023090000 +0800" stop="20251023103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251023103000 +0800" stop="20251023120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251023120000 +0800" stop="20251023123000 +0800" channel="abante.ph">
+  <programme start="20251023120000 +0800" stop="20251023130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
-  </programme>
-  <programme start="20251023123000 +0800" stop="20251023130000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
   </programme>
   <programme start="20251023130000 +0800" stop="20251023140000 +0800" channel="abante.ph">
     <title lang="en">Sportalakan</title>
@@ -15275,9 +15491,17 @@
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251023150000 +0800" stop="20251023180000 +0800" channel="abante.ph">
+  <programme start="20251023150000 +0800" stop="20251023160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251023160000 +0800" stop="20251023170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251023170000 +0800" stop="20251023180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251023180000 +0800" stop="20251023193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
@@ -15287,17 +15511,17 @@
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251023203000 +0800" stop="20251023210000 +0800" channel="abante.ph">
-    <title lang="en">Marisol Academy Tonite</title>
-    <desc lang="en">Marisol Academy Tonite</desc>
+  <programme start="20251023203000 +0800" stop="20251023213000 +0800" channel="abante.ph">
+    <title lang="en">Jigo Live</title>
+    <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251023210000 +0800" stop="20251023220000 +0800" channel="abante.ph">
+  <programme start="20251023213000 +0800" stop="20251023223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251023220000 +0800" stop="20251024000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251023223000 +0800" stop="20251024000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251024000000 +0800" stop="20251024040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -15311,53 +15535,65 @@
     <title lang="en">Walang Atrasan</title>
     <desc lang="en">Walang Atrasan</desc>
   </programme>
-  <programme start="20251024070000 +0800" stop="20251024090000 +0800" channel="abante.ph">
+  <programme start="20251024070000 +0800" stop="20251024080000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Umaga</title>
     <desc lang="en">Abante sa Umaga</desc>
+  </programme>
+  <programme start="20251024080000 +0800" stop="20251024090000 +0800" channel="abante.ph">
+    <title lang="en">Parekoy</title>
+    <desc lang="en">Parekoy</desc>
   </programme>
   <programme start="20251024090000 +0800" stop="20251024103000 +0800" channel="abante.ph">
     <title lang="en">Kasangga mo ang Langit</title>
     <desc lang="en">Kasangga mo ang Langit</desc>
   </programme>
   <programme start="20251024103000 +0800" stop="20251024120000 +0800" channel="abante.ph">
-    <title lang="en">Easy Lang</title>
-    <desc lang="en">Easy Lang</desc>
+    <title lang="en">Inbox</title>
+    <desc lang="en">Inbox</desc>
   </programme>
-  <programme start="20251024120000 +0800" stop="20251024123000 +0800" channel="abante.ph">
+  <programme start="20251024120000 +0800" stop="20251024130000 +0800" channel="abante.ph">
     <title lang="en">Abante sa Tanghali</title>
     <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20251024123000 +0800" stop="20251024140000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya</title>
-    <desc lang="en">Lusob Probinsya</desc>
+  <programme start="20251024130000 +0800" stop="20251024140000 +0800" channel="abante.ph">
+    <title lang="en">Sportalakan</title>
+    <desc lang="en">Sportalakan</desc>
   </programme>
   <programme start="20251024140000 +0800" stop="20251024150000 +0800" channel="abante.ph">
     <title lang="en">Ah Eh-Minin</title>
     <desc lang="en">Ah Eh-Minin</desc>
   </programme>
-  <programme start="20251024150000 +0800" stop="20251024180000 +0800" channel="abante.ph">
+  <programme start="20251024150000 +0800" stop="20251024160000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
+  </programme>
+  <programme start="20251024160000 +0800" stop="20251024170000 +0800" channel="abante.ph">
     <title lang="en">Marisol Academy</title>
     <desc lang="en">Marisol Academy</desc>
+  </programme>
+  <programme start="20251024170000 +0800" stop="20251024180000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251024180000 +0800" stop="20251024193000 +0800" channel="abante.ph">
     <title lang="en">Agenda</title>
     <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20251024193000 +0800" stop="20251024200000 +0800" channel="abante.ph">
+  <programme start="20251024193000 +0800" stop="20251024203000 +0800" channel="abante.ph">
     <title lang="en">Sports Now</title>
     <desc lang="en">Sports Now</desc>
   </programme>
-  <programme start="20251024200000 +0800" stop="20251024210000 +0800" channel="abante.ph">
+  <programme start="20251024203000 +0800" stop="20251024213000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
   </programme>
-  <programme start="20251024210000 +0800" stop="20251024220000 +0800" channel="abante.ph">
+  <programme start="20251024213000 +0800" stop="20251024223000 +0800" channel="abante.ph">
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251024220000 +0800" stop="20251025000000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+  <programme start="20251024223000 +0800" stop="20251025000000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251025000000 +0800" stop="20251025040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -15372,20 +15608,24 @@
     <desc lang="en">Abante Pilipinas</desc>
   </programme>
   <programme start="20251025070000 +0800" stop="20251025080000 +0800" channel="abante.ph">
-    <title lang="en">Abante sa Umaga</title>
-    <desc lang="en">Abante sa Umaga</desc>
+    <title lang="en">Abante sa Umaga Weekend</title>
+    <desc lang="en">Abante sa Umaga Weekend</desc>
   </programme>
   <programme start="20251025080000 +0800" stop="20251025090000 +0800" channel="abante.ph">
-    <title lang="en">Parekoy</title>
-    <desc lang="en">Parekoy</desc>
+    <title lang="en">Point of Order</title>
+    <desc lang="en">Point of Order</desc>
   </programme>
   <programme start="20251025090000 +0800" stop="20251025100000 +0800" channel="abante.ph">
-    <title lang="en">Kasangga mo ang Langit</title>
-    <desc lang="en">Kasangga mo ang Langit</desc>
+    <title lang="en">Cong Radyo</title>
+    <desc lang="en">Cong Radyo</desc>
   </programme>
-  <programme start="20251025100000 +0800" stop="20251025120000 +0800" channel="abante.ph">
-    <title lang="en">Saktong Tapatan</title>
-    <desc lang="en">Saktong Tapatan</desc>
+  <programme start="20251025100000 +0800" stop="20251025110000 +0800" channel="abante.ph">
+    <title lang="en">Tulong Abante</title>
+    <desc lang="en">Tulong Abante</desc>
+  </programme>
+  <programme start="20251025110000 +0800" stop="20251025120000 +0800" channel="abante.ph">
+    <title lang="en">Abante sa Tanghali</title>
+    <desc lang="en">Abante sa Tanghali</desc>
   </programme>
   <programme start="20251025120000 +0800" stop="20251025130000 +0800" channel="abante.ph">
     <title lang="en">OOTD</title>
@@ -15420,8 +15660,8 @@
     <desc lang="en">Roadside</desc>
   </programme>
   <programme start="20251025223000 +0800" stop="20251025233000 +0800" channel="abante.ph">
-    <title lang="en">Music</title>
-    <desc lang="en">Music</desc>
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20250928000000 +0800" stop="20250928060000 +0800" channel="aliwchannel.ph">
     <title lang="en">Sign OFF</title>
