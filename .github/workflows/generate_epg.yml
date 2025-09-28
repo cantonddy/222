@@ -10,6 +10,13 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    
+    # ----------------------------------------------------
+    # FIX: Add permissions to allow the bot to write/commit files
+    # ----------------------------------------------------
+    permissions:
+      contents: write 
+
     steps:
     
     - name: Checkout repository
