@@ -19,6 +19,9 @@
   <channel id="hboboxing.us">
     <display-name lang="en">HBOBOXING</display-name>
   </channel>
+  <channel id="heartofasia.ph">
+    <display-name lang="en">HEARTOFASIA</display-name>
+  </channel>
   <channel id="iheartmovies.ph">
     <display-name lang="en">IHEARTMOVIES</display-name>
   </channel>
@@ -1147,6 +1150,2246 @@
   <programme start="20251025220000 +0800" stop="20251025230000 +0800" channel="iheartmovies.ph">
     <title lang="en">Takliya Throwback</title>
     <desc lang="en">Takliya Throwback</desc>
+  </programme>
+  <programme start="20250928000000 +0800" stop="20250928060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20250928060000 +0800" stop="20250928080000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250928080000 +0800" stop="20250928100000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20250928100000 +0800" stop="20250928120000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250928120000 +0800" stop="20250928140000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250928140000 +0800" stop="20250928150000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250928150000 +0800" stop="20250928170000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250928170000 +0800" stop="20250928173000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250928173000 +0800" stop="20250928180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250928180000 +0800" stop="20250928200000 +0800" channel="heartofasia.ph">
+    <title lang="en">FEEL NA FILMS</title>
+    <desc lang="en">FEEL NA FILMS</desc>
+  </programme>
+  <programme start="20250928200000 +0800" stop="20250928220000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASIAN CINEMIX</title>
+    <desc lang="en">ASIAN CINEMIX</desc>
+  </programme>
+  <programme start="20250928220000 +0800" stop="20250929000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250929000000 +0800" stop="20250929060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20250929060000 +0800" stop="20250929064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250929064500 +0800" stop="20250929073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250929073000 +0800" stop="20250929081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250929081500 +0800" stop="20250929090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250929090000 +0800" stop="20250929094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250929094500 +0800" stop="20250929103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250929103000 +0800" stop="20250929111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250929111500 +0800" stop="20250929120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250929120000 +0800" stop="20250929124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250929124500 +0800" stop="20250929133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250929133000 +0800" stop="20250929141500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250929141500 +0800" stop="20250929150000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250929150000 +0800" stop="20250929153000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20250929153000 +0800" stop="20250929163000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20250929163000 +0800" stop="20250929171500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250929171500 +0800" stop="20250929180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250929180000 +0800" stop="20250929184500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250929184500 +0800" stop="20250929193000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250929193000 +0800" stop="20250929201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250929201500 +0800" stop="20250929210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250929210000 +0800" stop="20250929214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250929214500 +0800" stop="20250929223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250929223000 +0800" stop="20250929231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250929231500 +0800" stop="20250930000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250930000000 +0800" stop="20250930060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20250930060000 +0800" stop="20250930064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250930064500 +0800" stop="20250930073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250930073000 +0800" stop="20250930081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250930081500 +0800" stop="20250930090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250930090000 +0800" stop="20250930094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250930094500 +0800" stop="20250930103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250930103000 +0800" stop="20250930111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250930111500 +0800" stop="20250930120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250930120000 +0800" stop="20250930124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250930124500 +0800" stop="20250930133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250930133000 +0800" stop="20250930141500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250930141500 +0800" stop="20250930150000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250930150000 +0800" stop="20250930153000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20250930153000 +0800" stop="20250930163000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20250930163000 +0800" stop="20250930171500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250930171500 +0800" stop="20250930180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250930180000 +0800" stop="20250930184500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250930184500 +0800" stop="20250930193000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250930193000 +0800" stop="20250930201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250930201500 +0800" stop="20250930210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250930210000 +0800" stop="20250930214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20250930214500 +0800" stop="20250930223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250930223000 +0800" stop="20250930231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20250930231500 +0800" stop="20251001000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251001000000 +0800" stop="20251001060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251001060000 +0800" stop="20251001064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251001064500 +0800" stop="20251001073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251001073000 +0800" stop="20251001081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251001081500 +0800" stop="20251001090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251001090000 +0800" stop="20251001094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251001094500 +0800" stop="20251001103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251001103000 +0800" stop="20251001111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251001111500 +0800" stop="20251001120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251001120000 +0800" stop="20251001124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251001124500 +0800" stop="20251001133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251001133000 +0800" stop="20251001140000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251001140000 +0800" stop="20251001143000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251001143000 +0800" stop="20251001170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 FIRST GAME</title>
+    <desc lang="en">NCAA SEASON 101 FIRST GAME</desc>
+  </programme>
+  <programme start="20251001170000 +0800" stop="20251001193000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 SECOND GAME</title>
+    <desc lang="en">NCAA SEASON 101 SECOND GAME</desc>
+  </programme>
+  <programme start="20251001193000 +0800" stop="20251001201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251001201500 +0800" stop="20251001210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251001210000 +0800" stop="20251001214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251001214500 +0800" stop="20251001223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251001223000 +0800" stop="20251001231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251001231500 +0800" stop="20251002000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251002000000 +0800" stop="20251002060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251002060000 +0800" stop="20251002064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251002064500 +0800" stop="20251002073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251002073000 +0800" stop="20251002081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251002081500 +0800" stop="20251002090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251002090000 +0800" stop="20251002094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251002094500 +0800" stop="20251002103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251002103000 +0800" stop="20251002111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251002111500 +0800" stop="20251002120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251002120000 +0800" stop="20251002124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251002124500 +0800" stop="20251002133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251002133000 +0800" stop="20251002141500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251002141500 +0800" stop="20251002150000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251002150000 +0800" stop="20251002153000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251002153000 +0800" stop="20251002163000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251002163000 +0800" stop="20251002171500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251002171500 +0800" stop="20251002180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251002180000 +0800" stop="20251002184500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251002184500 +0800" stop="20251002193000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251002193000 +0800" stop="20251002201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251002201500 +0800" stop="20251002210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251002210000 +0800" stop="20251002214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251002214500 +0800" stop="20251002223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251002223000 +0800" stop="20251002231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251002231500 +0800" stop="20251003000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251003000000 +0800" stop="20251003060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251003060000 +0800" stop="20251003064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251003064500 +0800" stop="20251003073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251003073000 +0800" stop="20251003081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251003081500 +0800" stop="20251003090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251003090000 +0800" stop="20251003094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251003094500 +0800" stop="20251003103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251003103000 +0800" stop="20251003111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251003111500 +0800" stop="20251003120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251003120000 +0800" stop="20251003143000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 FIRST GAME</title>
+    <desc lang="en">NCAA SEASON 101 FIRST GAME</desc>
+  </programme>
+  <programme start="20251003143000 +0800" stop="20251003170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 SECOND GAME</title>
+    <desc lang="en">NCAA SEASON 101 SECOND GAME</desc>
+  </programme>
+  <programme start="20251003170000 +0800" stop="20251003173000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251003173000 +0800" stop="20251003180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251003180000 +0800" stop="20251003183500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251003183500 +0800" stop="20251003191500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251003191500 +0800" stop="20251003210000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME FRIDAY</title>
+    <desc lang="en">ASTIG ANIME FRIDAY</desc>
+  </programme>
+  <programme start="20251003210000 +0800" stop="20251003223000 +0800" channel="heartofasia.ph">
+    <title lang="en">SCI FI PICKS</title>
+    <desc lang="en">SCI FI PICKS</desc>
+  </programme>
+  <programme start="20251003223000 +0800" stop="20251003231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251003231500 +0800" stop="20251004000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251004000000 +0800" stop="20251004060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251004060000 +0800" stop="20251004070000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA LEAGUE</title>
+    <desc lang="en">BIDA LEAGUE</desc>
+  </programme>
+  <programme start="20251004070000 +0800" stop="20251004080000 +0800" channel="heartofasia.ph">
+    <title lang="en">HEART OF THE WORLD</title>
+    <desc lang="en">HEART OF THE WORLD</desc>
+  </programme>
+  <programme start="20251004080000 +0800" stop="20251004100000 +0800" channel="heartofasia.ph">
+    <title lang="en">MOVIE MANIA</title>
+    <desc lang="en">MOVIE MANIA</desc>
+  </programme>
+  <programme start="20251004100000 +0800" stop="20251004110000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251004110000 +0800" stop="20251004133000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 FIRST GAME</title>
+    <desc lang="en">NCAA SEASON 101 FIRST GAME</desc>
+  </programme>
+  <programme start="20251004133000 +0800" stop="20251004143000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251004143000 +0800" stop="20251004170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 SECOND GAME</title>
+    <desc lang="en">NCAA SEASON 101 SECOND GAME</desc>
+  </programme>
+  <programme start="20251004170000 +0800" stop="20251004173000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251004173000 +0800" stop="20251004180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251004180000 +0800" stop="20251004200000 +0800" channel="heartofasia.ph">
+    <title lang="en">STRICTLY PINOY</title>
+    <desc lang="en">STRICTLY PINOY</desc>
+  </programme>
+  <programme start="20251004200000 +0800" stop="20251004220000 +0800" channel="heartofasia.ph">
+    <title lang="en">ACTION FLICKS</title>
+    <desc lang="en">ACTION FLICKS</desc>
+  </programme>
+  <programme start="20251004220000 +0800" stop="20251005000000 +0800" channel="heartofasia.ph">
+    <title lang="en">SCREAMS ON SCREEN</title>
+    <desc lang="en">SCREAMS ON SCREEN</desc>
+  </programme>
+  <programme start="20251005000000 +0800" stop="20251005060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251005060000 +0800" stop="20251005080000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251005080000 +0800" stop="20251005100000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251005100000 +0800" stop="20251005120000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251005120000 +0800" stop="20251005140000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251005140000 +0800" stop="20251005150000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251005150000 +0800" stop="20251005170000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251005170000 +0800" stop="20251005173000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251005173000 +0800" stop="20251005180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251005180000 +0800" stop="20251005200000 +0800" channel="heartofasia.ph">
+    <title lang="en">FEEL NA FILMS</title>
+    <desc lang="en">FEEL NA FILMS</desc>
+  </programme>
+  <programme start="20251005200000 +0800" stop="20251005220000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASIAN CINEMIX</title>
+    <desc lang="en">ASIAN CINEMIX</desc>
+  </programme>
+  <programme start="20251005220000 +0800" stop="20251006000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251006000000 +0800" stop="20251006060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251006060000 +0800" stop="20251006064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251006064500 +0800" stop="20251006073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251006073000 +0800" stop="20251006081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251006081500 +0800" stop="20251006090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251006090000 +0800" stop="20251006094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251006094500 +0800" stop="20251006103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251006103000 +0800" stop="20251006111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251006111500 +0800" stop="20251006120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251006120000 +0800" stop="20251006124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251006124500 +0800" stop="20251006133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251006133000 +0800" stop="20251006141500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251006141500 +0800" stop="20251006150000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251006150000 +0800" stop="20251006153000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251006153000 +0800" stop="20251006163000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251006163000 +0800" stop="20251006171500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251006171500 +0800" stop="20251006180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251006180000 +0800" stop="20251006184500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251006184500 +0800" stop="20251006193000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251006193000 +0800" stop="20251006201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251006201500 +0800" stop="20251006210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251006210000 +0800" stop="20251006214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251006214500 +0800" stop="20251006223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251006223000 +0800" stop="20251006231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251006231500 +0800" stop="20251007000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251007000000 +0800" stop="20251007060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251007060000 +0800" stop="20251007064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251007064500 +0800" stop="20251007073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251007073000 +0800" stop="20251007081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251007081500 +0800" stop="20251007090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251007090000 +0800" stop="20251007094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251007094500 +0800" stop="20251007103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251007103000 +0800" stop="20251007111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251007111500 +0800" stop="20251007120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251007120000 +0800" stop="20251007124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251007124500 +0800" stop="20251007133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251007133000 +0800" stop="20251007141500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251007141500 +0800" stop="20251007150000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251007150000 +0800" stop="20251007153000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251007153000 +0800" stop="20251007163000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251007163000 +0800" stop="20251007171500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251007171500 +0800" stop="20251007180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251007180000 +0800" stop="20251007184500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251007184500 +0800" stop="20251007193000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251007193000 +0800" stop="20251007201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251007201500 +0800" stop="20251007210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251007210000 +0800" stop="20251007214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251007214500 +0800" stop="20251007223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251007223000 +0800" stop="20251007231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251007231500 +0800" stop="20251008000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251008000000 +0800" stop="20251008060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251008060000 +0800" stop="20251008064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251008064500 +0800" stop="20251008073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251008073000 +0800" stop="20251008081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251008081500 +0800" stop="20251008090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251008090000 +0800" stop="20251008094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251008094500 +0800" stop="20251008103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251008103000 +0800" stop="20251008111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251008111500 +0800" stop="20251008120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251008120000 +0800" stop="20251008124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251008124500 +0800" stop="20251008133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251008133000 +0800" stop="20251008140000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251008140000 +0800" stop="20251008143000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251008143000 +0800" stop="20251008170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 FIRST GAME</title>
+    <desc lang="en">NCAA SEASON 101 FIRST GAME</desc>
+  </programme>
+  <programme start="20251008170000 +0800" stop="20251008193000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 SECOND GAME</title>
+    <desc lang="en">NCAA SEASON 101 SECOND GAME</desc>
+  </programme>
+  <programme start="20251008193000 +0800" stop="20251008201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251008201500 +0800" stop="20251008210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251008210000 +0800" stop="20251008214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251008214500 +0800" stop="20251008223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251008223000 +0800" stop="20251008231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251008231500 +0800" stop="20251009000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251009000000 +0800" stop="20251009060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251009060000 +0800" stop="20251009064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251009064500 +0800" stop="20251009073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251009073000 +0800" stop="20251009081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251009081500 +0800" stop="20251009090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251009090000 +0800" stop="20251009094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251009094500 +0800" stop="20251009103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251009103000 +0800" stop="20251009111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251009111500 +0800" stop="20251009120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251009120000 +0800" stop="20251009124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251009124500 +0800" stop="20251009133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251009133000 +0800" stop="20251009141500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251009141500 +0800" stop="20251009150000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251009150000 +0800" stop="20251009153000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251009153000 +0800" stop="20251009163000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251009163000 +0800" stop="20251009171500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251009171500 +0800" stop="20251009180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251009180000 +0800" stop="20251009184500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251009184500 +0800" stop="20251009193000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251009193000 +0800" stop="20251009201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251009201500 +0800" stop="20251009210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251009210000 +0800" stop="20251009214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251009214500 +0800" stop="20251009223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251009223000 +0800" stop="20251009231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251009231500 +0800" stop="20251010000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251010000000 +0800" stop="20251010060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251010060000 +0800" stop="20251010064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251010064500 +0800" stop="20251010073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251010073000 +0800" stop="20251010081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251010081500 +0800" stop="20251010090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251010090000 +0800" stop="20251010094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251010094500 +0800" stop="20251010103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251010103000 +0800" stop="20251010111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251010111500 +0800" stop="20251010120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251010120000 +0800" stop="20251010143000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 FIRST GAME</title>
+    <desc lang="en">NCAA SEASON 101 FIRST GAME</desc>
+  </programme>
+  <programme start="20251010143000 +0800" stop="20251010170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 SECOND GAME</title>
+    <desc lang="en">NCAA SEASON 101 SECOND GAME</desc>
+  </programme>
+  <programme start="20251010170000 +0800" stop="20251010173000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251010173000 +0800" stop="20251010180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251010180000 +0800" stop="20251010183500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251010183500 +0800" stop="20251010191500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251010191500 +0800" stop="20251010210000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME FRIDAY</title>
+    <desc lang="en">ASTIG ANIME FRIDAY</desc>
+  </programme>
+  <programme start="20251010210000 +0800" stop="20251010223000 +0800" channel="heartofasia.ph">
+    <title lang="en">SCI FI PICKS</title>
+    <desc lang="en">SCI FI PICKS</desc>
+  </programme>
+  <programme start="20251010223000 +0800" stop="20251010231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251010231500 +0800" stop="20251011000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251011000000 +0800" stop="20251011060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251011060000 +0800" stop="20251011070000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA LEAGUE</title>
+    <desc lang="en">BIDA LEAGUE</desc>
+  </programme>
+  <programme start="20251011070000 +0800" stop="20251011080000 +0800" channel="heartofasia.ph">
+    <title lang="en">HEART OF THE WORLD</title>
+    <desc lang="en">HEART OF THE WORLD</desc>
+  </programme>
+  <programme start="20251011080000 +0800" stop="20251011100000 +0800" channel="heartofasia.ph">
+    <title lang="en">MOVIE MANIA</title>
+    <desc lang="en">MOVIE MANIA</desc>
+  </programme>
+  <programme start="20251011100000 +0800" stop="20251011110000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251011110000 +0800" stop="20251011133000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 FIRST GAME</title>
+    <desc lang="en">NCAA SEASON 101 FIRST GAME</desc>
+  </programme>
+  <programme start="20251011133000 +0800" stop="20251011143000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251011143000 +0800" stop="20251011170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 SECOND GAME</title>
+    <desc lang="en">NCAA SEASON 101 SECOND GAME</desc>
+  </programme>
+  <programme start="20251011170000 +0800" stop="20251011173000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251011173000 +0800" stop="20251011180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251011180000 +0800" stop="20251011200000 +0800" channel="heartofasia.ph">
+    <title lang="en">STRICTLY PINOY</title>
+    <desc lang="en">STRICTLY PINOY</desc>
+  </programme>
+  <programme start="20251011200000 +0800" stop="20251011220000 +0800" channel="heartofasia.ph">
+    <title lang="en">ACTION FLICKS</title>
+    <desc lang="en">ACTION FLICKS</desc>
+  </programme>
+  <programme start="20251011220000 +0800" stop="20251012000000 +0800" channel="heartofasia.ph">
+    <title lang="en">SCREAMS ON SCREEN</title>
+    <desc lang="en">SCREAMS ON SCREEN</desc>
+  </programme>
+  <programme start="20251012000000 +0800" stop="20251012060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251012060000 +0800" stop="20251012080000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251012080000 +0800" stop="20251012100000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251012100000 +0800" stop="20251012120000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251012120000 +0800" stop="20251012140000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251012140000 +0800" stop="20251012150000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251012150000 +0800" stop="20251012170000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251012170000 +0800" stop="20251012173000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251012173000 +0800" stop="20251012180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251012180000 +0800" stop="20251012200000 +0800" channel="heartofasia.ph">
+    <title lang="en">FEEL NA FILMS</title>
+    <desc lang="en">FEEL NA FILMS</desc>
+  </programme>
+  <programme start="20251012200000 +0800" stop="20251012220000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASIAN CINEMIX</title>
+    <desc lang="en">ASIAN CINEMIX</desc>
+  </programme>
+  <programme start="20251012220000 +0800" stop="20251013000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251013000000 +0800" stop="20251013060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251013060000 +0800" stop="20251013064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251013064500 +0800" stop="20251013073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251013073000 +0800" stop="20251013081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251013081500 +0800" stop="20251013090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251013090000 +0800" stop="20251013094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251013094500 +0800" stop="20251013103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251013103000 +0800" stop="20251013111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251013111500 +0800" stop="20251013120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251013120000 +0800" stop="20251013124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251013124500 +0800" stop="20251013133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251013133000 +0800" stop="20251013141500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251013141500 +0800" stop="20251013150000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251013150000 +0800" stop="20251013153000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251013153000 +0800" stop="20251013163000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251013163000 +0800" stop="20251013171500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251013171500 +0800" stop="20251013180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251013180000 +0800" stop="20251013184500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251013184500 +0800" stop="20251013193000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251013193000 +0800" stop="20251013201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251013201500 +0800" stop="20251013210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251013210000 +0800" stop="20251013214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251013214500 +0800" stop="20251013223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251013223000 +0800" stop="20251013231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251013231500 +0800" stop="20251014000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251014000000 +0800" stop="20251014060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251014060000 +0800" stop="20251014064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251014064500 +0800" stop="20251014073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251014073000 +0800" stop="20251014081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251014081500 +0800" stop="20251014090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251014090000 +0800" stop="20251014094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251014094500 +0800" stop="20251014103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251014103000 +0800" stop="20251014111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251014111500 +0800" stop="20251014120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251014120000 +0800" stop="20251014124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251014124500 +0800" stop="20251014133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251014133000 +0800" stop="20251014141500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251014141500 +0800" stop="20251014150000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251014150000 +0800" stop="20251014153000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251014153000 +0800" stop="20251014163000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251014163000 +0800" stop="20251014171500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251014171500 +0800" stop="20251014180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251014180000 +0800" stop="20251014184500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251014184500 +0800" stop="20251014193000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251014193000 +0800" stop="20251014201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251014201500 +0800" stop="20251014210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251014210000 +0800" stop="20251014214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251014214500 +0800" stop="20251014223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251014223000 +0800" stop="20251014231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251014231500 +0800" stop="20251015000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251015000000 +0800" stop="20251015060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251015060000 +0800" stop="20251015064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251015064500 +0800" stop="20251015073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251015073000 +0800" stop="20251015081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251015081500 +0800" stop="20251015090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251015090000 +0800" stop="20251015094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251015094500 +0800" stop="20251015103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251015103000 +0800" stop="20251015111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251015111500 +0800" stop="20251015120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251015120000 +0800" stop="20251015124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251015124500 +0800" stop="20251015133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251015133000 +0800" stop="20251015140000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251015140000 +0800" stop="20251015143000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251015143000 +0800" stop="20251015170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 FIRST GAME</title>
+    <desc lang="en">NCAA SEASON 101 FIRST GAME</desc>
+  </programme>
+  <programme start="20251015170000 +0800" stop="20251015193000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 SECOND GAME</title>
+    <desc lang="en">NCAA SEASON 101 SECOND GAME</desc>
+  </programme>
+  <programme start="20251015193000 +0800" stop="20251015201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251015201500 +0800" stop="20251015210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251015210000 +0800" stop="20251015214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251015214500 +0800" stop="20251015223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251015223000 +0800" stop="20251015231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251015231500 +0800" stop="20251016000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251016000000 +0800" stop="20251016060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251016060000 +0800" stop="20251016064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251016064500 +0800" stop="20251016073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251016073000 +0800" stop="20251016081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251016081500 +0800" stop="20251016090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251016090000 +0800" stop="20251016094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251016094500 +0800" stop="20251016103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251016103000 +0800" stop="20251016111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251016111500 +0800" stop="20251016120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251016120000 +0800" stop="20251016124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251016124500 +0800" stop="20251016133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251016133000 +0800" stop="20251016141500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251016141500 +0800" stop="20251016150000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251016150000 +0800" stop="20251016153000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251016153000 +0800" stop="20251016163000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251016163000 +0800" stop="20251016171500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251016171500 +0800" stop="20251016180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251016180000 +0800" stop="20251016184500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251016184500 +0800" stop="20251016193000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251016193000 +0800" stop="20251016201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251016201500 +0800" stop="20251016210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251016210000 +0800" stop="20251016214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251016214500 +0800" stop="20251016223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251016223000 +0800" stop="20251016231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251016231500 +0800" stop="20251017000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251017000000 +0800" stop="20251017060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251017060000 +0800" stop="20251017064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251017064500 +0800" stop="20251017073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251017073000 +0800" stop="20251017081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251017081500 +0800" stop="20251017090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251017090000 +0800" stop="20251017094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251017094500 +0800" stop="20251017103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251017103000 +0800" stop="20251017111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251017111500 +0800" stop="20251017120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251017120000 +0800" stop="20251017143000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 FIRST GAME</title>
+    <desc lang="en">NCAA SEASON 101 FIRST GAME</desc>
+  </programme>
+  <programme start="20251017143000 +0800" stop="20251017170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 SECOND GAME</title>
+    <desc lang="en">NCAA SEASON 101 SECOND GAME</desc>
+  </programme>
+  <programme start="20251017170000 +0800" stop="20251017173000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251017173000 +0800" stop="20251017180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251017180000 +0800" stop="20251017183500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251017183500 +0800" stop="20251017191500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251017191500 +0800" stop="20251017210000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME FRIDAY</title>
+    <desc lang="en">ASTIG ANIME FRIDAY</desc>
+  </programme>
+  <programme start="20251017210000 +0800" stop="20251017223000 +0800" channel="heartofasia.ph">
+    <title lang="en">SCI FI PICKS</title>
+    <desc lang="en">SCI FI PICKS</desc>
+  </programme>
+  <programme start="20251017223000 +0800" stop="20251017231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251017231500 +0800" stop="20251018000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251018000000 +0800" stop="20251018060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251018060000 +0800" stop="20251018070000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA LEAGUE</title>
+    <desc lang="en">BIDA LEAGUE</desc>
+  </programme>
+  <programme start="20251018070000 +0800" stop="20251018080000 +0800" channel="heartofasia.ph">
+    <title lang="en">HEART OF THE WORLD</title>
+    <desc lang="en">HEART OF THE WORLD</desc>
+  </programme>
+  <programme start="20251018080000 +0800" stop="20251018100000 +0800" channel="heartofasia.ph">
+    <title lang="en">MOVIE MANIA</title>
+    <desc lang="en">MOVIE MANIA</desc>
+  </programme>
+  <programme start="20251018100000 +0800" stop="20251018110000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251018110000 +0800" stop="20251018133000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 FIRST GAME</title>
+    <desc lang="en">NCAA SEASON 101 FIRST GAME</desc>
+  </programme>
+  <programme start="20251018133000 +0800" stop="20251018143000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251018143000 +0800" stop="20251018170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 SECOND GAME</title>
+    <desc lang="en">NCAA SEASON 101 SECOND GAME</desc>
+  </programme>
+  <programme start="20251018170000 +0800" stop="20251018173000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251018173000 +0800" stop="20251018180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251018180000 +0800" stop="20251018200000 +0800" channel="heartofasia.ph">
+    <title lang="en">STRICTLY PINOY</title>
+    <desc lang="en">STRICTLY PINOY</desc>
+  </programme>
+  <programme start="20251018200000 +0800" stop="20251018220000 +0800" channel="heartofasia.ph">
+    <title lang="en">ACTION FLICKS</title>
+    <desc lang="en">ACTION FLICKS</desc>
+  </programme>
+  <programme start="20251018220000 +0800" stop="20251019000000 +0800" channel="heartofasia.ph">
+    <title lang="en">SCREAMS ON SCREEN</title>
+    <desc lang="en">SCREAMS ON SCREEN</desc>
+  </programme>
+  <programme start="20251019000000 +0800" stop="20251019060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251019060000 +0800" stop="20251019080000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251019080000 +0800" stop="20251019100000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251019100000 +0800" stop="20251019120000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251019120000 +0800" stop="20251019140000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251019140000 +0800" stop="20251019150000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251019150000 +0800" stop="20251019170000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251019170000 +0800" stop="20251019173000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251019173000 +0800" stop="20251019180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251019180000 +0800" stop="20251019200000 +0800" channel="heartofasia.ph">
+    <title lang="en">FEEL NA FILMS</title>
+    <desc lang="en">FEEL NA FILMS</desc>
+  </programme>
+  <programme start="20251019200000 +0800" stop="20251019220000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASIAN CINEMIX</title>
+    <desc lang="en">ASIAN CINEMIX</desc>
+  </programme>
+  <programme start="20251019220000 +0800" stop="20251020000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251020000000 +0800" stop="20251020060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251020060000 +0800" stop="20251020064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251020064500 +0800" stop="20251020073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251020073000 +0800" stop="20251020081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251020081500 +0800" stop="20251020090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251020090000 +0800" stop="20251020094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251020094500 +0800" stop="20251020103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251020103000 +0800" stop="20251020111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251020111500 +0800" stop="20251020120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251020120000 +0800" stop="20251020124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251020124500 +0800" stop="20251020133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251020133000 +0800" stop="20251020141500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251020141500 +0800" stop="20251020150000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251020150000 +0800" stop="20251020153000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251020153000 +0800" stop="20251020163000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251020163000 +0800" stop="20251020171500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251020171500 +0800" stop="20251020180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251020180000 +0800" stop="20251020184500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251020184500 +0800" stop="20251020193000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251020193000 +0800" stop="20251020201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251020201500 +0800" stop="20251020210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251020210000 +0800" stop="20251020214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251020214500 +0800" stop="20251020223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251020223000 +0800" stop="20251020231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251020231500 +0800" stop="20251021000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251021060000 +0800" stop="20251021064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251021064500 +0800" stop="20251021073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251021073000 +0800" stop="20251021081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251021081500 +0800" stop="20251021090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251021090000 +0800" stop="20251021094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251021094500 +0800" stop="20251021103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251021103000 +0800" stop="20251021111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251021111500 +0800" stop="20251021120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251021120000 +0800" stop="20251021124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251021124500 +0800" stop="20251021133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251021133000 +0800" stop="20251021141500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251021141500 +0800" stop="20251021150000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251021150000 +0800" stop="20251021153000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251021153000 +0800" stop="20251021163000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251021163000 +0800" stop="20251021171500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251021171500 +0800" stop="20251021180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251021180000 +0800" stop="20251021184500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251021184500 +0800" stop="20251021193000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251021193000 +0800" stop="20251021201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251021201500 +0800" stop="20251021210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251021210000 +0800" stop="20251021214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251021214500 +0800" stop="20251021223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251021223000 +0800" stop="20251021231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251021231500 +0800" stop="20251022000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251022000000 +0800" stop="20251022060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251022060000 +0800" stop="20251022064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251022064500 +0800" stop="20251022073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251022073000 +0800" stop="20251022081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251022081500 +0800" stop="20251022090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251022090000 +0800" stop="20251022094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251022094500 +0800" stop="20251022103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251022103000 +0800" stop="20251022111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251022111500 +0800" stop="20251022120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251022120000 +0800" stop="20251022124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251022124500 +0800" stop="20251022133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251022133000 +0800" stop="20251022140000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251022140000 +0800" stop="20251022143000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251022143000 +0800" stop="20251022170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 FIRST GAME</title>
+    <desc lang="en">NCAA SEASON 101 FIRST GAME</desc>
+  </programme>
+  <programme start="20251022170000 +0800" stop="20251022193000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 SECOND GAME</title>
+    <desc lang="en">NCAA SEASON 101 SECOND GAME</desc>
+  </programme>
+  <programme start="20251022193000 +0800" stop="20251022201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251022201500 +0800" stop="20251022210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251022210000 +0800" stop="20251022214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251022214500 +0800" stop="20251022223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251022223000 +0800" stop="20251022231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251022231500 +0800" stop="20251023000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251023000000 +0800" stop="20251023060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251023060000 +0800" stop="20251023064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251023064500 +0800" stop="20251023073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251023073000 +0800" stop="20251023081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251023081500 +0800" stop="20251023090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251023090000 +0800" stop="20251023094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251023094500 +0800" stop="20251023103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251023103000 +0800" stop="20251023111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251023111500 +0800" stop="20251023120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251023120000 +0800" stop="20251023124500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251023124500 +0800" stop="20251023133000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251023133000 +0800" stop="20251023141500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251023141500 +0800" stop="20251023150000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251023150000 +0800" stop="20251023153000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA ASIA</title>
+    <desc lang="en">BIDA ASIA</desc>
+  </programme>
+  <programme start="20251023153000 +0800" stop="20251023163000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME</title>
+    <desc lang="en">ASTIG ANIME</desc>
+  </programme>
+  <programme start="20251023163000 +0800" stop="20251023171500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251023171500 +0800" stop="20251023180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251023180000 +0800" stop="20251023184500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251023184500 +0800" stop="20251023193000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251023193000 +0800" stop="20251023201500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251023201500 +0800" stop="20251023210000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251023210000 +0800" stop="20251023214500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251023214500 +0800" stop="20251023223000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251023223000 +0800" stop="20251023231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251023231500 +0800" stop="20251024000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251024000000 +0800" stop="20251024060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251024060000 +0800" stop="20251024064500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251024064500 +0800" stop="20251024073000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251024073000 +0800" stop="20251024081500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251024081500 +0800" stop="20251024090000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251024090000 +0800" stop="20251024094500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251024094500 +0800" stop="20251024103000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251024103000 +0800" stop="20251024111500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251024111500 +0800" stop="20251024120000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251024120000 +0800" stop="20251024143000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 FIRST GAME</title>
+    <desc lang="en">NCAA SEASON 101 FIRST GAME</desc>
+  </programme>
+  <programme start="20251024143000 +0800" stop="20251024170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 SECOND GAME</title>
+    <desc lang="en">NCAA SEASON 101 SECOND GAME</desc>
+  </programme>
+  <programme start="20251024170000 +0800" stop="20251024173000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251024173000 +0800" stop="20251024180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251024180000 +0800" stop="20251024183500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251024183500 +0800" stop="20251024191500 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251024191500 +0800" stop="20251024210000 +0800" channel="heartofasia.ph">
+    <title lang="en">ASTIG ANIME FRIDAY</title>
+    <desc lang="en">ASTIG ANIME FRIDAY</desc>
+  </programme>
+  <programme start="20251024210000 +0800" stop="20251024223000 +0800" channel="heartofasia.ph">
+    <title lang="en">SCI FI PICKS</title>
+    <desc lang="en">SCI FI PICKS</desc>
+  </programme>
+  <programme start="20251024223000 +0800" stop="20251024231500 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251024231500 +0800" stop="20251025000000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="heartofasia.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251025060000 +0800" stop="20251025070000 +0800" channel="heartofasia.ph">
+    <title lang="en">BIDA LEAGUE</title>
+    <desc lang="en">BIDA LEAGUE</desc>
+  </programme>
+  <programme start="20251025070000 +0800" stop="20251025080000 +0800" channel="heartofasia.ph">
+    <title lang="en">HEART OF THE WORLD</title>
+    <desc lang="en">HEART OF THE WORLD</desc>
+  </programme>
+  <programme start="20251025080000 +0800" stop="20251025100000 +0800" channel="heartofasia.ph">
+    <title lang="en">MOVIE MANIA</title>
+    <desc lang="en">MOVIE MANIA</desc>
+  </programme>
+  <programme start="20251025100000 +0800" stop="20251025110000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251025110000 +0800" stop="20251025133000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 FIRST GAME</title>
+    <desc lang="en">NCAA SEASON 101 FIRST GAME</desc>
+  </programme>
+  <programme start="20251025133000 +0800" stop="20251025143000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251025143000 +0800" stop="20251025170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA SEASON 101 SECOND GAME</title>
+    <desc lang="en">NCAA SEASON 101 SECOND GAME</desc>
+  </programme>
+  <programme start="20251025170000 +0800" stop="20251025173000 +0800" channel="heartofasia.ph">
+    <title lang="en">K FEELS</title>
+    <desc lang="en">K FEELS</desc>
+  </programme>
+  <programme start="20251025173000 +0800" stop="20251025180000 +0800" channel="heartofasia.ph">
+    <title lang="en">ABSOLUTELY ASIAN</title>
+    <desc lang="en">ABSOLUTELY ASIAN</desc>
+  </programme>
+  <programme start="20251025180000 +0800" stop="20251025200000 +0800" channel="heartofasia.ph">
+    <title lang="en">STRICTLY PINOY</title>
+    <desc lang="en">STRICTLY PINOY</desc>
+  </programme>
+  <programme start="20251025200000 +0800" stop="20251025220000 +0800" channel="heartofasia.ph">
+    <title lang="en">ACTION FLICKS</title>
+    <desc lang="en">ACTION FLICKS</desc>
+  </programme>
+  <programme start="20251025220000 +0800" stop="20251025230000 +0800" channel="heartofasia.ph">
+    <title lang="en">SCREAMS ON SCREEN</title>
+    <desc lang="en">SCREAMS ON SCREEN</desc>
   </programme>
   <programme start="20250928000000 +0800" stop="20250928070000 +0800" channel="lighttv.ph">
     <title lang="en">Sign Off</title>
