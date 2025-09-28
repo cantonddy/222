@@ -34,11 +34,19 @@ jobs:
       # This runs the script which reads all .txt files and creates epg.xml
       run: |
         python epg_parser.py
-      
+        
+    # ----------------------------------------------------
+    # FIX: Force Pull to prevent 'divergence' error
+    # ----------------------------------------------------
+    - name: Pull before commit (to avoid divergence)
+      run: git pull
+
     - name: Commit and Push Changes
       # Uses a third-party action to automatically commit and push the new file
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
+        # FIX: Explicitly pass GITHUB_TOKEN to ensure correct authentication
+        token: ${{ secrets.GITHUB_TOKEN }}
         # Commit only the generated XML file
         file_pattern: 'epg.xml'
         commit_message: "Auto-generated EPG update for 7 days"
