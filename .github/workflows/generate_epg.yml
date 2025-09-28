@@ -1,9 +1,9 @@
 name: Generate XMLTV EPG
 
 on:
-  # Run daily at midnight UTC
+  # Run on the 1st day of every month at midnight UTC (Monthly update cycle)
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 1 * *'
   # Allow manual trigger from the GitHub Actions tab
   workflow_dispatch:
 
@@ -36,7 +36,7 @@ jobs:
         python epg_parser.py
         
     # ----------------------------------------------------
-    # FIX: Force Pull to prevent 'divergence' error
+    # FIX: Force Pull to prevent 'divergence' error before commit
     # ----------------------------------------------------
     - name: Pull before commit (to avoid divergence)
       run: git pull
@@ -49,7 +49,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         # Commit only the generated XML file
         file_pattern: 'epg.xml'
-        commit_message: "Auto-generated EPG update for 7 days"
+        commit_message: "Auto-generated EPG update for 28 days"
         # Optional: Set author for a cleaner commit history
         commit_author: 'GitHub Actions <actions@github.com>'
         # Recommended: Ensures the commit action can push to the branch
