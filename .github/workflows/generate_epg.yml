@@ -45,8 +45,10 @@ jobs:
       # Uses a third-party action to automatically commit and push the new file
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        # FIX: Explicitly pass GITHUB_TOKEN to ensure correct authentication
-        token: ${{ secrets.GITHUB_TOKEN }}
+        # Removed the 'token: ${{ secrets.GITHUB_TOKEN }}' input as it is 
+        # redundant and causes a warning in v5 of this action. 
+        # The permission is already granted via the 'permissions: contents: write' block.
+        
         # Commit only the generated XML file
         file_pattern: 'epg.xml'
         commit_message: "Auto-generated EPG update for 28 days"
