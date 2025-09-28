@@ -3,36 +3,40 @@ Monday
 4:00 AM - Abante Pilipinas
 5:30 AM - Walang Atrasan
 7:00 AM - Abante sa Umaga
+8:00 AM - Parekoy
 9:00 AM - Kasangga mo ang Langit
-10:30 AM - Easy Lang
+10:30 AM - Inbox
 12:00 PM - Abante sa Tanghali
-12:30 PM - Lusob Probinsya
 1:00 PM - Sportalakan
 2:00 PM - Ah Eh-Minin
-3:00 PM - Marisol Academy
+3:00 PM - Replay
+4:00 PM - Marisol Academy
+5:00 PM - Replay
 6:00 PM – Agenda
 7:30 PM - Sports Now
-8:00 PM - Jigo Live
-9:00 PM - Telebabe
-10:00 PM - Music
+8:30 PM - Jigo Live
+9:30 PM - Telebabe
+10:30 PM - Replay
 
 Tuesday
 12:00 AM - Sign Off
 4:00 AM - Abante Pilipinas
 5:30 AM - Walang Atrasan
 7:00 AM - Abante sa Umaga
+8:00 AM - Parekoy
 9:00 AM - Kasangga mo ang Langit
-10:30 AM - Easy Lang
+10:30 AM - Inbox
 12:00 PM - Abante sa Tanghali
-12:30 PM - Lusob Probinsya
-1:00 PM - Serbisyo Publiko sa Abante Radyo
+1:00 PM - Sportalakan
 2:00 PM - Ah Eh-Minin
-3:00 PM - Marisol Academy
+3:00 PM - Replay
+4:00 PM - Marisol Academy
+5:00 PM - Replay
 6:00 PM – Agenda
 7:30 PM - Sports Now
-8:30 PM - Marisol Academy Tonite
-9:00 PM - Telebabe
-10:00 PM - Music
+8:30 PM - Jigo Live
+9:30 PM - Telebabe
+10:30 PM - Replay
 
 
 Wednesday
@@ -40,62 +44,70 @@ Wednesday
 4:00 AM - Abante Pilipinas
 5:30 AM - Walang Atrasan
 7:00 AM - Abante sa Umaga
+8:00 AM - Parekoy
 9:00 AM - Kasangga mo ang Langit
-10:30 AM - Easy Lang
+10:30 AM - Inbox
 12:00 PM - Abante sa Tanghali
-12:30 PM - Lusob Probinsya
+1:00 PM - Sportalakan
 2:00 PM - Ah Eh-Minin
-3:00 PM - Marisol Academy
+3:00 PM - Replay
+4:00 PM - Marisol Academy
+5:00 PM - Replay
 6:00 PM – Agenda
 7:30 PM - Sports Now
-8:00 PM - Jigo Live
-9:00 PM - Telebabe
-10:00 PM - Music
+8:30 PM - Jigo Live
+9:30 PM - Telebabe
+10:30 PM - Replay
 
 Thursday
 12:00 AM - Sign Off
 4:00 AM - Abante Pilipinas
 5:30 AM - Walang Atrasan
 7:00 AM - Abante sa Umaga
+8:00 AM - Parekoy
 9:00 AM - Kasangga mo ang Langit
-10:30 AM - Easy Lang
+10:30 AM - Inbox
 12:00 PM - Abante sa Tanghali
-12:30 PM - Lusob Probinsya
 1:00 PM - Sportalakan
 2:00 PM - Ah Eh-Minin
-3:00 PM - Marisol Academy
+3:00 PM - Replay
+4:00 PM - Marisol Academy
+5:00 PM - Replay
 6:00 PM – Agenda
 7:30 PM - Sports Now
-8:30 PM - Marisol Academy Tonite
-9:00 PM - Telebabe
-10:00 PM - Music
+8:30 PM - Jigo Live
+9:30 PM - Telebabe
+10:30 PM - Replay
 
 Friday
 12:00 AM - Sign Off
 4:00 AM - Abante Pilipinas
 5:30 AM - Walang Atrasan
 7:00 AM - Abante sa Umaga
+8:00 AM - Parekoy
 9:00 AM - Kasangga mo ang Langit
-10:30 AM - Easy Lang
+10:30 AM - Inbox
 12:00 PM - Abante sa Tanghali
-12:30 PM - Lusob Probinsya
+1:00 PM - Sportalakan
 2:00 PM - Ah Eh-Minin
-3:00 PM - Marisol Academy
+3:00 PM - Replay
+4:00 PM - Marisol Academy
+5:00 PM - Replay
 6:00 PM – Agenda
 7:30 PM - Sports Now
-8:00 PM - Jigo Live
-9:00 PM - Telebabe
-10:00 PM - Music
-
+8:30 PM - Jigo Live
+9:30 PM - Telebabe
+10:30 PM - Replay
 
 Saturday
 12:00 AM - Sign Off
 4:00 AM - Agri Abante
 6:00 AM - Abante Pilipinas
-7:00 AM - Abante sa Umaga
-8:00 AM - Parekoy
-9:00 AM - Kasangga mo ang Langit
-10:00 AM - Saktong Tapatan
+7:00 AM - Abante sa Umaga Weekend
+8:00 AM - Point of Order
+9:00 AM - Cong Radyo
+10:00 AM - Tulong Abante
+11:00 AM - Abante sa Tanghali
 12:00 PM - OOTD
 1:00 PM - Lusob Probinsya Weekends
 2:00 PM - Showbiz Pulis
@@ -104,18 +116,20 @@ Saturday
 7:00 PM - Tamang Kwentuhan
 9:00 PM - Abanteliling
 10:00 PM - Roadside
-10:30 PM - Music
+10:30 PM - Replay
 
 Sunday
 12:00 AM - Sign Off
-4:00 AM - Music
+4:00 AM - Replay
 8:00 AM - Showbiz Overtime!
-9:00 AM - Music
+8:30 AM - Abantech at Negosyo
+10:00 AM - Replay
+12:00 PM - Abante sa Tanghali
 2:00 PM - Showbiz Pulis
 3:00 PM - Abante Radyo Balita Buong Bansa
-3:30 PM - Music
+3:30 PM - Replay
 4:30 PM - Anything Goes
 6:00 PM – Agenda Weekend
-7:30 PM - Music
+7:30 PM - Replay
 9:00 PM - Abanteliling
-10:00 PM - Music
+10:00 PM - Replay
