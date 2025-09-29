@@ -1,24 +1,25 @@
+# ==============================================================================
+# GitHub Action: Generate XMLTV EPG
+# Runs every 3 days to update the EPG file with 7 days of schedule data.
+# ==============================================================================
 name: Generate XMLTV EPG
 
 on:
-  # Run on the 1st day of every month at midnight UTC (Monthly update cycle)
+  # Run automatically at midnight UTC every 3 days.
   schedule:
-    - cron: '0 0 1 * *'
-  # Allow manual trigger from the GitHub Actions tab
+    - cron: '0 0 */3 * *'
+  # Allows manual triggering from the GitHub Actions tab
   workflow_dispatch:
 
+# Grant the workflow write permission to commit changes
+permissions:
+  contents: write
+
 jobs:
-  generate:
+  generate-epg: # Renamed job to 'generate-epg' for clarity
     runs-on: ubuntu-latest
     
-    # ----------------------------------------------------
-    # FIX: Add permissions to allow the bot to write/commit files
-    # ----------------------------------------------------
-    permissions:
-      contents: write 
-
     steps:
-    
     - name: Checkout repository
       uses: actions/checkout@v4
       # Need full history for the commit action
@@ -28,31 +29,26 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.x'
+        python-version: '3.x' 
 
     - name: Execute EPG Parser Script
       # This runs the script which reads all .txt files and creates epg.xml
       run: |
         python epg_parser.py
         
-    # ----------------------------------------------------
     # FIX: Force Pull to prevent 'divergence' error before commit
-    # ----------------------------------------------------
     - name: Pull before commit (to avoid divergence)
       run: git pull
 
     - name: Commit and Push Changes
-      # Uses a third-party action to automatically commit and push the new file
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        # Removed the 'token: ${{ secrets.GITHUB_TOKEN }}' input as it is 
-        # redundant and causes a warning in v5 of this action. 
-        # The permission is already granted via the 'permissions: contents: write' block.
-        
         # Commit only the generated XML file
-        file_pattern: 'epg.xml'
-        commit_message: "Auto-generated EPG update for 28 days"
-        # Optional: Set author for a cleaner commit history
-        commit_author: 'GitHub Actions <actions@github.com>'
+        file_pattern: 'epg.xml' 
+        # Commit message now reflects the 7-day data generation buffer
+        commit_message: "Auto-generated EPG update for 7 days"
+        # Commit as the GitHub Actions bot
+        commit_user_name: github-actions[bot]
+        commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
         # Recommended: Ensures the commit action can push to the branch
         commit_options: '--no-verify'
