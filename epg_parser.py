@@ -8,7 +8,7 @@ import re
 XMLTV_TIME_FORMAT = "%Y%m%d%H%M%S +0800"
 # --- NEW CONFIGURATION ---
 # Set the number of days for the EPG schedule (4 weeks = 28 days)
-EPG_SCHEDULE_DAYS = 28
+EPG_SCHEDULE_DAYS = 7
 # -------------------------
 
 # Map of uploaded text filenames to their unique XMLTV Channel IDs
