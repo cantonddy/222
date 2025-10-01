@@ -7,7 +7,7 @@ name: Generate XMLTV EPG
 on:
   # Run automatically at midnight UTC every 3 days.
   schedule:
-    - cron: '0 0 */3 * *'
+    - cron: '0 16 */3 * *'
   # Allows manual triggering from the GitHub Actions tab
   workflow_dispatch:
 
