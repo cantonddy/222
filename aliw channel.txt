@@ -1,5 +1,5 @@
 Monday
-12:00am - Sign OFF
+12:00am - Sign Off
 5:00am - Arangkada Balita
 6:00am - Pasada Balita
 8:00am - Karambola sa DWIZ
@@ -22,10 +22,10 @@ Monday
 8:15pm - One Small Act (replay)
 8:30pm - The Story of the Filipino
 9:00pm - Newscoop
-10:00pm - Sign OFF
+10:00pm - Sign Off
 
 Tuesday
-12:00am - Sign OFF
+12:00am - Sign Off
 5:00am - Arangkada Balita
 6:00am - Pasada Balita
 8:00am - Karambola sa DWIZ
@@ -47,10 +47,10 @@ Tuesday
 8:15pm - One Small Act (replay)
 8:30pm - The Story of the Filipino
 9:00pm - Newscoop
-10:00pm - Sign OFF
+10:00pm - Sign Off
 
 Wednesday
-12:00am - Sign OFF
+12:00am - Sign Off
 5:00am - Arangkada Balita
 6:00am - Pasada Balita
 8:00am - Karambola sa DWIZ
@@ -72,10 +72,10 @@ Wednesday
 8:15pm - One Small Act (replay)
 8:30pm - The Story of the Filipino
 9:00pm - Newscoop
-10:00pm - Sign OFF
+10:00pm - Sign Off
 
 Thursday
-12:00am - Sign OFF
+12:00am - Sign Off
 5:00am - Arangkada Balita
 6:00am - Pasada Balita
 8:00am - Karambola sa DWIZ
@@ -97,11 +97,11 @@ Thursday
 8:15pm - One Small Act (replay)
 8:30pm - The Story of the Filipino
 9:00pm - Newscoop
-10:00pm - Sign OFF
+10:00pm - Sign Off
 
 
 Friday
-12:00am - Sign OFF
+12:00am - Sign Off
 5:00am - Arangkada Balita
 6:00am - Pasada Balita
 8:00am - Karambola sa DWIZ
@@ -117,10 +117,10 @@ Friday
 7:00pm - Up-Up Pilipinas
 8:00pm - Pangga Ruth Abao LIVE
 9:00pm - Life Balance
-10:00pm - Sign OFF
+10:00pm - Sign Off
 
 Saturday
-12:00am - Sign OFF
+12:00am - Sign Off
 4:00am - Sa Kabukiran at Kabuhayan
 6:00am - IZ Balita Sabado (Umaga)
 7:00am - Isyu ng Bayan
@@ -138,11 +138,11 @@ Saturday
 7:00pm - Usapang Senado
 8:00pm - Pulis at Ur Serbis
 9:00pm - Beyond Wellness with Ms. P
-10:00pm - Sign OFF
+10:00pm - Sign Off
 
 
 Sunday
-12:00am - Sign OFF
+12:00am - Sign Off
 6:00am - IZ Balita Linggo (Umaga)
 7:00am - Newscoop Weekend
 7:30am - Pera Pera Lang Yan!
@@ -163,6 +163,7 @@ Sunday
 8:15pm - NBL
 8:30pm - NBL
 9:00pm - NBL
+
 
 
 
