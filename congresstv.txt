@@ -1,5 +1,5 @@
 Monday
-12:00am - CongressTV
+12:00am - Plenary Session
 6:00am - CongressTV
 8:00am - CongressTV
 10:00am - Plenary Session
@@ -7,12 +7,12 @@ Monday
 2:00pm - Plenary Session
 4:00pm - Plenary Session
 5:30pm - Congress News
-6:00pm - CongressTV
-8:00pm - CongressTV
-10:00pm - CongressTV
+6:00pm - Plenary Session
+8:00pm - Plenary Session
+10:00pm - Plenary Session
 
 Tuesday
-12:00am - CongressTV
+12:00am - Plenary Session
 6:00am - CongressTV
 8:00am - CongressTV
 10:00am - Plenary Session
@@ -20,13 +20,13 @@ Tuesday
 2:00pm - Plenary Session
 4:00pm - Plenary Session
 5:30pm - Congress News
-6:00pm - CongressTV
-8:00pm - CongressTV
-10:00pm - CongressTV
+6:00pm - Plenary Session
+8:00pm - Plenary Session
+10:00pm - Plenary Session
 
 
 Wednesday
-12:00am - CongressTV
+12:00am - Plenary Session
 6:00am - CongressTV
 8:00am - CongressTV
 10:00am - Plenary Session
@@ -34,13 +34,13 @@ Wednesday
 2:00pm - Plenary Session
 4:00pm - Plenary Session
 5:30pm - Congress News
-6:00pm - CongressTV
-8:00pm - CongressTV
-10:00pm - CongressTV
+6:00pm - Plenary Session
+8:00pm - Plenary Session
+10:00pm - Plenary Session
 
 
 Thursday
-12:00am - CongressTV
+12:00am - Plenary Session
 6:00am - CongressTV
 8:00am - CongressTV
 10:00am - Plenary Session
@@ -48,13 +48,13 @@ Thursday
 2:00pm - Plenary Session
 4:00pm - Plenary Session
 5:30pm - Congress News
-6:00pm - CongressTV
-8:00pm - CongressTV
-10:00pm - CongressTV
+6:00pm - Plenary Session
+8:00pm - Plenary Session
+10:00pm - Plenary Session
 
 
 Friday
-12:00am - CongressTV
+12:00am - Plenary Session
 6:00am - CongressTV
 8:00am - CongressTV
 10:00am - Plenary Session
@@ -62,12 +62,12 @@ Friday
 2:00pm - Plenary Session
 4:00pm - Plenary Session
 5:30pm - Congress News
-6:00pm - CongressTV
-8:00pm - CongressTV
-10:00pm - CongressTV
+6:00pm - Plenary Session
+8:00pm - Plenary Session
+10:00pm - Plenary Session
 
 Saturday
-12:00am - CongressTV
+12:00am - Plenary Session
 6:00am - CongressTV
 8:00am - CongressTV
 10:00am - Plenary Session
@@ -75,12 +75,12 @@ Saturday
 2:00pm - Plenary Session
 4:00pm - Plenary Session
 5:30pm - Congress News
-6:00pm - CongressTV
-8:00pm - CongressTV
-10:00pm - CongressTV
+6:00pm - Plenary Session
+8:00pm - Plenary Session
+10:00pm - Plenary Session
 
 Sunday
-12:00am - CongressTV
+12:00am - Plenary Session
 6:00am - CongressTV
 8:00am - CongressTV
 10:00am - Plenary Session
@@ -88,6 +88,7 @@ Sunday
 2:00pm - Plenary Session
 4:00pm - Plenary Session
 5:30pm - Congress News
-6:00pm - CongressTV
-8:00pm - CongressTV
-10:00pm - CongressTV
+6:00pm - Plenary Session
+8:00pm - Plenary Session
+
+10:00pm - Plenary Session
