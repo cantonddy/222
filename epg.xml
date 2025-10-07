@@ -334,57 +334,37 @@
     <title lang="en">Absolutely Asian</title>
     <desc lang="en">Absolutely Asian</desc>
   </programme>
-  <programme start="20251007090000 +0800" stop="20251007094500 +0800" channel="heartofasia.ph">
+  <programme start="20251007090000 +0800" stop="20251007094000 +0800" channel="heartofasia.ph">
     <title lang="en">Absolutely Asian</title>
     <desc lang="en">Absolutely Asian</desc>
   </programme>
-  <programme start="20251007094500 +0800" stop="20251007103000 +0800" channel="heartofasia.ph">
+  <programme start="20251007094000 +0800" stop="20251007110000 +0800" channel="heartofasia.ph">
     <title lang="en">K Feels</title>
     <desc lang="en">K Feels</desc>
   </programme>
-  <programme start="20251007103000 +0800" stop="20251007111500 +0800" channel="heartofasia.ph">
-    <title lang="en">Absolutely Asian</title>
-    <desc lang="en">Absolutely Asian</desc>
+  <programme start="20251007110000 +0800" stop="20251007133000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA Basketball Game 1</title>
+    <desc lang="en">NCAA Basketball Game 1</desc>
   </programme>
-  <programme start="20251007111500 +0800" stop="20251007120000 +0800" channel="heartofasia.ph">
-    <title lang="en">K Feels</title>
-    <desc lang="en">K Feels</desc>
-  </programme>
-  <programme start="20251007120000 +0800" stop="20251007124500 +0800" channel="heartofasia.ph">
-    <title lang="en">Absolutely Asian</title>
-    <desc lang="en">Absolutely Asian</desc>
-  </programme>
-  <programme start="20251007124500 +0800" stop="20251007133000 +0800" channel="heartofasia.ph">
-    <title lang="en">Absolutely Asian</title>
-    <desc lang="en">Absolutely Asian</desc>
-  </programme>
-  <programme start="20251007133000 +0800" stop="20251007141500 +0800" channel="heartofasia.ph">
-    <title lang="en">K Feels</title>
-    <desc lang="en">K Feels</desc>
-  </programme>
-  <programme start="20251007141500 +0800" stop="20251007150000 +0800" channel="heartofasia.ph">
-    <title lang="en">K Feels</title>
-    <desc lang="en">K Feels</desc>
-  </programme>
-  <programme start="20251007150000 +0800" stop="20251007153000 +0800" channel="heartofasia.ph">
+  <programme start="20251007133000 +0800" stop="20251007140000 +0800" channel="heartofasia.ph">
     <title lang="en">Bida Asia</title>
     <desc lang="en">Bida Asia</desc>
   </programme>
-  <programme start="20251007153000 +0800" stop="20251007163000 +0800" channel="heartofasia.ph">
+  <programme start="20251007140000 +0800" stop="20251007143000 +0800" channel="heartofasia.ph">
     <title lang="en">Astig Anime</title>
     <desc lang="en">Astig Anime</desc>
   </programme>
-  <programme start="20251007163000 +0800" stop="20251007171500 +0800" channel="heartofasia.ph">
+  <programme start="20251007143000 +0800" stop="20251007170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA Basketball Game 2</title>
+    <desc lang="en">NCAA Basketball Game 2</desc>
+  </programme>
+  <programme start="20251007170000 +0800" stop="20251007173000 +0800" channel="heartofasia.ph">
     <title lang="en">Absolutely Asian</title>
     <desc lang="en">Absolutely Asian</desc>
   </programme>
-  <programme start="20251007171500 +0800" stop="20251007180000 +0800" channel="heartofasia.ph">
-    <title lang="en">Absolutely Asian</title>
-    <desc lang="en">Absolutely Asian</desc>
-  </programme>
-  <programme start="20251007180000 +0800" stop="20251007184500 +0800" channel="heartofasia.ph">
-    <title lang="en">Absolutely Asian</title>
-    <desc lang="en">Absolutely Asian</desc>
+  <programme start="20251007173000 +0800" stop="20251007184500 +0800" channel="heartofasia.ph">
+    <title lang="en">K Feels</title>
+    <desc lang="en">K Feels</desc>
   </programme>
   <programme start="20251007184500 +0800" stop="20251007193000 +0800" channel="heartofasia.ph">
     <title lang="en">K Feels</title>
@@ -742,17 +722,13 @@
     <title lang="en">Absolutely Asian</title>
     <desc lang="en">Absolutely Asian</desc>
   </programme>
-  <programme start="20251012120000 +0800" stop="20251012140000 +0800" channel="heartofasia.ph">
-    <title lang="en">K Feels</title>
-    <desc lang="en">K Feels</desc>
+  <programme start="20251012120000 +0800" stop="20251012143000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA Basketball Game 1</title>
+    <desc lang="en">NCAA Basketball Game 1</desc>
   </programme>
-  <programme start="20251012140000 +0800" stop="20251012150000 +0800" channel="heartofasia.ph">
-    <title lang="en">Absolutely Asian</title>
-    <desc lang="en">Absolutely Asian</desc>
-  </programme>
-  <programme start="20251012150000 +0800" stop="20251012170000 +0800" channel="heartofasia.ph">
-    <title lang="en">K Feels</title>
-    <desc lang="en">K Feels</desc>
+  <programme start="20251012143000 +0800" stop="20251012170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA Basketball Game 2</title>
+    <desc lang="en">NCAA Basketball Game 2</desc>
   </programme>
   <programme start="20251012170000 +0800" stop="20251012173000 +0800" channel="heartofasia.ph">
     <title lang="en">K Feels</title>
