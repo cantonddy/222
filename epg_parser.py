@@ -24,6 +24,7 @@ CHANNEL_MAP = {
     'untv.txt': 'untv.ph',
     'heart of asia.txt': 'heartofasia.ph',
     'bilyonaryonews.txt': 'bilyonaryonews.ph',
+    'unifisports.txt': 'unifysports.my',
 }
 
 # Standard mapping of day names to datetime weekday indices (Monday is 0, Sunday is 6)
