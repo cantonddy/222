@@ -20,7 +20,7 @@ Monday
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
-10:00pm - Love Konek
+10:00pm - Kwento Nights
 
 
 Tuesday
@@ -45,7 +45,7 @@ Tuesday
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
-10:00pm - Love Konek
+10:00pm - Kwento Nights
 
 
 Wednesday
@@ -70,7 +70,7 @@ Wednesday
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
-10:00pm - Love Konek
+10:00pm - Kwento Nights
 
 
 
@@ -96,7 +96,7 @@ Thursday
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
-10:00pm - Love Konek
+10:00pm - Kwento Nights
 
 
 Friday
@@ -121,7 +121,7 @@ Friday
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
-10:00pm - Love Konek
+10:00pm - Kwento Nights
 
 
 Saturday
@@ -161,5 +161,6 @@ Sunday
 8:30pm - Replay
 9:30pm - Replay
 10:00pm - Replay
+
 
 
