@@ -3,7 +3,7 @@ Monday
 4:00 AM - Abante Pilipinas
 5:30 AM - Walang Atrasan
 7:00 AM - Abante sa Umaga
-8:00 AM - Parekoy
+8:00 AM - FYI
 9:00 AM - Kasangga mo ang Langit
 10:30 AM - Inbox
 12:00 PM - Abante sa Tanghali
@@ -16,14 +16,14 @@ Monday
 7:30 PM - Sports Now
 8:30 PM - Jigo Live
 9:30 PM - Telebabe
-10:30 PM - Replay
+10:30 PM - Jigo Live
 
 Tuesday
 12:00 AM - Sign Off
 4:00 AM - Abante Pilipinas
 5:30 AM - Walang Atrasan
 7:00 AM - Abante sa Umaga
-8:00 AM - Parekoy
+8:00 AM - FYI
 9:00 AM - Kasangga mo ang Langit
 10:30 AM - Inbox
 12:00 PM - Abante sa Tanghali
@@ -36,7 +36,7 @@ Tuesday
 7:30 PM - Sports Now
 8:30 PM - Jigo Live
 9:30 PM - Telebabe
-10:30 PM - Replay
+10:30 PM - Jigo Live
 
 
 Wednesday
@@ -44,7 +44,7 @@ Wednesday
 4:00 AM - Abante Pilipinas
 5:30 AM - Walang Atrasan
 7:00 AM - Abante sa Umaga
-8:00 AM - Parekoy
+8:00 AM - FYI
 9:00 AM - Kasangga mo ang Langit
 10:30 AM - Inbox
 12:00 PM - Abante sa Tanghali
@@ -57,14 +57,14 @@ Wednesday
 7:30 PM - Sports Now
 8:30 PM - Jigo Live
 9:30 PM - Telebabe
-10:30 PM - Replay
+10:30 PM - Jigo Live
 
 Thursday
 12:00 AM - Sign Off
 4:00 AM - Abante Pilipinas
 5:30 AM - Walang Atrasan
 7:00 AM - Abante sa Umaga
-8:00 AM - Parekoy
+8:00 AM - FYI
 9:00 AM - Kasangga mo ang Langit
 10:30 AM - Inbox
 12:00 PM - Abante sa Tanghali
@@ -84,7 +84,7 @@ Friday
 4:00 AM - Abante Pilipinas
 5:30 AM - Walang Atrasan
 7:00 AM - Abante sa Umaga
-8:00 AM - Parekoy
+8:00 AM - FYI
 9:00 AM - Kasangga mo ang Langit
 10:30 AM - Inbox
 12:00 PM - Abante sa Tanghali
@@ -133,3 +133,4 @@ Sunday
 7:30 PM - Replay
 9:00 PM - Abanteliling
 10:00 PM - Replay
+
