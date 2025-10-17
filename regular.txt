@@ -1,0 +1,87 @@
+
+Monday
+12:00am - Regular Programming
+6:00am - Regular Programming
+8:00am - Regular Programming
+10:00am - Regular Programming
+12:00pm - Regular Programming
+2:00pm - Regular Programming
+4:00pm - Regular Programming
+6:00pm - Regular Programming
+8:00pm - Regular Programming
+10:00pm - Regular Programming
+
+
+Tuesday
+12:00am - Regular Programming
+6:00am - Regular Programming
+8:00am - Regular Programming
+10:00am - Regular Programming
+12:00pm - Regular Programming
+2:00pm - Regular Programming
+4:00pm - Regular Programming
+6:00pm - Regular Programming
+8:00pm - Regular Programming
+10:00pm - Regular Programming
+
+
+Wednesday
+12:00am - Regular Programming
+6:00am - Regular Programming
+8:00am - Regular Programming
+10:00am - Regular Programming
+12:00pm - Regular Programming
+2:00pm - Regular Programming
+4:00pm - Regular Programming
+6:00pm - Regular Programming
+8:00pm - Regular Programming
+10:00pm - Regular Programming
+
+
+Thursday
+12:00am - Regular Programming
+6:00am - Regular Programming
+8:00am - Regular Programming
+10:00am - Regular Programming
+12:00pm - Regular Programming
+2:00pm - Regular Programming
+4:00pm - Regular Programming
+6:00pm - Regular Programming
+8:00pm - Regular Programming
+10:00pm - Regular Programming
+
+Friday
+12:00am - Regular Programming
+6:00am - Regular Programming
+8:00am - Regular Programming
+10:00am - Regular Programming
+12:00pm - Regular Programming
+2:00pm - Regular Programming
+4:00pm - Regular Programming
+6:00pm - Regular Programming
+8:00pm - Regular Programming
+10:00pm - Regular Programming
+
+Saturday
+12:00am - Regular Programming
+6:00am - Regular Programming
+8:00am - Regular Programming
+10:00am - Regular Programming
+12:00pm - Regular Programming
+2:00pm - Regular Programming
+4:00pm - Regular Programming
+6:00pm - Regular Programming
+8:00pm - Regular Programming
+10:00pm - Regular Programming
+
+Sunday
+12:00am - Regular Programming
+6:00am - Regular Programming
+8:00am - Regular Programming
+10:00am - Regular Programming
+12:00pm - Regular Programming
+2:00pm - Regular Programming
+4:00pm - Regular Programming
+6:00pm - Regular Programming
+8:00pm - Regular Programming
+10:00pm - Regular Programming
