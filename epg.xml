@@ -22,6 +22,9 @@
   <channel id="gma.ph">
     <display-name lang="en">GMA</display-name>
   </channel>
+  <channel id="gtv.ph">
+    <display-name lang="en">GTV</display-name>
+  </channel>
   <channel id="hboboxing.us">
     <display-name lang="en">HBOBOXING</display-name>
   </channel>
@@ -4833,6 +4836,438 @@
   <programme start="20251104223000 +0800" stop="20251104233000 +0800" channel="abante.ph">
     <title lang="en">Jigo Live</title>
     <desc lang="en">Jigo Live</desc>
+  </programme>
+  <programme start="20251029000000 +0800" stop="20251029053000 +0800" channel="gtv.ph">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off</desc>
+  </programme>
+  <programme start="20251029053000 +0800" stop="20251029090000 +0800" channel="gtv.ph">
+    <title lang="en">Dobol B TV (Live)</title>
+    <desc lang="en">Dobol B TV (Live)</desc>
+  </programme>
+  <programme start="20251029090000 +0800" stop="20251029110000 +0800" channel="gtv.ph">
+    <title lang="en">Cinema G!</title>
+    <desc lang="en">Cinema G!</desc>
+  </programme>
+  <programme start="20251029110000 +0800" stop="20251029120000 +0800" channel="gtv.ph">
+    <title lang="en">Balitanghali (Live)</title>
+    <desc lang="en">Balitanghali (Live)</desc>
+  </programme>
+  <programme start="20251029120000 +0800" stop="20251029143000 +0800" channel="gtv.ph">
+    <title lang="en">Noontime Movie Hits</title>
+    <desc lang="en">Noontime Movie Hits</desc>
+  </programme>
+  <programme start="20251029143000 +0800" stop="20251029170000 +0800" channel="gtv.ph">
+    <title lang="en">NCAA Season 101 Building Greatness (Live)</title>
+    <desc lang="en">NCAA Season 101 Building Greatness (Live)</desc>
+  </programme>
+  <programme start="20251029170000 +0800" stop="20251029174500 +0800" channel="gtv.ph">
+    <title lang="en">Bad Romeo</title>
+    <desc lang="en">Bad Romeo</desc>
+  </programme>
+  <programme start="20251029174500 +0800" stop="20251029183000 +0800" channel="gtv.ph">
+    <title lang="en">Hearts On Ice</title>
+    <desc lang="en">Hearts On Ice</desc>
+  </programme>
+  <programme start="20251029183000 +0800" stop="20251029200500 +0800" channel="gtv.ph">
+    <title lang="en">24 Oras (Live)</title>
+    <desc lang="en">24 Oras (Live)</desc>
+  </programme>
+  <programme start="20251029200500 +0800" stop="20251029214500 +0800" channel="gtv.ph">
+    <title lang="en">G! Flicks</title>
+    <desc lang="en">G! Flicks</desc>
+  </programme>
+  <programme start="20251029214500 +0800" stop="20251029223000 +0800" channel="gtv.ph">
+    <title lang="en">Encantadia Chronicles Sang'gre</title>
+    <desc lang="en">Encantadia Chronicles Sang'gre</desc>
+  </programme>
+  <programme start="20251029223000 +0800" stop="20251029230000 +0800" channel="gtv.ph">
+    <title lang="en">Sanggang Dikit FR</title>
+    <desc lang="en">Sanggang Dikit FR</desc>
+  </programme>
+  <programme start="20251029230000 +0800" stop="20251029232500 +0800" channel="gtv.ph">
+    <title lang="en">State of The Nation (Live)</title>
+    <desc lang="en">State of The Nation (Live)</desc>
+  </programme>
+  <programme start="20251029232500 +0800" stop="20251030000000 +0800" channel="gtv.ph">
+    <title lang="en">True Horror Stories 20th Anniversary Special</title>
+    <desc lang="en">True Horror Stories 20th Anniversary Special</desc>
+  </programme>
+  <programme start="20251030000000 +0800" stop="20251030053000 +0800" channel="gtv.ph">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off</desc>
+  </programme>
+  <programme start="20251030053000 +0800" stop="20251030090000 +0800" channel="gtv.ph">
+    <title lang="en">Dobol B TV (Live)</title>
+    <desc lang="en">Dobol B TV (Live)</desc>
+  </programme>
+  <programme start="20251030090000 +0800" stop="20251030110000 +0800" channel="gtv.ph">
+    <title lang="en">Cinema G!</title>
+    <desc lang="en">Cinema G!</desc>
+  </programme>
+  <programme start="20251030110000 +0800" stop="20251030120000 +0800" channel="gtv.ph">
+    <title lang="en">Balitanghali (Live)</title>
+    <desc lang="en">Balitanghali (Live)</desc>
+  </programme>
+  <programme start="20251030120000 +0800" stop="20251030143000 +0800" channel="gtv.ph">
+    <title lang="en">Noontime Movie Hits</title>
+    <desc lang="en">Noontime Movie Hits</desc>
+  </programme>
+  <programme start="20251030143000 +0800" stop="20251030150000 +0800" channel="gtv.ph">
+    <title lang="en">Princess Hours</title>
+    <desc lang="en">Princess Hours</desc>
+  </programme>
+  <programme start="20251030150000 +0800" stop="20251030153000 +0800" channel="gtv.ph">
+    <title lang="en">Bad Romeo</title>
+    <desc lang="en">Bad Romeo</desc>
+  </programme>
+  <programme start="20251030153000 +0800" stop="20251030174500 +0800" channel="gtv.ph">
+    <title lang="en">Afternoon Movie Break</title>
+    <desc lang="en">Afternoon Movie Break</desc>
+  </programme>
+  <programme start="20251030174500 +0800" stop="20251030183000 +0800" channel="gtv.ph">
+    <title lang="en">Hearts On Ice</title>
+    <desc lang="en">Hearts On Ice</desc>
+  </programme>
+  <programme start="20251030183000 +0800" stop="20251030200500 +0800" channel="gtv.ph">
+    <title lang="en">24 Oras (Live)</title>
+    <desc lang="en">24 Oras (Live)</desc>
+  </programme>
+  <programme start="20251030200500 +0800" stop="20251030214500 +0800" channel="gtv.ph">
+    <title lang="en">G! Flicks</title>
+    <desc lang="en">G! Flicks</desc>
+  </programme>
+  <programme start="20251030214500 +0800" stop="20251030223000 +0800" channel="gtv.ph">
+    <title lang="en">Encantadia Chronicles Sang'gre</title>
+    <desc lang="en">Encantadia Chronicles Sang'gre</desc>
+  </programme>
+  <programme start="20251030223000 +0800" stop="20251030230000 +0800" channel="gtv.ph">
+    <title lang="en">Sanggang Dikit FR</title>
+    <desc lang="en">Sanggang Dikit FR</desc>
+  </programme>
+  <programme start="20251030230000 +0800" stop="20251030232500 +0800" channel="gtv.ph">
+    <title lang="en">State of The Nation (Live)</title>
+    <desc lang="en">State of The Nation (Live)</desc>
+  </programme>
+  <programme start="20251030232500 +0800" stop="20251031000000 +0800" channel="gtv.ph">
+    <title lang="en">True Horror Stories 20th Anniversary Special</title>
+    <desc lang="en">True Horror Stories 20th Anniversary Special</desc>
+  </programme>
+  <programme start="20251031000000 +0800" stop="20251031053000 +0800" channel="gtv.ph">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off</desc>
+  </programme>
+  <programme start="20251031053000 +0800" stop="20251031090000 +0800" channel="gtv.ph">
+    <title lang="en">Dobol B TV (Live)</title>
+    <desc lang="en">Dobol B TV (Live)</desc>
+  </programme>
+  <programme start="20251031090000 +0800" stop="20251031110000 +0800" channel="gtv.ph">
+    <title lang="en">Cinema G!</title>
+    <desc lang="en">Cinema G!</desc>
+  </programme>
+  <programme start="20251031110000 +0800" stop="20251031120000 +0800" channel="gtv.ph">
+    <title lang="en">Balitanghali (Live)</title>
+    <desc lang="en">Balitanghali (Live)</desc>
+  </programme>
+  <programme start="20251031120000 +0800" stop="20251031143000 +0800" channel="gtv.ph">
+    <title lang="en">Noontime Movie Hits</title>
+    <desc lang="en">Noontime Movie Hits</desc>
+  </programme>
+  <programme start="20251031143000 +0800" stop="20251031150000 +0800" channel="gtv.ph">
+    <title lang="en">Princess Hours</title>
+    <desc lang="en">Princess Hours</desc>
+  </programme>
+  <programme start="20251031150000 +0800" stop="20251031153000 +0800" channel="gtv.ph">
+    <title lang="en">Bad Romeo</title>
+    <desc lang="en">Bad Romeo</desc>
+  </programme>
+  <programme start="20251031153000 +0800" stop="20251031174500 +0800" channel="gtv.ph">
+    <title lang="en">Afternoon Movie Break</title>
+    <desc lang="en">Afternoon Movie Break</desc>
+  </programme>
+  <programme start="20251031174500 +0800" stop="20251031183000 +0800" channel="gtv.ph">
+    <title lang="en">Hearts On Ice</title>
+    <desc lang="en">Hearts On Ice</desc>
+  </programme>
+  <programme start="20251031183000 +0800" stop="20251031200000 +0800" channel="gtv.ph">
+    <title lang="en">24 Oras (Live)</title>
+    <desc lang="en">24 Oras (Live)</desc>
+  </programme>
+  <programme start="20251031200000 +0800" stop="20251031220000 +0800" channel="gtv.ph">
+    <title lang="en">Int'l Series PH X Bingo Plus</title>
+    <desc lang="en">Int'l Series PH X Bingo Plus</desc>
+  </programme>
+  <programme start="20251031220000 +0800" stop="20251031223000 +0800" channel="gtv.ph">
+    <title lang="en">Encantadia Chronicles Sang'gre</title>
+    <desc lang="en">Encantadia Chronicles Sang'gre</desc>
+  </programme>
+  <programme start="20251031223000 +0800" stop="20251031230000 +0800" channel="gtv.ph">
+    <title lang="en">Sanggang Dikit FR</title>
+    <desc lang="en">Sanggang Dikit FR</desc>
+  </programme>
+  <programme start="20251031230000 +0800" stop="20251031232500 +0800" channel="gtv.ph">
+    <title lang="en">State of The Nation (Live)</title>
+    <desc lang="en">State of The Nation (Live)</desc>
+  </programme>
+  <programme start="20251031232500 +0800" stop="20251101000000 +0800" channel="gtv.ph">
+    <title lang="en">True Horror Stories 20th Anniversary Special</title>
+    <desc lang="en">True Horror Stories 20th Anniversary Special</desc>
+  </programme>
+  <programme start="20251101000000 +0800" stop="20251101053000 +0800" channel="gtv.ph">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off</desc>
+  </programme>
+  <programme start="20251101053000 +0800" stop="20251101090000 +0800" channel="gtv.ph">
+    <title lang="en">Dobol B TV (Live)</title>
+    <desc lang="en">Dobol B TV (Live)</desc>
+  </programme>
+  <programme start="20251101090000 +0800" stop="20251101093000 +0800" channel="gtv.ph">
+    <title lang="en">Siyensikat Pinoy Popular Science Para sa Lahat</title>
+    <desc lang="en">Siyensikat Pinoy Popular Science Para sa Lahat</desc>
+  </programme>
+  <programme start="20251101093000 +0800" stop="20251101103000 +0800" channel="gtv.ph">
+    <title lang="en">Healing Galing (Live)</title>
+    <desc lang="en">Healing Galing (Live)</desc>
+  </programme>
+  <programme start="20251101103000 +0800" stop="20251101110000 +0800" channel="gtv.ph">
+    <title lang="en">Business Matters</title>
+    <desc lang="en">Business Matters</desc>
+  </programme>
+  <programme start="20251101110000 +0800" stop="20251101120000 +0800" channel="gtv.ph">
+    <title lang="en">Saturday Cinema Hits</title>
+    <desc lang="en">Saturday Cinema Hits</desc>
+  </programme>
+  <programme start="20251101120000 +0800" stop="20251101143000 +0800" channel="gtv.ph">
+    <title lang="en">Noontime Movie Hits</title>
+    <desc lang="en">Noontime Movie Hits</desc>
+  </programme>
+  <programme start="20251101143000 +0800" stop="20251101170000 +0800" channel="gtv.ph">
+    <title lang="en">NCAA Season 101 Building Greatness (Live)</title>
+    <desc lang="en">NCAA Season 101 Building Greatness (Live)</desc>
+  </programme>
+  <programme start="20251101170000 +0800" stop="20251101173000 +0800" channel="gtv.ph">
+    <title lang="en">Bad Romeo</title>
+    <desc lang="en">Bad Romeo</desc>
+  </programme>
+  <programme start="20251101173000 +0800" stop="20251101181500 +0800" channel="gtv.ph">
+    <title lang="en">24 Oras Weekend (Live)</title>
+    <desc lang="en">24 Oras Weekend (Live)</desc>
+  </programme>
+  <programme start="20251101181500 +0800" stop="20251101201500 +0800" channel="gtv.ph">
+    <title lang="en">G! Flicks</title>
+    <desc lang="en">G! Flicks</desc>
+  </programme>
+  <programme start="20251101201500 +0800" stop="20251101210000 +0800" channel="gtv.ph">
+    <title lang="en">Pinas Sarap</title>
+    <desc lang="en">Pinas Sarap</desc>
+  </programme>
+  <programme start="20251101210000 +0800" stop="20251101214500 +0800" channel="gtv.ph">
+    <title lang="en">Good News Kasama si Vicky Morales</title>
+    <desc lang="en">Good News Kasama si Vicky Morales</desc>
+  </programme>
+  <programme start="20251101214500 +0800" stop="20251101223000 +0800" channel="gtv.ph">
+    <title lang="en">Daig Kayo ng Lola Ko</title>
+    <desc lang="en">Daig Kayo ng Lola Ko</desc>
+  </programme>
+  <programme start="20251101223000 +0800" stop="20251101233000 +0800" channel="gtv.ph">
+    <title lang="en">Just For Laughs Gags</title>
+    <desc lang="en">Just For Laughs Gags</desc>
+  </programme>
+  <programme start="20251101233000 +0800" stop="20251102000000 +0800" channel="gtv.ph">
+    <title lang="en">In Touch With Dr. Charles Stanley</title>
+    <desc lang="en">In Touch With Dr. Charles Stanley</desc>
+  </programme>
+  <programme start="20251102000000 +0800" stop="20251102060000 +0800" channel="gtv.ph">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off</desc>
+  </programme>
+  <programme start="20251102060000 +0800" stop="20251102063000 +0800" channel="gtv.ph">
+    <title lang="en">Piggy Tales</title>
+    <desc lang="en">Piggy Tales</desc>
+  </programme>
+  <programme start="20251102063000 +0800" stop="20251102070000 +0800" channel="gtv.ph">
+    <title lang="en">Puppy In My Pocket</title>
+    <desc lang="en">Puppy In My Pocket</desc>
+  </programme>
+  <programme start="20251102070000 +0800" stop="20251102073000 +0800" channel="gtv.ph">
+    <title lang="en">Aliens NINANO</title>
+    <desc lang="en">Aliens NINANO</desc>
+  </programme>
+  <programme start="20251102073000 +0800" stop="20251102083000 +0800" channel="gtv.ph">
+    <title lang="en">TrollsTopia</title>
+    <desc lang="en">TrollsTopia</desc>
+  </programme>
+  <programme start="20251102083000 +0800" stop="20251102093000 +0800" channel="gtv.ph">
+    <title lang="en">Kung Fu Panda Paws of Destiny</title>
+    <desc lang="en">Kung Fu Panda Paws of Destiny</desc>
+  </programme>
+  <programme start="20251102093000 +0800" stop="20251102103000 +0800" channel="gtv.ph">
+    <title lang="en">Word of God Network</title>
+    <desc lang="en">Word of God Network</desc>
+  </programme>
+  <programme start="20251102103000 +0800" stop="20251102110000 +0800" channel="gtv.ph">
+    <title lang="en">Jujutsu Kaisen</title>
+    <desc lang="en">Jujutsu Kaisen</desc>
+  </programme>
+  <programme start="20251102110000 +0800" stop="20251102113000 +0800" channel="gtv.ph">
+    <title lang="en">Kamen Rider Zero One</title>
+    <desc lang="en">Kamen Rider Zero One</desc>
+  </programme>
+  <programme start="20251102113000 +0800" stop="20251102120000 +0800" channel="gtv.ph">
+    <title lang="en">Superhero Academy</title>
+    <desc lang="en">Superhero Academy</desc>
+  </programme>
+  <programme start="20251102120000 +0800" stop="20251102170000 +0800" channel="gtv.ph">
+    <title lang="en">NCAA Season 101 Building Greatness (Live)</title>
+    <desc lang="en">NCAA Season 101 Building Greatness (Live)</desc>
+  </programme>
+  <programme start="20251102170000 +0800" stop="20251102173000 +0800" channel="gtv.ph">
+    <title lang="en">Bad Romeo</title>
+    <desc lang="en">Bad Romeo</desc>
+  </programme>
+  <programme start="20251102173000 +0800" stop="20251102181000 +0800" channel="gtv.ph">
+    <title lang="en">24 Oras Weekend (Live)</title>
+    <desc lang="en">24 Oras Weekend (Live)</desc>
+  </programme>
+  <programme start="20251102181000 +0800" stop="20251102190000 +0800" channel="gtv.ph">
+    <title lang="en">Biyahe ni Drew</title>
+    <desc lang="en">Biyahe ni Drew</desc>
+  </programme>
+  <programme start="20251102190000 +0800" stop="20251102194500 +0800" channel="gtv.ph">
+    <title lang="en">Farm To Table</title>
+    <desc lang="en">Farm To Table</desc>
+  </programme>
+  <programme start="20251102194500 +0800" stop="20251102203000 +0800" channel="gtv.ph">
+    <title lang="en">I Juander</title>
+    <desc lang="en">I Juander</desc>
+  </programme>
+  <programme start="20251102203000 +0800" stop="20251102211500 +0800" channel="gtv.ph">
+    <title lang="en">Happy ToGetHer</title>
+    <desc lang="en">Happy ToGetHer</desc>
+  </programme>
+  <programme start="20251102211500 +0800" stop="20251102230500 +0800" channel="gtv.ph">
+    <title lang="en">Kapuso Mo, Jessica Soho</title>
+    <desc lang="en">Kapuso Mo, Jessica Soho</desc>
+  </programme>
+  <programme start="20251102230500 +0800" stop="20251103000000 +0800" channel="gtv.ph">
+    <title lang="en">Dear Uge</title>
+    <desc lang="en">Dear Uge</desc>
+  </programme>
+  <programme start="20251103000000 +0800" stop="20251103053000 +0800" channel="gtv.ph">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off</desc>
+  </programme>
+  <programme start="20251103053000 +0800" stop="20251103090000 +0800" channel="gtv.ph">
+    <title lang="en">Dobol B TV (Live)</title>
+    <desc lang="en">Dobol B TV (Live)</desc>
+  </programme>
+  <programme start="20251103090000 +0800" stop="20251103110000 +0800" channel="gtv.ph">
+    <title lang="en">Cinema G!</title>
+    <desc lang="en">Cinema G!</desc>
+  </programme>
+  <programme start="20251103110000 +0800" stop="20251103120000 +0800" channel="gtv.ph">
+    <title lang="en">Balitanghali (Live)</title>
+    <desc lang="en">Balitanghali (Live)</desc>
+  </programme>
+  <programme start="20251103120000 +0800" stop="20251103143000 +0800" channel="gtv.ph">
+    <title lang="en">Noontime Movie Hits</title>
+    <desc lang="en">Noontime Movie Hits</desc>
+  </programme>
+  <programme start="20251103143000 +0800" stop="20251103150000 +0800" channel="gtv.ph">
+    <title lang="en">Princess Hours</title>
+    <desc lang="en">Princess Hours</desc>
+  </programme>
+  <programme start="20251103150000 +0800" stop="20251103153000 +0800" channel="gtv.ph">
+    <title lang="en">Bad Romeo</title>
+    <desc lang="en">Bad Romeo</desc>
+  </programme>
+  <programme start="20251103153000 +0800" stop="20251103174500 +0800" channel="gtv.ph">
+    <title lang="en">Afternoon Movie Break</title>
+    <desc lang="en">Afternoon Movie Break</desc>
+  </programme>
+  <programme start="20251103174500 +0800" stop="20251103183000 +0800" channel="gtv.ph">
+    <title lang="en">Hearts On Ice</title>
+    <desc lang="en">Hearts On Ice</desc>
+  </programme>
+  <programme start="20251103183000 +0800" stop="20251103200500 +0800" channel="gtv.ph">
+    <title lang="en">24 Oras (Live)</title>
+    <desc lang="en">24 Oras (Live)</desc>
+  </programme>
+  <programme start="20251103200500 +0800" stop="20251103214500 +0800" channel="gtv.ph">
+    <title lang="en">G! Flicks</title>
+    <desc lang="en">G! Flicks</desc>
+  </programme>
+  <programme start="20251103214500 +0800" stop="20251103223000 +0800" channel="gtv.ph">
+    <title lang="en">Encantadia Chronicles Sang'gre</title>
+    <desc lang="en">Encantadia Chronicles Sang'gre</desc>
+  </programme>
+  <programme start="20251103223000 +0800" stop="20251103230000 +0800" channel="gtv.ph">
+    <title lang="en">Sanggang Dikit FR</title>
+    <desc lang="en">Sanggang Dikit FR</desc>
+  </programme>
+  <programme start="20251103230000 +0800" stop="20251103232500 +0800" channel="gtv.ph">
+    <title lang="en">State of The Nation (Live)</title>
+    <desc lang="en">State of The Nation (Live)</desc>
+  </programme>
+  <programme start="20251103232500 +0800" stop="20251104000000 +0800" channel="gtv.ph">
+    <title lang="en">True Horror Stories 20th Anniversary Special</title>
+    <desc lang="en">True Horror Stories 20th Anniversary Special</desc>
+  </programme>
+  <programme start="20251104000000 +0800" stop="20251104053000 +0800" channel="gtv.ph">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off</desc>
+  </programme>
+  <programme start="20251104053000 +0800" stop="20251104090000 +0800" channel="gtv.ph">
+    <title lang="en">Dobol B TV (Live)</title>
+    <desc lang="en">Dobol B TV (Live)</desc>
+  </programme>
+  <programme start="20251104090000 +0800" stop="20251104110000 +0800" channel="gtv.ph">
+    <title lang="en">Cinema G!</title>
+    <desc lang="en">Cinema G!</desc>
+  </programme>
+  <programme start="20251104110000 +0800" stop="20251104120000 +0800" channel="gtv.ph">
+    <title lang="en">Balitanghali (Live)</title>
+    <desc lang="en">Balitanghali (Live)</desc>
+  </programme>
+  <programme start="20251104120000 +0800" stop="20251104143000 +0800" channel="gtv.ph">
+    <title lang="en">Noontime Movie Hits</title>
+    <desc lang="en">Noontime Movie Hits</desc>
+  </programme>
+  <programme start="20251104143000 +0800" stop="20251104170000 +0800" channel="gtv.ph">
+    <title lang="en">NCAA Season 101 Building Greatness (Live)</title>
+    <desc lang="en">NCAA Season 101 Building Greatness (Live)</desc>
+  </programme>
+  <programme start="20251104170000 +0800" stop="20251104174500 +0800" channel="gtv.ph">
+    <title lang="en">Bad Romeo</title>
+    <desc lang="en">Bad Romeo</desc>
+  </programme>
+  <programme start="20251104174500 +0800" stop="20251104183000 +0800" channel="gtv.ph">
+    <title lang="en">Hearts On Ice</title>
+    <desc lang="en">Hearts On Ice</desc>
+  </programme>
+  <programme start="20251104183000 +0800" stop="20251104200500 +0800" channel="gtv.ph">
+    <title lang="en">24 Oras (Live)</title>
+    <desc lang="en">24 Oras (Live)</desc>
+  </programme>
+  <programme start="20251104200500 +0800" stop="20251104214500 +0800" channel="gtv.ph">
+    <title lang="en">G! Flicks</title>
+    <desc lang="en">G! Flicks</desc>
+  </programme>
+  <programme start="20251104214500 +0800" stop="20251104223000 +0800" channel="gtv.ph">
+    <title lang="en">Encantadia Chronicles Sang'gre</title>
+    <desc lang="en">Encantadia Chronicles Sang'gre</desc>
+  </programme>
+  <programme start="20251104223000 +0800" stop="20251104230000 +0800" channel="gtv.ph">
+    <title lang="en">Sanggang Dikit FR</title>
+    <desc lang="en">Sanggang Dikit FR</desc>
+  </programme>
+  <programme start="20251104230000 +0800" stop="20251104232500 +0800" channel="gtv.ph">
+    <title lang="en">State of The Nation (Live)</title>
+    <desc lang="en">State of The Nation (Live)</desc>
+  </programme>
+  <programme start="20251104232500 +0800" stop="20251105002500 +0800" channel="gtv.ph">
+    <title lang="en">True Horror Stories 20th Anniversary Special</title>
+    <desc lang="en">True Horror Stories 20th Anniversary Special</desc>
   </programme>
   <programme start="20251029000000 +0800" stop="20251029050000 +0800" channel="aliwchannel.ph">
     <title lang="en">Sign Off</title>
