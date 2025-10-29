@@ -28,6 +28,7 @@ CHANNEL_MAP = {
     'unifisports.txt': 'unifysports.my',
     'tv5.txt': 'tv5.ph',
     'gma.txt': 'gma.ph',
+    'gtv.txt': 'gtv.ph',
 }
 
 # Standard mapping of day names to datetime weekday indices (Monday is 0, Sunday is 6)
