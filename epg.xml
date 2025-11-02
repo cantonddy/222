@@ -34,6 +34,9 @@
   <channel id="iheartmovies.ph">
     <display-name lang="en">IHEARTMOVIES</display-name>
   </channel>
+  <channel id="kapamilya.ph">
+    <display-name lang="en">KAPAMILYA</display-name>
+  </channel>
   <channel id="lighttv.ph">
     <display-name lang="en">LIGHTTV</display-name>
   </channel>
@@ -49,118 +52,6 @@
   <channel id="untv.ph">
     <display-name lang="en">UNTV</display-name>
   </channel>
-  <programme start="20251101000000 +0800" stop="20251101003000 +0800" channel="gma.ph">
-    <title lang="en">The 700 Club Asia</title>
-    <desc lang="en">The 700 Club Asia</desc>
-  </programme>
-  <programme start="20251101003000 +0800" stop="20251101053000 +0800" channel="gma.ph">
-    <title lang="en">Sign Off</title>
-    <desc lang="en">Sign Off</desc>
-  </programme>
-  <programme start="20251101053000 +0800" stop="20251101060000 +0800" channel="gma.ph">
-    <title lang="en">Kapwa Ko, Mahal Ko</title>
-    <desc lang="en">Kapwa Ko, Mahal Ko</desc>
-  </programme>
-  <programme start="20251101060000 +0800" stop="20251101063000 +0800" channel="gma.ph">
-    <title lang="en">Agripreneur</title>
-    <desc lang="en">Agripreneur</desc>
-  </programme>
-  <programme start="20251101063000 +0800" stop="20251101070000 +0800" channel="gma.ph">
-    <title lang="en">Game Keepers</title>
-    <desc lang="en">Game Keepers</desc>
-  </programme>
-  <programme start="20251101070000 +0800" stop="20251101073000 +0800" channel="gma.ph">
-    <title lang="en">Turbo Zone</title>
-    <desc lang="en">Turbo Zone</desc>
-  </programme>
-  <programme start="20251101073000 +0800" stop="20251101080000 +0800" channel="gma.ph">
-    <title lang="en">Detective Conan</title>
-    <desc lang="en">Detective Conan</desc>
-  </programme>
-  <programme start="20251101080000 +0800" stop="20251101083000 +0800" channel="gma.ph">
-    <title lang="en">Taffy</title>
-    <desc lang="en">Taffy</desc>
-  </programme>
-  <programme start="20251101083000 +0800" stop="20251101090000 +0800" channel="gma.ph">
-    <title lang="en">Magic Kaito</title>
-    <desc lang="en">Magic Kaito</desc>
-  </programme>
-  <programme start="20251101090000 +0800" stop="20251101093000 +0800" channel="gma.ph">
-    <title lang="en">All New Jackie Chan Adventures</title>
-    <desc lang="en">All New Jackie Chan Adventures</desc>
-  </programme>
-  <programme start="20251101093000 +0800" stop="20251101100000 +0800" channel="gma.ph">
-    <title lang="en">Voltes V</title>
-    <desc lang="en">Voltes V</desc>
-  </programme>
-  <programme start="20251101100000 +0800" stop="20251101101500 +0800" channel="gma.ph">
-    <title lang="en">Angry Birds Bubble Trouble and Makerspace</title>
-    <desc lang="en">Angry Birds Bubble Trouble and Makerspace</desc>
-  </programme>
-  <programme start="20251101101500 +0800" stop="20251101104500 +0800" channel="gma.ph">
-    <title lang="en">One Piece Dressrosa Arc</title>
-    <desc lang="en">One Piece Dressrosa Arc</desc>
-  </programme>
-  <programme start="20251101104500 +0800" stop="20251101111500 +0800" channel="gma.ph">
-    <title lang="en">Dami Mong Alam, Kuya Kim</title>
-    <desc lang="en">Dami Mong Alam, Kuya Kim</desc>
-  </programme>
-  <programme start="20251101111500 +0800" stop="20251101120000 +0800" channel="gma.ph">
-    <title lang="en">Pera Paraan</title>
-    <desc lang="en">Pera Paraan</desc>
-  </programme>
-  <programme start="20251101120000 +0800" stop="20251101143000 +0800" channel="gma.ph">
-    <title lang="en">It's Showtime</title>
-    <desc lang="en">It's Showtime</desc>
-  </programme>
-  <programme start="20251101143000 +0800" stop="20251101151500 +0800" channel="gma.ph">
-    <title lang="en">Hating Kapatid</title>
-    <desc lang="en">Hating Kapatid</desc>
-  </programme>
-  <programme start="20251101151500 +0800" stop="20251101160500 +0800" channel="gma.ph">
-    <title lang="en">Tadhana</title>
-    <desc lang="en">Tadhana</desc>
-  </programme>
-  <programme start="20251101160500 +0800" stop="20251101164500 +0800" channel="gma.ph">
-    <title lang="en">Wish Ko Lang</title>
-    <desc lang="en">Wish Ko Lang</desc>
-  </programme>
-  <programme start="20251101164500 +0800" stop="20251101173000 +0800" channel="gma.ph">
-    <title lang="en">MAKA</title>
-    <desc lang="en">MAKA</desc>
-  </programme>
-  <programme start="20251101173000 +0800" stop="20251101181500 +0800" channel="gma.ph">
-    <title lang="en">24 Oras Weekend</title>
-    <desc lang="en">24 Oras Weekend</desc>
-  </programme>
-  <programme start="20251101181500 +0800" stop="20251101191500 +0800" channel="gma.ph">
-    <title lang="en">Pinoy Big Brother Celebrity Collab Edition</title>
-    <desc lang="en">Pinoy Big Brother Celebrity Collab Edition</desc>
-  </programme>
-  <programme start="20251101191500 +0800" stop="20251101201500 +0800" channel="gma.ph">
-    <title lang="en">Pepito Manaloto Tuloy Ang Kuwento</title>
-    <desc lang="en">Pepito Manaloto Tuloy Ang Kuwento</desc>
-  </programme>
-  <programme start="20251101201500 +0800" stop="20251101213000 +0800" channel="gma.ph">
-    <title lang="en">Magpakailanman</title>
-    <desc lang="en">Magpakailanman</desc>
-  </programme>
-  <programme start="20251101213000 +0800" stop="20251101221500 +0800" channel="gma.ph">
-    <title lang="en">Daig Kayo Ng Lola Ko</title>
-    <desc lang="en">Daig Kayo Ng Lola Ko</desc>
-  </programme>
-  <programme start="20251101221500 +0800" stop="20251101230000 +0800" channel="gma.ph">
-    <title lang="en">I-Witness</title>
-    <desc lang="en">I-Witness</desc>
-  </programme>
-  <programme start="20251101230000 +0800" stop="20251101233000 +0800" channel="gma.ph">
-    <title lang="en">Reporter's Notebook</title>
-    <desc lang="en">Reporter's Notebook</desc>
-  </programme>
-  <programme start="20251101233000 +0800" stop="20251102000000 +0800" channel="gma.ph">
-    <title lang="en">Desirable Flowers</title>
-    <desc lang="en">Desirable Flowers</desc>
-  </programme>
   <programme start="20251102000000 +0800" stop="20251102053000 +0800" channel="gma.ph">
     <title lang="en">Sign Off</title>
     <desc lang="en">Sign Off</desc>
@@ -282,8 +173,8 @@
     <desc lang="en">Cruz vs. Cruz</desc>
   </programme>
   <programme start="20251103160500 +0800" stop="20251103164500 +0800" channel="gma.ph">
-    <title lang="en">Akusada</title>
-    <desc lang="en">Akusada</desc>
+    <title lang="en">Unica Hija</title>
+    <desc lang="en">Unica Hija</desc>
   </programme>
   <programme start="20251103164500 +0800" stop="20251103171000 +0800" channel="gma.ph">
     <title lang="en">Fast Talk with Boy Abunda</title>
@@ -322,8 +213,8 @@
     <desc lang="en">When I Marry A Stranger</desc>
   </programme>
   <programme start="20251103233000 +0800" stop="20251104000000 +0800" channel="gma.ph">
-    <title lang="en">Wicked-in-Law</title>
-    <desc lang="en">Wicked-in-Law</desc>
+    <title lang="en">To the Moon and Back</title>
+    <desc lang="en">To the Moon and Back</desc>
   </programme>
   <programme start="20251104000000 +0800" stop="20251104003000 +0800" channel="gma.ph">
     <title lang="en">The 700 Club Asia</title>
@@ -370,8 +261,8 @@
     <desc lang="en">Cruz vs. Cruz</desc>
   </programme>
   <programme start="20251104160500 +0800" stop="20251104164500 +0800" channel="gma.ph">
-    <title lang="en">Akusada</title>
-    <desc lang="en">Akusada</desc>
+    <title lang="en">Unica Hija</title>
+    <desc lang="en">Unica Hija</desc>
   </programme>
   <programme start="20251104164500 +0800" stop="20251104171000 +0800" channel="gma.ph">
     <title lang="en">Fast Talk with Boy Abunda</title>
@@ -410,8 +301,8 @@
     <desc lang="en">When I Marry A Stranger</desc>
   </programme>
   <programme start="20251104233000 +0800" stop="20251105000000 +0800" channel="gma.ph">
-    <title lang="en">Wicked-in-Law</title>
-    <desc lang="en">Wicked-in-Law</desc>
+    <title lang="en">To the Moon and Back</title>
+    <desc lang="en">To the Moon and Back</desc>
   </programme>
   <programme start="20251105000000 +0800" stop="20251105003000 +0800" channel="gma.ph">
     <title lang="en">The 700 Club Asia</title>
@@ -458,8 +349,8 @@
     <desc lang="en">Cruz vs. Cruz</desc>
   </programme>
   <programme start="20251105160500 +0800" stop="20251105164500 +0800" channel="gma.ph">
-    <title lang="en">Akusada</title>
-    <desc lang="en">Akusada</desc>
+    <title lang="en">Unica Hija</title>
+    <desc lang="en">Unica Hija</desc>
   </programme>
   <programme start="20251105164500 +0800" stop="20251105171000 +0800" channel="gma.ph">
     <title lang="en">Fast Talk with Boy Abunda</title>
@@ -498,8 +389,8 @@
     <desc lang="en">When I Marry A Stranger</desc>
   </programme>
   <programme start="20251105233000 +0800" stop="20251106000000 +0800" channel="gma.ph">
-    <title lang="en">Wicked-in-Law</title>
-    <desc lang="en">Wicked-in-Law</desc>
+    <title lang="en">To the Moon and Back</title>
+    <desc lang="en">To the Moon and Back</desc>
   </programme>
   <programme start="20251106000000 +0800" stop="20251106003000 +0800" channel="gma.ph">
     <title lang="en">The 700 Club Asia</title>
@@ -546,8 +437,8 @@
     <desc lang="en">Cruz vs. Cruz</desc>
   </programme>
   <programme start="20251106160500 +0800" stop="20251106164500 +0800" channel="gma.ph">
-    <title lang="en">Akusada</title>
-    <desc lang="en">Akusada</desc>
+    <title lang="en">Unica Hija</title>
+    <desc lang="en">Unica Hija</desc>
   </programme>
   <programme start="20251106164500 +0800" stop="20251106171000 +0800" channel="gma.ph">
     <title lang="en">Fast Talk with Boy Abunda</title>
@@ -586,8 +477,8 @@
     <desc lang="en">When I Marry A Stranger</desc>
   </programme>
   <programme start="20251106233000 +0800" stop="20251107000000 +0800" channel="gma.ph">
-    <title lang="en">Wicked-in-Law</title>
-    <desc lang="en">Wicked-in-Law</desc>
+    <title lang="en">To the Moon and Back</title>
+    <desc lang="en">To the Moon and Back</desc>
   </programme>
   <programme start="20251107000000 +0800" stop="20251107003000 +0800" channel="gma.ph">
     <title lang="en">The 700 Club Asia</title>
@@ -634,8 +525,8 @@
     <desc lang="en">Cruz vs. Cruz</desc>
   </programme>
   <programme start="20251107160500 +0800" stop="20251107164500 +0800" channel="gma.ph">
-    <title lang="en">Akusada</title>
-    <desc lang="en">Akusada</desc>
+    <title lang="en">Unica Hija</title>
+    <desc lang="en">Unica Hija</desc>
   </programme>
   <programme start="20251107164500 +0800" stop="20251107171000 +0800" channel="gma.ph">
     <title lang="en">Fast Talk with Boy Abunda</title>
@@ -673,49 +564,121 @@
     <title lang="en">When I Marry A Stranger</title>
     <desc lang="en">When I Marry A Stranger</desc>
   </programme>
-  <programme start="20251107233000 +0800" stop="20251108003000 +0800" channel="gma.ph">
-    <title lang="en">Wicked-in-Law</title>
-    <desc lang="en">Wicked-in-Law</desc>
+  <programme start="20251107233000 +0800" stop="20251108000000 +0800" channel="gma.ph">
+    <title lang="en">To the Moon and Back</title>
+    <desc lang="en">To the Moon and Back</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101060000 +0800" channel="regular.ph">
-    <title lang="en">Regular Programming</title>
-    <desc lang="en">Regular Programming</desc>
+  <programme start="20251108000000 +0800" stop="20251108003000 +0800" channel="gma.ph">
+    <title lang="en">The 700 Club Asia</title>
+    <desc lang="en">The 700 Club Asia</desc>
   </programme>
-  <programme start="20251101060000 +0800" stop="20251101080000 +0800" channel="regular.ph">
-    <title lang="en">Regular Programming</title>
-    <desc lang="en">Regular Programming</desc>
+  <programme start="20251108003000 +0800" stop="20251108053000 +0800" channel="gma.ph">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off</desc>
   </programme>
-  <programme start="20251101080000 +0800" stop="20251101100000 +0800" channel="regular.ph">
-    <title lang="en">Regular Programming</title>
-    <desc lang="en">Regular Programming</desc>
+  <programme start="20251108053000 +0800" stop="20251108060000 +0800" channel="gma.ph">
+    <title lang="en">Kapwa Ko, Mahal Ko</title>
+    <desc lang="en">Kapwa Ko, Mahal Ko</desc>
   </programme>
-  <programme start="20251101100000 +0800" stop="20251101120000 +0800" channel="regular.ph">
-    <title lang="en">Regular Programming</title>
-    <desc lang="en">Regular Programming</desc>
+  <programme start="20251108060000 +0800" stop="20251108063000 +0800" channel="gma.ph">
+    <title lang="en">Agripreneur</title>
+    <desc lang="en">Agripreneur</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101140000 +0800" channel="regular.ph">
-    <title lang="en">Regular Programming</title>
-    <desc lang="en">Regular Programming</desc>
+  <programme start="20251108063000 +0800" stop="20251108070000 +0800" channel="gma.ph">
+    <title lang="en">Game Keepers</title>
+    <desc lang="en">Game Keepers</desc>
   </programme>
-  <programme start="20251101140000 +0800" stop="20251101160000 +0800" channel="regular.ph">
-    <title lang="en">Regular Programming</title>
-    <desc lang="en">Regular Programming</desc>
+  <programme start="20251108070000 +0800" stop="20251108073000 +0800" channel="gma.ph">
+    <title lang="en">Turbo Zone</title>
+    <desc lang="en">Turbo Zone</desc>
   </programme>
-  <programme start="20251101160000 +0800" stop="20251101180000 +0800" channel="regular.ph">
-    <title lang="en">Regular Programming</title>
-    <desc lang="en">Regular Programming</desc>
+  <programme start="20251108073000 +0800" stop="20251108080000 +0800" channel="gma.ph">
+    <title lang="en">Detective Conan</title>
+    <desc lang="en">Detective Conan</desc>
   </programme>
-  <programme start="20251101180000 +0800" stop="20251101200000 +0800" channel="regular.ph">
-    <title lang="en">Regular Programming</title>
-    <desc lang="en">Regular Programming</desc>
+  <programme start="20251108080000 +0800" stop="20251108083000 +0800" channel="gma.ph">
+    <title lang="en">Taffy</title>
+    <desc lang="en">Taffy</desc>
   </programme>
-  <programme start="20251101200000 +0800" stop="20251101220000 +0800" channel="regular.ph">
-    <title lang="en">Regular Programming</title>
-    <desc lang="en">Regular Programming</desc>
+  <programme start="20251108083000 +0800" stop="20251108090000 +0800" channel="gma.ph">
+    <title lang="en">Magic Kaito</title>
+    <desc lang="en">Magic Kaito</desc>
   </programme>
-  <programme start="20251101220000 +0800" stop="20251102000000 +0800" channel="regular.ph">
-    <title lang="en">Regular Programming</title>
-    <desc lang="en">Regular Programming</desc>
+  <programme start="20251108090000 +0800" stop="20251108093000 +0800" channel="gma.ph">
+    <title lang="en">All New Jackie Chan Adventures</title>
+    <desc lang="en">All New Jackie Chan Adventures</desc>
+  </programme>
+  <programme start="20251108093000 +0800" stop="20251108100000 +0800" channel="gma.ph">
+    <title lang="en">Voltes V</title>
+    <desc lang="en">Voltes V</desc>
+  </programme>
+  <programme start="20251108100000 +0800" stop="20251108101500 +0800" channel="gma.ph">
+    <title lang="en">Angry Birds Bubble Trouble and Makerspace</title>
+    <desc lang="en">Angry Birds Bubble Trouble and Makerspace</desc>
+  </programme>
+  <programme start="20251108101500 +0800" stop="20251108104500 +0800" channel="gma.ph">
+    <title lang="en">One Piece Dressrosa Arc</title>
+    <desc lang="en">One Piece Dressrosa Arc</desc>
+  </programme>
+  <programme start="20251108104500 +0800" stop="20251108111500 +0800" channel="gma.ph">
+    <title lang="en">Dami Mong Alam, Kuya Kim</title>
+    <desc lang="en">Dami Mong Alam, Kuya Kim</desc>
+  </programme>
+  <programme start="20251108111500 +0800" stop="20251108120000 +0800" channel="gma.ph">
+    <title lang="en">Pera Paraan</title>
+    <desc lang="en">Pera Paraan</desc>
+  </programme>
+  <programme start="20251108120000 +0800" stop="20251108143000 +0800" channel="gma.ph">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">It's Showtime</desc>
+  </programme>
+  <programme start="20251108143000 +0800" stop="20251108151500 +0800" channel="gma.ph">
+    <title lang="en">Hating Kapatid</title>
+    <desc lang="en">Hating Kapatid</desc>
+  </programme>
+  <programme start="20251108151500 +0800" stop="20251108160500 +0800" channel="gma.ph">
+    <title lang="en">Tadhana</title>
+    <desc lang="en">Tadhana</desc>
+  </programme>
+  <programme start="20251108160500 +0800" stop="20251108164500 +0800" channel="gma.ph">
+    <title lang="en">Wish Ko Lang</title>
+    <desc lang="en">Wish Ko Lang</desc>
+  </programme>
+  <programme start="20251108164500 +0800" stop="20251108173000 +0800" channel="gma.ph">
+    <title lang="en">MAKA</title>
+    <desc lang="en">MAKA</desc>
+  </programme>
+  <programme start="20251108173000 +0800" stop="20251108181500 +0800" channel="gma.ph">
+    <title lang="en">24 Oras Weekend</title>
+    <desc lang="en">24 Oras Weekend</desc>
+  </programme>
+  <programme start="20251108181500 +0800" stop="20251108191500 +0800" channel="gma.ph">
+    <title lang="en">Pinoy Big Brother Celebrity Collab Edition</title>
+    <desc lang="en">Pinoy Big Brother Celebrity Collab Edition</desc>
+  </programme>
+  <programme start="20251108191500 +0800" stop="20251108201500 +0800" channel="gma.ph">
+    <title lang="en">Pepito Manaloto Tuloy Ang Kuwento</title>
+    <desc lang="en">Pepito Manaloto Tuloy Ang Kuwento</desc>
+  </programme>
+  <programme start="20251108201500 +0800" stop="20251108213000 +0800" channel="gma.ph">
+    <title lang="en">Magpakailanman</title>
+    <desc lang="en">Magpakailanman</desc>
+  </programme>
+  <programme start="20251108213000 +0800" stop="20251108221500 +0800" channel="gma.ph">
+    <title lang="en">Daig Kayo Ng Lola Ko</title>
+    <desc lang="en">Daig Kayo Ng Lola Ko</desc>
+  </programme>
+  <programme start="20251108221500 +0800" stop="20251108230000 +0800" channel="gma.ph">
+    <title lang="en">I-Witness</title>
+    <desc lang="en">I-Witness</desc>
+  </programme>
+  <programme start="20251108230000 +0800" stop="20251108233000 +0800" channel="gma.ph">
+    <title lang="en">Reporter's Notebook</title>
+    <desc lang="en">Reporter's Notebook</desc>
+  </programme>
+  <programme start="20251108233000 +0800" stop="20251109003000 +0800" channel="gma.ph">
+    <title lang="en">To the Moon and Back</title>
+    <desc lang="en">To the Moon and Back</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102060000 +0800" channel="regular.ph">
     <title lang="en">Regular Programming</title>
@@ -953,49 +916,49 @@
     <title lang="en">Regular Programming</title>
     <desc lang="en">Regular Programming</desc>
   </programme>
-  <programme start="20251107220000 +0800" stop="20251107230000 +0800" channel="regular.ph">
+  <programme start="20251107220000 +0800" stop="20251108000000 +0800" channel="regular.ph">
     <title lang="en">Regular Programming</title>
     <desc lang="en">Regular Programming</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101060000 +0800" channel="iheartmovies.ph">
-    <title lang="en">Sign Off</title>
-    <desc lang="en">Sign Off</desc>
+  <programme start="20251108000000 +0800" stop="20251108060000 +0800" channel="regular.ph">
+    <title lang="en">Regular Programming</title>
+    <desc lang="en">Regular Programming</desc>
   </programme>
-  <programme start="20251101060000 +0800" stop="20251101080000 +0800" channel="iheartmovies.ph">
-    <title lang="en">Takliya Throwback</title>
-    <desc lang="en">Takliya Throwback</desc>
+  <programme start="20251108060000 +0800" stop="20251108080000 +0800" channel="regular.ph">
+    <title lang="en">Regular Programming</title>
+    <desc lang="en">Regular Programming</desc>
   </programme>
-  <programme start="20251101080000 +0800" stop="20251101100000 +0800" channel="iheartmovies.ph">
-    <title lang="en">Block Screening</title>
-    <desc lang="en">Block Screening</desc>
+  <programme start="20251108080000 +0800" stop="20251108100000 +0800" channel="regular.ph">
+    <title lang="en">Regular Programming</title>
+    <desc lang="en">Regular Programming</desc>
   </programme>
-  <programme start="20251101100000 +0800" stop="20251101120000 +0800" channel="iheartmovies.ph">
-    <title lang="en">Pinoy Movie Date</title>
-    <desc lang="en">Pinoy Movie Date</desc>
+  <programme start="20251108100000 +0800" stop="20251108120000 +0800" channel="regular.ph">
+    <title lang="en">Regular Programming</title>
+    <desc lang="en">Regular Programming</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101140000 +0800" channel="iheartmovies.ph">
-    <title lang="en">Takliya Throwback</title>
-    <desc lang="en">Takliya Throwback</desc>
+  <programme start="20251108120000 +0800" stop="20251108140000 +0800" channel="regular.ph">
+    <title lang="en">Regular Programming</title>
+    <desc lang="en">Regular Programming</desc>
   </programme>
-  <programme start="20251101140000 +0800" stop="20251101160000 +0800" channel="iheartmovies.ph">
-    <title lang="en">Block Screening</title>
-    <desc lang="en">Block Screening</desc>
+  <programme start="20251108140000 +0800" stop="20251108160000 +0800" channel="regular.ph">
+    <title lang="en">Regular Programming</title>
+    <desc lang="en">Regular Programming</desc>
   </programme>
-  <programme start="20251101160000 +0800" stop="20251101180000 +0800" channel="iheartmovies.ph">
-    <title lang="en">Pinoy Movie Date</title>
-    <desc lang="en">Pinoy Movie Date</desc>
+  <programme start="20251108160000 +0800" stop="20251108180000 +0800" channel="regular.ph">
+    <title lang="en">Regular Programming</title>
+    <desc lang="en">Regular Programming</desc>
   </programme>
-  <programme start="20251101180000 +0800" stop="20251101200000 +0800" channel="iheartmovies.ph">
-    <title lang="en">Block Screening</title>
-    <desc lang="en">Block Screening</desc>
+  <programme start="20251108180000 +0800" stop="20251108200000 +0800" channel="regular.ph">
+    <title lang="en">Regular Programming</title>
+    <desc lang="en">Regular Programming</desc>
   </programme>
-  <programme start="20251101200000 +0800" stop="20251101220000 +0800" channel="iheartmovies.ph">
-    <title lang="en">Pinoy Movie Date</title>
-    <desc lang="en">Pinoy Movie Date</desc>
+  <programme start="20251108200000 +0800" stop="20251108220000 +0800" channel="regular.ph">
+    <title lang="en">Regular Programming</title>
+    <desc lang="en">Regular Programming</desc>
   </programme>
-  <programme start="20251101220000 +0800" stop="20251102000000 +0800" channel="iheartmovies.ph">
-    <title lang="en">Takliya Throwback</title>
-    <desc lang="en">Takliya Throwback</desc>
+  <programme start="20251108220000 +0800" stop="20251108230000 +0800" channel="regular.ph">
+    <title lang="en">Regular Programming</title>
+    <desc lang="en">Regular Programming</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102060000 +0800" channel="iheartmovies.ph">
     <title lang="en">Sign Off</title>
@@ -1233,61 +1196,49 @@
     <title lang="en">Pinoy Movie Date</title>
     <desc lang="en">Pinoy Movie Date</desc>
   </programme>
-  <programme start="20251107220000 +0800" stop="20251107230000 +0800" channel="iheartmovies.ph">
+  <programme start="20251107220000 +0800" stop="20251108000000 +0800" channel="iheartmovies.ph">
     <title lang="en">Takliya Throwback</title>
     <desc lang="en">Takliya Throwback</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101060000 +0800" channel="heartofasia.ph">
+  <programme start="20251108000000 +0800" stop="20251108060000 +0800" channel="iheartmovies.ph">
     <title lang="en">Sign Off</title>
     <desc lang="en">Sign Off</desc>
   </programme>
-  <programme start="20251101060000 +0800" stop="20251101070000 +0800" channel="heartofasia.ph">
-    <title lang="en">Bida League</title>
-    <desc lang="en">Bida League</desc>
+  <programme start="20251108060000 +0800" stop="20251108080000 +0800" channel="iheartmovies.ph">
+    <title lang="en">Takliya Throwback</title>
+    <desc lang="en">Takliya Throwback</desc>
   </programme>
-  <programme start="20251101070000 +0800" stop="20251101080000 +0800" channel="heartofasia.ph">
-    <title lang="en">Heart of the World</title>
-    <desc lang="en">Heart of the World</desc>
+  <programme start="20251108080000 +0800" stop="20251108100000 +0800" channel="iheartmovies.ph">
+    <title lang="en">Block Screening</title>
+    <desc lang="en">Block Screening</desc>
   </programme>
-  <programme start="20251101080000 +0800" stop="20251101100000 +0800" channel="heartofasia.ph">
-    <title lang="en">Movie Mania</title>
-    <desc lang="en">Movie Mania</desc>
+  <programme start="20251108100000 +0800" stop="20251108120000 +0800" channel="iheartmovies.ph">
+    <title lang="en">Pinoy Movie Date</title>
+    <desc lang="en">Pinoy Movie Date</desc>
   </programme>
-  <programme start="20251101100000 +0800" stop="20251101110000 +0800" channel="heartofasia.ph">
-    <title lang="en">Absolutely Asian</title>
-    <desc lang="en">Absolutely Asian</desc>
+  <programme start="20251108120000 +0800" stop="20251108140000 +0800" channel="iheartmovies.ph">
+    <title lang="en">Takliya Throwback</title>
+    <desc lang="en">Takliya Throwback</desc>
   </programme>
-  <programme start="20251101110000 +0800" stop="20251101133000 +0800" channel="heartofasia.ph">
-    <title lang="en">NCAA Basketball Game 1</title>
-    <desc lang="en">NCAA Basketball Game 1</desc>
+  <programme start="20251108140000 +0800" stop="20251108160000 +0800" channel="iheartmovies.ph">
+    <title lang="en">Block Screening</title>
+    <desc lang="en">Block Screening</desc>
   </programme>
-  <programme start="20251101133000 +0800" stop="20251101143000 +0800" channel="heartofasia.ph">
-    <title lang="en">Absolutely Asian</title>
-    <desc lang="en">Absolutely Asian</desc>
+  <programme start="20251108160000 +0800" stop="20251108180000 +0800" channel="iheartmovies.ph">
+    <title lang="en">Pinoy Movie Date</title>
+    <desc lang="en">Pinoy Movie Date</desc>
   </programme>
-  <programme start="20251101143000 +0800" stop="20251101170000 +0800" channel="heartofasia.ph">
-    <title lang="en">NCAA Basketball Game 2</title>
-    <desc lang="en">NCAA Basketball Game 2</desc>
+  <programme start="20251108180000 +0800" stop="20251108200000 +0800" channel="iheartmovies.ph">
+    <title lang="en">Block Screening</title>
+    <desc lang="en">Block Screening</desc>
   </programme>
-  <programme start="20251101170000 +0800" stop="20251101173000 +0800" channel="heartofasia.ph">
-    <title lang="en">K Feels</title>
-    <desc lang="en">K Feels</desc>
+  <programme start="20251108200000 +0800" stop="20251108220000 +0800" channel="iheartmovies.ph">
+    <title lang="en">Pinoy Movie Date</title>
+    <desc lang="en">Pinoy Movie Date</desc>
   </programme>
-  <programme start="20251101173000 +0800" stop="20251101180000 +0800" channel="heartofasia.ph">
-    <title lang="en">Absolutely Asian</title>
-    <desc lang="en">Absolutely Asian</desc>
-  </programme>
-  <programme start="20251101180000 +0800" stop="20251101200000 +0800" channel="heartofasia.ph">
-    <title lang="en">Strictly Pinoy</title>
-    <desc lang="en">Strictly Pinoy</desc>
-  </programme>
-  <programme start="20251101200000 +0800" stop="20251101220000 +0800" channel="heartofasia.ph">
-    <title lang="en">Action Flicks</title>
-    <desc lang="en">Action Flicks</desc>
-  </programme>
-  <programme start="20251101220000 +0800" stop="20251102000000 +0800" channel="heartofasia.ph">
-    <title lang="en">Screams on Screen</title>
-    <desc lang="en">Screams on Screen</desc>
+  <programme start="20251108220000 +0800" stop="20251108230000 +0800" channel="iheartmovies.ph">
+    <title lang="en">Takliya Throwback</title>
+    <desc lang="en">Takliya Throwback</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102060000 +0800" channel="heartofasia.ph">
     <title lang="en">Sign Off</title>
@@ -1769,97 +1720,61 @@
     <title lang="en">Absolutely Asian</title>
     <desc lang="en">Absolutely Asian</desc>
   </programme>
-  <programme start="20251107231500 +0800" stop="20251108001500 +0800" channel="heartofasia.ph">
+  <programme start="20251107231500 +0800" stop="20251108000000 +0800" channel="heartofasia.ph">
     <title lang="en">K Feels</title>
     <desc lang="en">K Feels</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101080000 +0800" channel="lighttv.ph">
+  <programme start="20251108000000 +0800" stop="20251108060000 +0800" channel="heartofasia.ph">
     <title lang="en">Sign Off</title>
     <desc lang="en">Sign Off</desc>
   </programme>
-  <programme start="20251101080000 +0800" stop="20251101083000 +0800" channel="lighttv.ph">
-    <title lang="en">Billy Graham Classic</title>
-    <desc lang="en">Billy Graham Classic</desc>
+  <programme start="20251108060000 +0800" stop="20251108070000 +0800" channel="heartofasia.ph">
+    <title lang="en">Bida League</title>
+    <desc lang="en">Bida League</desc>
   </programme>
-  <programme start="20251101083000 +0800" stop="20251101090000 +0800" channel="lighttv.ph">
-    <title lang="en">Billy Graham TV</title>
-    <desc lang="en">Billy Graham TV</desc>
+  <programme start="20251108070000 +0800" stop="20251108080000 +0800" channel="heartofasia.ph">
+    <title lang="en">Heart of the World</title>
+    <desc lang="en">Heart of the World</desc>
   </programme>
-  <programme start="20251101090000 +0800" stop="20251101093000 +0800" channel="lighttv.ph">
-    <title lang="en">Derek Prince Ministries</title>
-    <desc lang="en">Derek Prince Ministries</desc>
+  <programme start="20251108080000 +0800" stop="20251108100000 +0800" channel="heartofasia.ph">
+    <title lang="en">Movie Mania</title>
+    <desc lang="en">Movie Mania</desc>
   </programme>
-  <programme start="20251101093000 +0800" stop="20251101100000 +0800" channel="lighttv.ph">
-    <title lang="en">Organique TV</title>
-    <desc lang="en">Organique TV</desc>
+  <programme start="20251108100000 +0800" stop="20251108110000 +0800" channel="heartofasia.ph">
+    <title lang="en">Absolutely Asian</title>
+    <desc lang="en">Absolutely Asian</desc>
   </programme>
-  <programme start="20251101100000 +0800" stop="20251101103000 +0800" channel="lighttv.ph">
-    <title lang="en">Good News</title>
-    <desc lang="en">Good News</desc>
+  <programme start="20251108110000 +0800" stop="20251108133000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA Basketball Game 1</title>
+    <desc lang="en">NCAA Basketball Game 1</desc>
   </programme>
-  <programme start="20251101103000 +0800" stop="20251101110000 +0800" channel="lighttv.ph">
-    <title lang="en">Count Your Blessings</title>
-    <desc lang="en">Count Your Blessings</desc>
+  <programme start="20251108133000 +0800" stop="20251108143000 +0800" channel="heartofasia.ph">
+    <title lang="en">Absolutely Asian</title>
+    <desc lang="en">Absolutely Asian</desc>
   </programme>
-  <programme start="20251101110000 +0800" stop="20251101120000 +0800" channel="lighttv.ph">
-    <title lang="en">Jesus The Healer</title>
-    <desc lang="en">Jesus The Healer</desc>
+  <programme start="20251108143000 +0800" stop="20251108170000 +0800" channel="heartofasia.ph">
+    <title lang="en">NCAA Basketball Game 2</title>
+    <desc lang="en">NCAA Basketball Game 2</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101123000 +0800" channel="lighttv.ph">
-    <title lang="en">Life Giver</title>
-    <desc lang="en">Life Giver</desc>
+  <programme start="20251108170000 +0800" stop="20251108173000 +0800" channel="heartofasia.ph">
+    <title lang="en">K Feels</title>
+    <desc lang="en">K Feels</desc>
   </programme>
-  <programme start="20251101123000 +0800" stop="20251101130000 +0800" channel="lighttv.ph">
-    <title lang="en">Equip</title>
-    <desc lang="en">Equip</desc>
+  <programme start="20251108173000 +0800" stop="20251108180000 +0800" channel="heartofasia.ph">
+    <title lang="en">Absolutely Asian</title>
+    <desc lang="en">Absolutely Asian</desc>
   </programme>
-  <programme start="20251101130000 +0800" stop="20251101150000 +0800" channel="lighttv.ph">
-    <title lang="en">Praise Inc.</title>
-    <desc lang="en">Praise Inc.</desc>
+  <programme start="20251108180000 +0800" stop="20251108200000 +0800" channel="heartofasia.ph">
+    <title lang="en">Strictly Pinoy</title>
+    <desc lang="en">Strictly Pinoy</desc>
   </programme>
-  <programme start="20251101150000 +0800" stop="20251101153000 +0800" channel="lighttv.ph">
-    <title lang="en">Kids Church</title>
-    <desc lang="en">Kids Church</desc>
+  <programme start="20251108200000 +0800" stop="20251108220000 +0800" channel="heartofasia.ph">
+    <title lang="en">Action Flicks</title>
+    <desc lang="en">Action Flicks</desc>
   </programme>
-  <programme start="20251101153000 +0800" stop="20251101160000 +0800" channel="lighttv.ph">
-    <title lang="en">Oyayi</title>
-    <desc lang="en">Oyayi</desc>
-  </programme>
-  <programme start="20251101160000 +0800" stop="20251101163000 +0800" channel="lighttv.ph">
-    <title lang="en">Flying House</title>
-    <desc lang="en">Flying House</desc>
-  </programme>
-  <programme start="20251101163000 +0800" stop="20251101170000 +0800" channel="lighttv.ph">
-    <title lang="en">Superbook Classic</title>
-    <desc lang="en">Superbook Classic</desc>
-  </programme>
-  <programme start="20251101170000 +0800" stop="20251101180000 +0800" channel="lighttv.ph">
-    <title lang="en">Diyos at Bayan</title>
-    <desc lang="en">Diyos at Bayan</desc>
-  </programme>
-  <programme start="20251101180000 +0800" stop="20251101183000 +0800" channel="lighttv.ph">
-    <title lang="en">Shuffle</title>
-    <desc lang="en">Shuffle</desc>
-  </programme>
-  <programme start="20251101183000 +0800" stop="20251101190000 +0800" channel="lighttv.ph">
-    <title lang="en">The Living Word</title>
-    <desc lang="en">The Living Word</desc>
-  </programme>
-  <programme start="20251101190000 +0800" stop="20251101200000 +0800" channel="lighttv.ph">
-    <title lang="en">Worship, Word, and Wonders</title>
-    <desc lang="en">Worship, Word, and Wonders</desc>
-  </programme>
-  <programme start="20251101200000 +0800" stop="20251101203000 +0800" channel="lighttv.ph">
-    <title lang="en">Bless Pilipinas</title>
-    <desc lang="en">Bless Pilipinas</desc>
-  </programme>
-  <programme start="20251101203000 +0800" stop="20251101223000 +0800" channel="lighttv.ph">
-    <title lang="en">Christian Cinema</title>
-    <desc lang="en">Christian Cinema</desc>
-  </programme>
-  <programme start="20251101223000 +0800" stop="20251102000000 +0800" channel="lighttv.ph">
-    <title lang="en">Bro. Eddie Villanueva Classics</title>
-    <desc lang="en">Bro. Eddie Villanueva Classics</desc>
+  <programme start="20251108220000 +0800" stop="20251108230000 +0800" channel="heartofasia.ph">
+    <title lang="en">Screams on Screen</title>
+    <desc lang="en">Screams on Screen</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102070000 +0800" channel="lighttv.ph">
     <title lang="en">Sign Off</title>
@@ -2333,53 +2248,97 @@
     <title lang="en">Jesus The Healer</title>
     <desc lang="en">Jesus The Healer</desc>
   </programme>
-  <programme start="20251107224500 +0800" stop="20251107234500 +0800" channel="lighttv.ph">
+  <programme start="20251107224500 +0800" stop="20251108000000 +0800" channel="lighttv.ph">
     <title lang="en">Balitang A2Z</title>
     <desc lang="en">Balitang A2Z</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101060000 +0800" channel="congresstv.ph">
-    <title lang="en">Plenary Session</title>
-    <desc lang="en">Plenary Session</desc>
+  <programme start="20251108000000 +0800" stop="20251108080000 +0800" channel="lighttv.ph">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off</desc>
   </programme>
-  <programme start="20251101060000 +0800" stop="20251101080000 +0800" channel="congresstv.ph">
-    <title lang="en">CongressTV</title>
-    <desc lang="en">CongressTV</desc>
+  <programme start="20251108080000 +0800" stop="20251108083000 +0800" channel="lighttv.ph">
+    <title lang="en">Billy Graham Classic</title>
+    <desc lang="en">Billy Graham Classic</desc>
   </programme>
-  <programme start="20251101080000 +0800" stop="20251101100000 +0800" channel="congresstv.ph">
-    <title lang="en">CongressTV</title>
-    <desc lang="en">CongressTV</desc>
+  <programme start="20251108083000 +0800" stop="20251108090000 +0800" channel="lighttv.ph">
+    <title lang="en">Billy Graham TV</title>
+    <desc lang="en">Billy Graham TV</desc>
   </programme>
-  <programme start="20251101100000 +0800" stop="20251101120000 +0800" channel="congresstv.ph">
-    <title lang="en">Plenary Session</title>
-    <desc lang="en">Plenary Session</desc>
+  <programme start="20251108090000 +0800" stop="20251108093000 +0800" channel="lighttv.ph">
+    <title lang="en">Derek Prince Ministries</title>
+    <desc lang="en">Derek Prince Ministries</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101140000 +0800" channel="congresstv.ph">
-    <title lang="en">Plenary Session</title>
-    <desc lang="en">Plenary Session</desc>
+  <programme start="20251108093000 +0800" stop="20251108100000 +0800" channel="lighttv.ph">
+    <title lang="en">Organique TV</title>
+    <desc lang="en">Organique TV</desc>
   </programme>
-  <programme start="20251101140000 +0800" stop="20251101160000 +0800" channel="congresstv.ph">
-    <title lang="en">Plenary Session</title>
-    <desc lang="en">Plenary Session</desc>
+  <programme start="20251108100000 +0800" stop="20251108103000 +0800" channel="lighttv.ph">
+    <title lang="en">Good News</title>
+    <desc lang="en">Good News</desc>
   </programme>
-  <programme start="20251101160000 +0800" stop="20251101173000 +0800" channel="congresstv.ph">
-    <title lang="en">Plenary Session</title>
-    <desc lang="en">Plenary Session</desc>
+  <programme start="20251108103000 +0800" stop="20251108110000 +0800" channel="lighttv.ph">
+    <title lang="en">Count Your Blessings</title>
+    <desc lang="en">Count Your Blessings</desc>
   </programme>
-  <programme start="20251101173000 +0800" stop="20251101180000 +0800" channel="congresstv.ph">
-    <title lang="en">Congress News</title>
-    <desc lang="en">Congress News</desc>
+  <programme start="20251108110000 +0800" stop="20251108120000 +0800" channel="lighttv.ph">
+    <title lang="en">Jesus The Healer</title>
+    <desc lang="en">Jesus The Healer</desc>
   </programme>
-  <programme start="20251101180000 +0800" stop="20251101200000 +0800" channel="congresstv.ph">
-    <title lang="en">Plenary Session</title>
-    <desc lang="en">Plenary Session</desc>
+  <programme start="20251108120000 +0800" stop="20251108123000 +0800" channel="lighttv.ph">
+    <title lang="en">Life Giver</title>
+    <desc lang="en">Life Giver</desc>
   </programme>
-  <programme start="20251101200000 +0800" stop="20251101220000 +0800" channel="congresstv.ph">
-    <title lang="en">Plenary Session</title>
-    <desc lang="en">Plenary Session</desc>
+  <programme start="20251108123000 +0800" stop="20251108130000 +0800" channel="lighttv.ph">
+    <title lang="en">Equip</title>
+    <desc lang="en">Equip</desc>
   </programme>
-  <programme start="20251101220000 +0800" stop="20251102000000 +0800" channel="congresstv.ph">
-    <title lang="en">Plenary Session</title>
-    <desc lang="en">Plenary Session</desc>
+  <programme start="20251108130000 +0800" stop="20251108150000 +0800" channel="lighttv.ph">
+    <title lang="en">Praise Inc.</title>
+    <desc lang="en">Praise Inc.</desc>
+  </programme>
+  <programme start="20251108150000 +0800" stop="20251108153000 +0800" channel="lighttv.ph">
+    <title lang="en">Kids Church</title>
+    <desc lang="en">Kids Church</desc>
+  </programme>
+  <programme start="20251108153000 +0800" stop="20251108160000 +0800" channel="lighttv.ph">
+    <title lang="en">Oyayi</title>
+    <desc lang="en">Oyayi</desc>
+  </programme>
+  <programme start="20251108160000 +0800" stop="20251108163000 +0800" channel="lighttv.ph">
+    <title lang="en">Flying House</title>
+    <desc lang="en">Flying House</desc>
+  </programme>
+  <programme start="20251108163000 +0800" stop="20251108170000 +0800" channel="lighttv.ph">
+    <title lang="en">Superbook Classic</title>
+    <desc lang="en">Superbook Classic</desc>
+  </programme>
+  <programme start="20251108170000 +0800" stop="20251108180000 +0800" channel="lighttv.ph">
+    <title lang="en">Diyos at Bayan</title>
+    <desc lang="en">Diyos at Bayan</desc>
+  </programme>
+  <programme start="20251108180000 +0800" stop="20251108183000 +0800" channel="lighttv.ph">
+    <title lang="en">Shuffle</title>
+    <desc lang="en">Shuffle</desc>
+  </programme>
+  <programme start="20251108183000 +0800" stop="20251108190000 +0800" channel="lighttv.ph">
+    <title lang="en">The Living Word</title>
+    <desc lang="en">The Living Word</desc>
+  </programme>
+  <programme start="20251108190000 +0800" stop="20251108200000 +0800" channel="lighttv.ph">
+    <title lang="en">Worship, Word, and Wonders</title>
+    <desc lang="en">Worship, Word, and Wonders</desc>
+  </programme>
+  <programme start="20251108200000 +0800" stop="20251108203000 +0800" channel="lighttv.ph">
+    <title lang="en">Bless Pilipinas</title>
+    <desc lang="en">Bless Pilipinas</desc>
+  </programme>
+  <programme start="20251108203000 +0800" stop="20251108223000 +0800" channel="lighttv.ph">
+    <title lang="en">Christian Cinema</title>
+    <desc lang="en">Christian Cinema</desc>
+  </programme>
+  <programme start="20251108223000 +0800" stop="20251108233000 +0800" channel="lighttv.ph">
+    <title lang="en">Bro. Eddie Villanueva Classics</title>
+    <desc lang="en">Bro. Eddie Villanueva Classics</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102060000 +0800" channel="congresstv.ph">
     <title lang="en">Plenary Session</title>
@@ -2641,73 +2600,53 @@
     <title lang="en">Plenary Session</title>
     <desc lang="en">Plenary Session</desc>
   </programme>
-  <programme start="20251107220000 +0800" stop="20251107230000 +0800" channel="congresstv.ph">
+  <programme start="20251107220000 +0800" stop="20251108000000 +0800" channel="congresstv.ph">
     <title lang="en">Plenary Session</title>
     <desc lang="en">Plenary Session</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101040000 +0800" channel="dzmm.ph">
-    <title lang="en">Music Automation</title>
-    <desc lang="en">Music Automation</desc>
+  <programme start="20251108000000 +0800" stop="20251108060000 +0800" channel="congresstv.ph">
+    <title lang="en">Plenary Session</title>
+    <desc lang="en">Plenary Session</desc>
   </programme>
-  <programme start="20251101040000 +0800" stop="20251101060000 +0800" channel="dzmm.ph">
-    <title lang="en">Yan Tayo!</title>
-    <desc lang="en">Yan Tayo!</desc>
+  <programme start="20251108060000 +0800" stop="20251108080000 +0800" channel="congresstv.ph">
+    <title lang="en">CongressTV</title>
+    <desc lang="en">CongressTV</desc>
   </programme>
-  <programme start="20251101060000 +0800" stop="20251101070000 +0800" channel="dzmm.ph">
-    <title lang="en">Ano'ng Ganap?</title>
-    <desc lang="en">Ano'ng Ganap?</desc>
+  <programme start="20251108080000 +0800" stop="20251108100000 +0800" channel="congresstv.ph">
+    <title lang="en">CongressTV</title>
+    <desc lang="en">CongressTV</desc>
   </programme>
-  <programme start="20251101070000 +0800" stop="20251101080000 +0800" channel="dzmm.ph">
-    <title lang="en">Balita Antemano</title>
-    <desc lang="en">Balita Antemano</desc>
+  <programme start="20251108100000 +0800" stop="20251108120000 +0800" channel="congresstv.ph">
+    <title lang="en">Plenary Session</title>
+    <desc lang="en">Plenary Session</desc>
   </programme>
-  <programme start="20251101080000 +0800" stop="20251101090000 +0800" channel="dzmm.ph">
-    <title lang="en">PINASigla</title>
-    <desc lang="en">PINASigla</desc>
+  <programme start="20251108120000 +0800" stop="20251108140000 +0800" channel="congresstv.ph">
+    <title lang="en">Plenary Session</title>
+    <desc lang="en">Plenary Session</desc>
   </programme>
-  <programme start="20251101090000 +0800" stop="20251101100000 +0800" channel="dzmm.ph">
-    <title lang="en">Aksyon DOLE</title>
-    <desc lang="en">Aksyon DOLE</desc>
+  <programme start="20251108140000 +0800" stop="20251108160000 +0800" channel="congresstv.ph">
+    <title lang="en">Plenary Session</title>
+    <desc lang="en">Plenary Session</desc>
   </programme>
-  <programme start="20251101100000 +0800" stop="20251101110000 +0800" channel="dzmm.ph">
-    <title lang="en">Win Today</title>
-    <desc lang="en">Win Today</desc>
+  <programme start="20251108160000 +0800" stop="20251108173000 +0800" channel="congresstv.ph">
+    <title lang="en">Plenary Session</title>
+    <desc lang="en">Plenary Session</desc>
   </programme>
-  <programme start="20251101110000 +0800" stop="20251101120000 +0800" channel="dzmm.ph">
-    <title lang="en">Serbisyong DSWD For Every Juan</title>
-    <desc lang="en">Serbisyong DSWD For Every Juan</desc>
+  <programme start="20251108173000 +0800" stop="20251108180000 +0800" channel="congresstv.ph">
+    <title lang="en">Congress News</title>
+    <desc lang="en">Congress News</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101133000 +0800" channel="dzmm.ph">
-    <title lang="en">Ligtas Dapat</title>
-    <desc lang="en">Ligtas Dapat</desc>
+  <programme start="20251108180000 +0800" stop="20251108200000 +0800" channel="congresstv.ph">
+    <title lang="en">Plenary Session</title>
+    <desc lang="en">Plenary Session</desc>
   </programme>
-  <programme start="20251101133000 +0800" stop="20251101150000 +0800" channel="dzmm.ph">
-    <title lang="en">Kwatro Alas</title>
-    <desc lang="en">Kwatro Alas</desc>
+  <programme start="20251108200000 +0800" stop="20251108220000 +0800" channel="congresstv.ph">
+    <title lang="en">Plenary Session</title>
+    <desc lang="en">Plenary Session</desc>
   </programme>
-  <programme start="20251101150000 +0800" stop="20251101160000 +0800" channel="dzmm.ph">
-    <title lang="en">Safe Space</title>
-    <desc lang="en">Safe Space</desc>
-  </programme>
-  <programme start="20251101160000 +0800" stop="20251101171500 +0800" channel="dzmm.ph">
-    <title lang="en">Pasado Serbisyo</title>
-    <desc lang="en">Pasado Serbisyo</desc>
-  </programme>
-  <programme start="20251101171500 +0800" stop="20251101181500 +0800" channel="dzmm.ph">
-    <title lang="en">TV Patrol Weekend</title>
-    <desc lang="en">TV Patrol Weekend</desc>
-  </programme>
-  <programme start="20251101181500 +0800" stop="20251101200000 +0800" channel="dzmm.ph">
-    <title lang="en">Story Outlook</title>
-    <desc lang="en">Story Outlook</desc>
-  </programme>
-  <programme start="20251101200000 +0800" stop="20251101220000 +0800" channel="dzmm.ph">
-    <title lang="en">Feel Kita</title>
-    <desc lang="en">Feel Kita</desc>
-  </programme>
-  <programme start="20251101220000 +0800" stop="20251102000000 +0800" channel="dzmm.ph">
-    <title lang="en">Replay</title>
-    <desc lang="en">Replay</desc>
+  <programme start="20251108220000 +0800" stop="20251108230000 +0800" channel="congresstv.ph">
+    <title lang="en">Plenary Session</title>
+    <desc lang="en">Plenary Session</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102040000 +0800" channel="dzmm.ph">
     <title lang="en">Music Automation</title>
@@ -3209,105 +3148,73 @@
     <title lang="en">Alam na This!</title>
     <desc lang="en">Alam na This!</desc>
   </programme>
-  <programme start="20251107220000 +0800" stop="20251107230000 +0800" channel="dzmm.ph">
+  <programme start="20251107220000 +0800" stop="20251108000000 +0800" channel="dzmm.ph">
     <title lang="en">Kwento Nights</title>
     <desc lang="en">Kwento Nights</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101020000 +0800" channel="dzrh.ph">
-    <title lang="en">Gabi ng Bading</title>
-    <desc lang="en">Gabi ng Bading</desc>
+  <programme start="20251108000000 +0800" stop="20251108040000 +0800" channel="dzmm.ph">
+    <title lang="en">Music Automation</title>
+    <desc lang="en">Music Automation</desc>
   </programme>
-  <programme start="20251101020000 +0800" stop="20251101040000 +0800" channel="dzrh.ph">
-    <title lang="en">Tita Ems Magazine</title>
-    <desc lang="en">Tita Ems Magazine</desc>
+  <programme start="20251108040000 +0800" stop="20251108060000 +0800" channel="dzmm.ph">
+    <title lang="en">Yan Tayo!</title>
+    <desc lang="en">Yan Tayo!</desc>
   </programme>
-  <programme start="20251101040000 +0800" stop="20251101050000 +0800" channel="dzrh.ph">
-    <title lang="en">RH Balita</title>
-    <desc lang="en">RH Balita</desc>
+  <programme start="20251108060000 +0800" stop="20251108070000 +0800" channel="dzmm.ph">
+    <title lang="en">Ano'ng Ganap?</title>
+    <desc lang="en">Ano'ng Ganap?</desc>
   </programme>
-  <programme start="20251101050000 +0800" stop="20251101060000 +0800" channel="dzrh.ph">
-    <title lang="en">Tambayan</title>
-    <desc lang="en">Tambayan</desc>
+  <programme start="20251108070000 +0800" stop="20251108080000 +0800" channel="dzmm.ph">
+    <title lang="en">Balita Antemano</title>
+    <desc lang="en">Balita Antemano</desc>
   </programme>
-  <programme start="20251101060000 +0800" stop="20251101070000 +0800" channel="dzrh.ph">
-    <title lang="en">Adbokasiya</title>
-    <desc lang="en">Adbokasiya</desc>
+  <programme start="20251108080000 +0800" stop="20251108090000 +0800" channel="dzmm.ph">
+    <title lang="en">PINASigla</title>
+    <desc lang="en">PINASigla</desc>
   </programme>
-  <programme start="20251101070000 +0800" stop="20251101083000 +0800" channel="dzrh.ph">
-    <title lang="en">SOS Special On Saturday</title>
-    <desc lang="en">SOS Special On Saturday</desc>
+  <programme start="20251108090000 +0800" stop="20251108100000 +0800" channel="dzmm.ph">
+    <title lang="en">Aksyon DOLE</title>
+    <desc lang="en">Aksyon DOLE</desc>
   </programme>
-  <programme start="20251101083000 +0800" stop="20251101090000 +0800" channel="dzrh.ph">
-    <title lang="en">DAR sa DZRH: Special On Saturday</title>
-    <desc lang="en">DAR sa DZRH: Special On Saturday</desc>
+  <programme start="20251108100000 +0800" stop="20251108110000 +0800" channel="dzmm.ph">
+    <title lang="en">Win Today</title>
+    <desc lang="en">Win Today</desc>
   </programme>
-  <programme start="20251101090000 +0800" stop="20251101103000 +0800" channel="dzrh.ph">
-    <title lang="en">Executive Session</title>
-    <desc lang="en">Executive Session</desc>
+  <programme start="20251108110000 +0800" stop="20251108120000 +0800" channel="dzmm.ph">
+    <title lang="en">Serbisyong DSWD For Every Juan</title>
+    <desc lang="en">Serbisyong DSWD For Every Juan</desc>
   </programme>
-  <programme start="20251101103000 +0800" stop="20251101113000 +0800" channel="dzrh.ph">
-    <title lang="en">Kaalaman at Kabuhayan with Karen Ow-yong</title>
-    <desc lang="en">Kaalaman at Kabuhayan with Karen Ow-yong</desc>
+  <programme start="20251108120000 +0800" stop="20251108133000 +0800" channel="dzmm.ph">
+    <title lang="en">Ligtas Dapat</title>
+    <desc lang="en">Ligtas Dapat</desc>
   </programme>
-  <programme start="20251101113000 +0800" stop="20251101120000 +0800" channel="dzrh.ph">
-    <title lang="en">Hoy Bawal Yan</title>
-    <desc lang="en">Hoy Bawal Yan</desc>
+  <programme start="20251108133000 +0800" stop="20251108150000 +0800" channel="dzmm.ph">
+    <title lang="en">Kwatro Alas</title>
+    <desc lang="en">Kwatro Alas</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101123000 +0800" channel="dzrh.ph">
-    <title lang="en">Scene Zone</title>
-    <desc lang="en">Scene Zone</desc>
+  <programme start="20251108150000 +0800" stop="20251108160000 +0800" channel="dzmm.ph">
+    <title lang="en">Safe Space</title>
+    <desc lang="en">Safe Space</desc>
   </programme>
-  <programme start="20251101123000 +0800" stop="20251101130000 +0800" channel="dzrh.ph">
-    <title lang="en">Matchpoint</title>
-    <desc lang="en">Matchpoint</desc>
+  <programme start="20251108160000 +0800" stop="20251108171500 +0800" channel="dzmm.ph">
+    <title lang="en">Pasado Serbisyo</title>
+    <desc lang="en">Pasado Serbisyo</desc>
   </programme>
-  <programme start="20251101130000 +0800" stop="20251101140000 +0800" channel="dzrh.ph">
-    <title lang="en">Dear Ate Racquel</title>
-    <desc lang="en">Dear Ate Racquel</desc>
+  <programme start="20251108171500 +0800" stop="20251108181500 +0800" channel="dzmm.ph">
+    <title lang="en">TV Patrol Weekend</title>
+    <desc lang="en">TV Patrol Weekend</desc>
   </programme>
-  <programme start="20251101140000 +0800" stop="20251101150000 +0800" channel="dzrh.ph">
-    <title lang="en">Diskarte-CCP</title>
-    <desc lang="en">Diskarte-CCP</desc>
+  <programme start="20251108181500 +0800" stop="20251108200000 +0800" channel="dzmm.ph">
+    <title lang="en">Story Outlook</title>
+    <desc lang="en">Story Outlook</desc>
   </programme>
-  <programme start="20251101150000 +0800" stop="20251101160000 +0800" channel="dzrh.ph">
-    <title lang="en">Agri Asenso</title>
-    <desc lang="en">Agri Asenso</desc>
+  <programme start="20251108200000 +0800" stop="20251108220000 +0800" channel="dzmm.ph">
+    <title lang="en">Feel Kita</title>
+    <desc lang="en">Feel Kita</desc>
   </programme>
-  <programme start="20251101160000 +0800" stop="20251101170000 +0800" channel="dzrh.ph">
-    <title lang="en">Kaya Mo Yan</title>
-    <desc lang="en">Kaya Mo Yan</desc>
-  </programme>
-  <programme start="20251101170000 +0800" stop="20251101180000 +0800" channel="dzrh.ph">
-    <title lang="en">DZRH Boom Balita</title>
-    <desc lang="en">DZRH Boom Balita</desc>
-  </programme>
-  <programme start="20251101180000 +0800" stop="20251101190000 +0800" channel="dzrh.ph">
-    <title lang="en">Spotlight</title>
-    <desc lang="en">Spotlight</desc>
-  </programme>
-  <programme start="20251101190000 +0800" stop="20251101193000 +0800" channel="dzrh.ph">
-    <title lang="en">Hanap Buhay Diaries</title>
-    <desc lang="en">Hanap Buhay Diaries</desc>
-  </programme>
-  <programme start="20251101193000 +0800" stop="20251101203000 +0800" channel="dzrh.ph">
-    <title lang="en">Lunas</title>
-    <desc lang="en">Lunas</desc>
-  </programme>
-  <programme start="20251101203000 +0800" stop="20251101210000 +0800" channel="dzrh.ph">
-    <title lang="en">Lunas (extended)</title>
-    <desc lang="en">Lunas (extended)</desc>
-  </programme>
-  <programme start="20251101210000 +0800" stop="20251101220000 +0800" channel="dzrh.ph">
-    <title lang="en">Sapol Sabado</title>
-    <desc lang="en">Sapol Sabado</desc>
-  </programme>
-  <programme start="20251101220000 +0800" stop="20251101230000 +0800" channel="dzrh.ph">
-    <title lang="en">Gabi ng Misteryo</title>
-    <desc lang="en">Gabi ng Misteryo</desc>
-  </programme>
-  <programme start="20251101230000 +0800" stop="20251102000000 +0800" channel="dzrh.ph">
-    <title lang="en">Gabi ng Bading</title>
-    <desc lang="en">Gabi ng Bading</desc>
+  <programme start="20251108220000 +0800" stop="20251108230000 +0800" channel="dzmm.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102010000 +0800" channel="dzrh.ph">
     <title lang="en">The Better News</title>
@@ -3841,69 +3748,661 @@
     <title lang="en">Balintataw</title>
     <desc lang="en">Balintataw</desc>
   </programme>
-  <programme start="20251107233000 +0800" stop="20251108003000 +0800" channel="dzrh.ph">
+  <programme start="20251107233000 +0800" stop="20251108000000 +0800" channel="dzrh.ph">
     <title lang="en">Gabi ng Lagim</title>
     <desc lang="en">Gabi ng Lagim</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101083000 +0800" channel="untv.ph">
-    <title lang="en">Itanong Mo Kay Soriano</title>
-    <desc lang="en">Itanong Mo Kay Soriano</desc>
+  <programme start="20251108000000 +0800" stop="20251108020000 +0800" channel="dzrh.ph">
+    <title lang="en">Gabi ng Bading</title>
+    <desc lang="en">Gabi ng Bading</desc>
   </programme>
-  <programme start="20251101083000 +0800" stop="20251101090000 +0800" channel="untv.ph">
-    <title lang="en">MCGI Cares</title>
-    <desc lang="en">MCGI Cares</desc>
+  <programme start="20251108020000 +0800" stop="20251108040000 +0800" channel="dzrh.ph">
+    <title lang="en">Tita Ems Magazine</title>
+    <desc lang="en">Tita Ems Magazine</desc>
   </programme>
-  <programme start="20251101090000 +0800" stop="20251101120000 +0800" channel="untv.ph">
-    <title lang="en">Itanong Mo Kay Soriano</title>
-    <desc lang="en">Itanong Mo Kay Soriano</desc>
+  <programme start="20251108040000 +0800" stop="20251108050000 +0800" channel="dzrh.ph">
+    <title lang="en">RH Balita</title>
+    <desc lang="en">RH Balita</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101120500 +0800" channel="untv.ph">
-    <title lang="en">UNTV Community Prayer</title>
-    <desc lang="en">UNTV Community Prayer</desc>
+  <programme start="20251108050000 +0800" stop="20251108060000 +0800" channel="dzrh.ph">
+    <title lang="en">Tambayan</title>
+    <desc lang="en">Tambayan</desc>
   </programme>
-  <programme start="20251101120500 +0800" stop="20251101130000 +0800" channel="untv.ph">
-    <title lang="en">UNTV Ito ang Balita Weekend</title>
-    <desc lang="en">UNTV Ito ang Balita Weekend</desc>
+  <programme start="20251108060000 +0800" stop="20251108070000 +0800" channel="dzrh.ph">
+    <title lang="en">Adbokasiya</title>
+    <desc lang="en">Adbokasiya</desc>
   </programme>
-  <programme start="20251101130000 +0800" stop="20251101180000 +0800" channel="untv.ph">
-    <title lang="en">Itanong Mo Kay Soriano</title>
-    <desc lang="en">Itanong Mo Kay Soriano</desc>
+  <programme start="20251108070000 +0800" stop="20251108083000 +0800" channel="dzrh.ph">
+    <title lang="en">SOS Special On Saturday</title>
+    <desc lang="en">SOS Special On Saturday</desc>
   </programme>
-  <programme start="20251101180000 +0800" stop="20251101181000 +0800" channel="untv.ph">
-    <title lang="en">How Authentic, The Bible is...</title>
-    <desc lang="en">How Authentic, The Bible is...</desc>
+  <programme start="20251108083000 +0800" stop="20251108090000 +0800" channel="dzrh.ph">
+    <title lang="en">DAR sa DZRH: Special On Saturday</title>
+    <desc lang="en">DAR sa DZRH: Special On Saturday</desc>
   </programme>
-  <programme start="20251101181000 +0800" stop="20251101190000 +0800" channel="untv.ph">
-    <title lang="en">Itanong Mo Kay Soriano</title>
-    <desc lang="en">Itanong Mo Kay Soriano</desc>
+  <programme start="20251108090000 +0800" stop="20251108103000 +0800" channel="dzrh.ph">
+    <title lang="en">Executive Session</title>
+    <desc lang="en">Executive Session</desc>
   </programme>
-  <programme start="20251101190000 +0800" stop="20251101200000 +0800" channel="untv.ph">
-    <title lang="en">Pulis @ Ur Serbis</title>
-    <desc lang="en">Pulis @ Ur Serbis</desc>
+  <programme start="20251108103000 +0800" stop="20251108113000 +0800" channel="dzrh.ph">
+    <title lang="en">Kaalaman at Kabuhayan with Karen Ow-yong</title>
+    <desc lang="en">Kaalaman at Kabuhayan with Karen Ow-yong</desc>
   </programme>
-  <programme start="20251101200000 +0800" stop="20251101200500 +0800" channel="untv.ph">
-    <title lang="en">UNTV Community Prayer</title>
-    <desc lang="en">UNTV Community Prayer</desc>
+  <programme start="20251108113000 +0800" stop="20251108120000 +0800" channel="dzrh.ph">
+    <title lang="en">Hoy Bawal Yan</title>
+    <desc lang="en">Hoy Bawal Yan</desc>
   </programme>
-  <programme start="20251101200500 +0800" stop="20251101210000 +0800" channel="untv.ph">
-    <title lang="en">Ang Inyong Kawal</title>
-    <desc lang="en">Ang Inyong Kawal</desc>
+  <programme start="20251108120000 +0800" stop="20251108123000 +0800" channel="dzrh.ph">
+    <title lang="en">Scene Zone</title>
+    <desc lang="en">Scene Zone</desc>
   </programme>
-  <programme start="20251101210000 +0800" stop="20251101220000 +0800" channel="untv.ph">
-    <title lang="en">Itanong Mo Kay Soriano</title>
-    <desc lang="en">Itanong Mo Kay Soriano</desc>
+  <programme start="20251108123000 +0800" stop="20251108130000 +0800" channel="dzrh.ph">
+    <title lang="en">Matchpoint</title>
+    <desc lang="en">Matchpoint</desc>
   </programme>
-  <programme start="20251101220000 +0800" stop="20251101220500 +0800" channel="untv.ph">
-    <title lang="en">UNTV Community Prayer</title>
-    <desc lang="en">UNTV Community Prayer</desc>
+  <programme start="20251108130000 +0800" stop="20251108140000 +0800" channel="dzrh.ph">
+    <title lang="en">Dear Ate Racquel</title>
+    <desc lang="en">Dear Ate Racquel</desc>
   </programme>
-  <programme start="20251101220500 +0800" stop="20251101233000 +0800" channel="untv.ph">
-    <title lang="en">Itanong Mo Kay Soriano</title>
-    <desc lang="en">Itanong Mo Kay Soriano</desc>
+  <programme start="20251108140000 +0800" stop="20251108150000 +0800" channel="dzrh.ph">
+    <title lang="en">Diskarte-CCP</title>
+    <desc lang="en">Diskarte-CCP</desc>
   </programme>
-  <programme start="20251101233000 +0800" stop="20251102000000 +0800" channel="untv.ph">
-    <title lang="en">Itanong Mo Kay Soriano</title>
-    <desc lang="en">Itanong Mo Kay Soriano</desc>
+  <programme start="20251108150000 +0800" stop="20251108160000 +0800" channel="dzrh.ph">
+    <title lang="en">Agri Asenso</title>
+    <desc lang="en">Agri Asenso</desc>
+  </programme>
+  <programme start="20251108160000 +0800" stop="20251108170000 +0800" channel="dzrh.ph">
+    <title lang="en">Kaya Mo Yan</title>
+    <desc lang="en">Kaya Mo Yan</desc>
+  </programme>
+  <programme start="20251108170000 +0800" stop="20251108180000 +0800" channel="dzrh.ph">
+    <title lang="en">DZRH Boom Balita</title>
+    <desc lang="en">DZRH Boom Balita</desc>
+  </programme>
+  <programme start="20251108180000 +0800" stop="20251108190000 +0800" channel="dzrh.ph">
+    <title lang="en">Spotlight</title>
+    <desc lang="en">Spotlight</desc>
+  </programme>
+  <programme start="20251108190000 +0800" stop="20251108193000 +0800" channel="dzrh.ph">
+    <title lang="en">Hanap Buhay Diaries</title>
+    <desc lang="en">Hanap Buhay Diaries</desc>
+  </programme>
+  <programme start="20251108193000 +0800" stop="20251108203000 +0800" channel="dzrh.ph">
+    <title lang="en">Lunas</title>
+    <desc lang="en">Lunas</desc>
+  </programme>
+  <programme start="20251108203000 +0800" stop="20251108210000 +0800" channel="dzrh.ph">
+    <title lang="en">Lunas (extended)</title>
+    <desc lang="en">Lunas (extended)</desc>
+  </programme>
+  <programme start="20251108210000 +0800" stop="20251108220000 +0800" channel="dzrh.ph">
+    <title lang="en">Sapol Sabado</title>
+    <desc lang="en">Sapol Sabado</desc>
+  </programme>
+  <programme start="20251108220000 +0800" stop="20251108230000 +0800" channel="dzrh.ph">
+    <title lang="en">Gabi ng Misteryo</title>
+    <desc lang="en">Gabi ng Misteryo</desc>
+  </programme>
+  <programme start="20251108230000 +0800" stop="20251109000000 +0800" channel="dzrh.ph">
+    <title lang="en">Gabi ng Bading</title>
+    <desc lang="en">Gabi ng Bading</desc>
+  </programme>
+  <programme start="20251102004500 +0800" stop="20251102060000 +0800" channel="kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Movie Central Presents</desc>
+  </programme>
+  <programme start="20251102060000 +0800" stop="20251102070000 +0800" channel="kapamilya.ph">
+    <title lang="en">The Healing Eucharist</title>
+    <desc lang="en">The Healing Eucharist</desc>
+  </programme>
+  <programme start="20251102070000 +0800" stop="20251102072500 +0800" channel="kapamilya.ph">
+    <title lang="en">Wikaharian Online World</title>
+    <desc lang="en">Wikaharian Online World</desc>
+  </programme>
+  <programme start="20251102072500 +0800" stop="20251102075000 +0800" channel="kapamilya.ph">
+    <title lang="en">Ready Set Read</title>
+    <desc lang="en">Ready Set Read</desc>
+  </programme>
+  <programme start="20251102075000 +0800" stop="20251102081500 +0800" channel="kapamilya.ph">
+    <title lang="en">MathDali</title>
+    <desc lang="en">MathDali</desc>
+  </programme>
+  <programme start="20251102081500 +0800" stop="20251102084000 +0800" channel="kapamilya.ph">
+    <title lang="en">Estudyantipid</title>
+    <desc lang="en">Estudyantipid</desc>
+  </programme>
+  <programme start="20251102084000 +0800" stop="20251102090000 +0800" channel="kapamilya.ph">
+    <title lang="en">Wow</title>
+    <desc lang="en">Wow</desc>
+  </programme>
+  <programme start="20251102090000 +0800" stop="20251102115500 +0800" channel="kapamilya.ph">
+    <title lang="en">KB Family Weekend</title>
+    <desc lang="en">KB Family Weekend</desc>
+  </programme>
+  <programme start="20251102115500 +0800" stop="20251102141500 +0800" channel="kapamilya.ph">
+    <title lang="en">ASAP</title>
+    <desc lang="en">ASAP</desc>
+  </programme>
+  <programme start="20251102141500 +0800" stop="20251102160000 +0800" channel="kapamilya.ph">
+    <title lang="en">Sunday Blockbusters</title>
+    <desc lang="en">Sunday Blockbusters</desc>
+  </programme>
+  <programme start="20251102160000 +0800" stop="20251102163000 +0800" channel="kapamilya.ph">
+    <title lang="en">My Puhunan Kaya Mo</title>
+    <desc lang="en">My Puhunan Kaya Mo</desc>
+  </programme>
+  <programme start="20251102163000 +0800" stop="20251102173000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kuan On One</title>
+    <desc lang="en">Kuan On One</desc>
+  </programme>
+  <programme start="20251102173000 +0800" stop="20251102181500 +0800" channel="kapamilya.ph">
+    <title lang="en">TV Patrol Weekend (Live)</title>
+    <desc lang="en">TV Patrol Weekend (Live)</desc>
+  </programme>
+  <programme start="20251102181500 +0800" stop="20251102191500 +0800" channel="kapamilya.ph">
+    <title lang="en">Rainbow Rumble</title>
+    <desc lang="en">Rainbow Rumble</desc>
+  </programme>
+  <programme start="20251102191500 +0800" stop="20251102201500 +0800" channel="kapamilya.ph">
+    <title lang="en">Your Face Sounds Familiar</title>
+    <desc lang="en">Your Face Sounds Familiar</desc>
+  </programme>
+  <programme start="20251102201500 +0800" stop="20251102211500 +0800" channel="kapamilya.ph">
+    <title lang="en">Rated Korina</title>
+    <desc lang="en">Rated Korina</desc>
+  </programme>
+  <programme start="20251102211500 +0800" stop="20251102224500 +0800" channel="kapamilya.ph">
+    <title lang="en">Mega Blockbusters</title>
+    <desc lang="en">Mega Blockbusters</desc>
+  </programme>
+  <programme start="20251102224500 +0800" stop="20251103004500 +0800" channel="kapamilya.ph">
+    <title lang="en">Sunday's Best</title>
+    <desc lang="en">Sunday's Best</desc>
+  </programme>
+  <programme start="20251103004500 +0800" stop="20251103053000 +0800" channel="kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Movie Central Presents</desc>
+  </programme>
+  <programme start="20251103053000 +0800" stop="20251103060000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+    <desc lang="en">Kapamilya Daily Mass</desc>
+  </programme>
+  <programme start="20251103060000 +0800" stop="20251103070000 +0800" channel="kapamilya.ph">
+    <title lang="en">School Anywhere</title>
+    <desc lang="en">School Anywhere</desc>
+  </programme>
+  <programme start="20251103070000 +0800" stop="20251103080000 +0800" channel="kapamilya.ph">
+    <title lang="en">100 Days To Heaven</title>
+    <desc lang="en">100 Days To Heaven</desc>
+  </programme>
+  <programme start="20251103080000 +0800" stop="20251103083000 +0800" channel="kapamilya.ph">
+    <title lang="en">The Flying House</title>
+    <desc lang="en">The Flying House</desc>
+  </programme>
+  <programme start="20251103083000 +0800" stop="20251103090000 +0800" channel="kapamilya.ph">
+    <title lang="en">Superbook Season 5</title>
+    <desc lang="en">Superbook Season 5</desc>
+  </programme>
+  <programme start="20251103090000 +0800" stop="20251103100000 +0800" channel="kapamilya.ph">
+    <title lang="en">Magandang Buhay</title>
+    <desc lang="en">Magandang Buhay</desc>
+  </programme>
+  <programme start="20251103100000 +0800" stop="20251103120000 +0800" channel="kapamilya.ph">
+    <title lang="en">Zinema sa Umaga</title>
+    <desc lang="en">Zinema sa Umaga</desc>
+  </programme>
+  <programme start="20251103120000 +0800" stop="20251103143000 +0800" channel="kapamilya.ph">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">It's Showtime</desc>
+  </programme>
+  <programme start="20251103143000 +0800" stop="20251103151500 +0800" channel="kapamilya.ph">
+    <title lang="en">Linlang</title>
+    <desc lang="en">Linlang</desc>
+  </programme>
+  <programme start="20251103151500 +0800" stop="20251103160000 +0800" channel="kapamilya.ph">
+    <title lang="en">Pamilya Sagrado</title>
+    <desc lang="en">Pamilya Sagrado</desc>
+  </programme>
+  <programme start="20251103160000 +0800" stop="20251103173000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Gold Hits</title>
+    <desc lang="en">Kapamilya Gold Hits</desc>
+  </programme>
+  <programme start="20251103173000 +0800" stop="20251103174500 +0800" channel="kapamilya.ph">
+    <title lang="en">TV Patrol Express (Live)</title>
+    <desc lang="en">TV Patrol Express (Live)</desc>
+  </programme>
+  <programme start="20251103174500 +0800" stop="20251103183000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Deal or No Deal</title>
+    <desc lang="en">Kapamilya Deal or No Deal</desc>
+  </programme>
+  <programme start="20251103183000 +0800" stop="20251103200000 +0800" channel="kapamilya.ph">
+    <title lang="en">TV Patrol (Live)</title>
+    <desc lang="en">TV Patrol (Live)</desc>
+  </programme>
+  <programme start="20251103200000 +0800" stop="20251103204500 +0800" channel="kapamilya.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+    <desc lang="en">FPJ's Batang Quiapo</desc>
+  </programme>
+  <programme start="20251103204500 +0800" stop="20251103213000 +0800" channel="kapamilya.ph">
+    <title lang="en">What Lies Beneath</title>
+    <desc lang="en">What Lies Beneath</desc>
+  </programme>
+  <programme start="20251103213000 +0800" stop="20251103221500 +0800" channel="kapamilya.ph">
+    <title lang="en">Sins of The Father</title>
+    <desc lang="en">Sins of The Father</desc>
+  </programme>
+  <programme start="20251103221500 +0800" stop="20251103224500 +0800" channel="kapamilya.ph">
+    <title lang="en">Go Ahead</title>
+    <desc lang="en">Go Ahead</desc>
+  </programme>
+  <programme start="20251103224500 +0800" stop="20251103231500 +0800" channel="kapamilya.ph">
+    <title lang="en">The World Tonight</title>
+    <desc lang="en">The World Tonight</desc>
+  </programme>
+  <programme start="20251103231500 +0800" stop="20251104004500 +0800" channel="kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Movie Central Presents</desc>
+  </programme>
+  <programme start="20251104004500 +0800" stop="20251104053000 +0800" channel="kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Movie Central Presents</desc>
+  </programme>
+  <programme start="20251104053000 +0800" stop="20251104060000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+    <desc lang="en">Kapamilya Daily Mass</desc>
+  </programme>
+  <programme start="20251104060000 +0800" stop="20251104070000 +0800" channel="kapamilya.ph">
+    <title lang="en">School Anywhere</title>
+    <desc lang="en">School Anywhere</desc>
+  </programme>
+  <programme start="20251104070000 +0800" stop="20251104080000 +0800" channel="kapamilya.ph">
+    <title lang="en">100 Days To Heaven</title>
+    <desc lang="en">100 Days To Heaven</desc>
+  </programme>
+  <programme start="20251104080000 +0800" stop="20251104083000 +0800" channel="kapamilya.ph">
+    <title lang="en">The Flying House</title>
+    <desc lang="en">The Flying House</desc>
+  </programme>
+  <programme start="20251104083000 +0800" stop="20251104090000 +0800" channel="kapamilya.ph">
+    <title lang="en">Superbook Season 5</title>
+    <desc lang="en">Superbook Season 5</desc>
+  </programme>
+  <programme start="20251104090000 +0800" stop="20251104100000 +0800" channel="kapamilya.ph">
+    <title lang="en">Magandang Buhay</title>
+    <desc lang="en">Magandang Buhay</desc>
+  </programme>
+  <programme start="20251104100000 +0800" stop="20251104120000 +0800" channel="kapamilya.ph">
+    <title lang="en">Zinema sa Umaga</title>
+    <desc lang="en">Zinema sa Umaga</desc>
+  </programme>
+  <programme start="20251104120000 +0800" stop="20251104143000 +0800" channel="kapamilya.ph">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">It's Showtime</desc>
+  </programme>
+  <programme start="20251104143000 +0800" stop="20251104151500 +0800" channel="kapamilya.ph">
+    <title lang="en">Linlang</title>
+    <desc lang="en">Linlang</desc>
+  </programme>
+  <programme start="20251104151500 +0800" stop="20251104160000 +0800" channel="kapamilya.ph">
+    <title lang="en">Pamilya Sagrado</title>
+    <desc lang="en">Pamilya Sagrado</desc>
+  </programme>
+  <programme start="20251104160000 +0800" stop="20251104173000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Gold Hits</title>
+    <desc lang="en">Kapamilya Gold Hits</desc>
+  </programme>
+  <programme start="20251104173000 +0800" stop="20251104174500 +0800" channel="kapamilya.ph">
+    <title lang="en">TV Patrol Express (Live)</title>
+    <desc lang="en">TV Patrol Express (Live)</desc>
+  </programme>
+  <programme start="20251104174500 +0800" stop="20251104183000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Deal or No Deal</title>
+    <desc lang="en">Kapamilya Deal or No Deal</desc>
+  </programme>
+  <programme start="20251104183000 +0800" stop="20251104200000 +0800" channel="kapamilya.ph">
+    <title lang="en">TV Patrol (Live)</title>
+    <desc lang="en">TV Patrol (Live)</desc>
+  </programme>
+  <programme start="20251104200000 +0800" stop="20251104204500 +0800" channel="kapamilya.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+    <desc lang="en">FPJ's Batang Quiapo</desc>
+  </programme>
+  <programme start="20251104204500 +0800" stop="20251104213000 +0800" channel="kapamilya.ph">
+    <title lang="en">What Lies Beneath</title>
+    <desc lang="en">What Lies Beneath</desc>
+  </programme>
+  <programme start="20251104213000 +0800" stop="20251104221500 +0800" channel="kapamilya.ph">
+    <title lang="en">Sins of The Father</title>
+    <desc lang="en">Sins of The Father</desc>
+  </programme>
+  <programme start="20251104221500 +0800" stop="20251104224500 +0800" channel="kapamilya.ph">
+    <title lang="en">Go Ahead</title>
+    <desc lang="en">Go Ahead</desc>
+  </programme>
+  <programme start="20251104224500 +0800" stop="20251104231500 +0800" channel="kapamilya.ph">
+    <title lang="en">The World Tonight</title>
+    <desc lang="en">The World Tonight</desc>
+  </programme>
+  <programme start="20251104231500 +0800" stop="20251105004500 +0800" channel="kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Movie Central Presents</desc>
+  </programme>
+  <programme start="20251105004500 +0800" stop="20251105053000 +0800" channel="kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Movie Central Presents</desc>
+  </programme>
+  <programme start="20251105053000 +0800" stop="20251105060000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+    <desc lang="en">Kapamilya Daily Mass</desc>
+  </programme>
+  <programme start="20251105060000 +0800" stop="20251105070000 +0800" channel="kapamilya.ph">
+    <title lang="en">School Anywhere</title>
+    <desc lang="en">School Anywhere</desc>
+  </programme>
+  <programme start="20251105070000 +0800" stop="20251105080000 +0800" channel="kapamilya.ph">
+    <title lang="en">100 Days To Heaven</title>
+    <desc lang="en">100 Days To Heaven</desc>
+  </programme>
+  <programme start="20251105080000 +0800" stop="20251105083000 +0800" channel="kapamilya.ph">
+    <title lang="en">The Flying House</title>
+    <desc lang="en">The Flying House</desc>
+  </programme>
+  <programme start="20251105083000 +0800" stop="20251105090000 +0800" channel="kapamilya.ph">
+    <title lang="en">Superbook Season 5</title>
+    <desc lang="en">Superbook Season 5</desc>
+  </programme>
+  <programme start="20251105090000 +0800" stop="20251105100000 +0800" channel="kapamilya.ph">
+    <title lang="en">Magandang Buhay</title>
+    <desc lang="en">Magandang Buhay</desc>
+  </programme>
+  <programme start="20251105100000 +0800" stop="20251105120000 +0800" channel="kapamilya.ph">
+    <title lang="en">Zinema sa Umaga</title>
+    <desc lang="en">Zinema sa Umaga</desc>
+  </programme>
+  <programme start="20251105120000 +0800" stop="20251105143000 +0800" channel="kapamilya.ph">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">It's Showtime</desc>
+  </programme>
+  <programme start="20251105143000 +0800" stop="20251105151500 +0800" channel="kapamilya.ph">
+    <title lang="en">Linlang</title>
+    <desc lang="en">Linlang</desc>
+  </programme>
+  <programme start="20251105151500 +0800" stop="20251105160000 +0800" channel="kapamilya.ph">
+    <title lang="en">Pamilya Sagrado</title>
+    <desc lang="en">Pamilya Sagrado</desc>
+  </programme>
+  <programme start="20251105160000 +0800" stop="20251105173000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Gold Hits</title>
+    <desc lang="en">Kapamilya Gold Hits</desc>
+  </programme>
+  <programme start="20251105173000 +0800" stop="20251105174500 +0800" channel="kapamilya.ph">
+    <title lang="en">TV Patrol Express (Live)</title>
+    <desc lang="en">TV Patrol Express (Live)</desc>
+  </programme>
+  <programme start="20251105174500 +0800" stop="20251105183000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Deal or No Deal</title>
+    <desc lang="en">Kapamilya Deal or No Deal</desc>
+  </programme>
+  <programme start="20251105183000 +0800" stop="20251105200000 +0800" channel="kapamilya.ph">
+    <title lang="en">TV Patrol (Live)</title>
+    <desc lang="en">TV Patrol (Live)</desc>
+  </programme>
+  <programme start="20251105200000 +0800" stop="20251105204500 +0800" channel="kapamilya.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+    <desc lang="en">FPJ's Batang Quiapo</desc>
+  </programme>
+  <programme start="20251105204500 +0800" stop="20251105213000 +0800" channel="kapamilya.ph">
+    <title lang="en">What Lies Beneath</title>
+    <desc lang="en">What Lies Beneath</desc>
+  </programme>
+  <programme start="20251105213000 +0800" stop="20251105221500 +0800" channel="kapamilya.ph">
+    <title lang="en">Sins of The Father</title>
+    <desc lang="en">Sins of The Father</desc>
+  </programme>
+  <programme start="20251105221500 +0800" stop="20251105224500 +0800" channel="kapamilya.ph">
+    <title lang="en">Go Ahead</title>
+    <desc lang="en">Go Ahead</desc>
+  </programme>
+  <programme start="20251105224500 +0800" stop="20251105231500 +0800" channel="kapamilya.ph">
+    <title lang="en">The World Tonight</title>
+    <desc lang="en">The World Tonight</desc>
+  </programme>
+  <programme start="20251105231500 +0800" stop="20251106004500 +0800" channel="kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Movie Central Presents</desc>
+  </programme>
+  <programme start="20251106004500 +0800" stop="20251106053000 +0800" channel="kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Movie Central Presents</desc>
+  </programme>
+  <programme start="20251106053000 +0800" stop="20251106060000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+    <desc lang="en">Kapamilya Daily Mass</desc>
+  </programme>
+  <programme start="20251106060000 +0800" stop="20251106070000 +0800" channel="kapamilya.ph">
+    <title lang="en">School Anywhere</title>
+    <desc lang="en">School Anywhere</desc>
+  </programme>
+  <programme start="20251106070000 +0800" stop="20251106080000 +0800" channel="kapamilya.ph">
+    <title lang="en">100 Days To Heaven</title>
+    <desc lang="en">100 Days To Heaven</desc>
+  </programme>
+  <programme start="20251106080000 +0800" stop="20251106083000 +0800" channel="kapamilya.ph">
+    <title lang="en">The Flying House</title>
+    <desc lang="en">The Flying House</desc>
+  </programme>
+  <programme start="20251106083000 +0800" stop="20251106090000 +0800" channel="kapamilya.ph">
+    <title lang="en">Superbook Season 5</title>
+    <desc lang="en">Superbook Season 5</desc>
+  </programme>
+  <programme start="20251106090000 +0800" stop="20251106100000 +0800" channel="kapamilya.ph">
+    <title lang="en">Magandang Buhay</title>
+    <desc lang="en">Magandang Buhay</desc>
+  </programme>
+  <programme start="20251106100000 +0800" stop="20251106120000 +0800" channel="kapamilya.ph">
+    <title lang="en">Zinema sa Umaga</title>
+    <desc lang="en">Zinema sa Umaga</desc>
+  </programme>
+  <programme start="20251106120000 +0800" stop="20251106143000 +0800" channel="kapamilya.ph">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">It's Showtime</desc>
+  </programme>
+  <programme start="20251106143000 +0800" stop="20251106151500 +0800" channel="kapamilya.ph">
+    <title lang="en">Linlang</title>
+    <desc lang="en">Linlang</desc>
+  </programme>
+  <programme start="20251106151500 +0800" stop="20251106160000 +0800" channel="kapamilya.ph">
+    <title lang="en">Pamilya Sagrado</title>
+    <desc lang="en">Pamilya Sagrado</desc>
+  </programme>
+  <programme start="20251106160000 +0800" stop="20251106173000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Gold Hits</title>
+    <desc lang="en">Kapamilya Gold Hits</desc>
+  </programme>
+  <programme start="20251106173000 +0800" stop="20251106174500 +0800" channel="kapamilya.ph">
+    <title lang="en">TV Patrol Express (Live)</title>
+    <desc lang="en">TV Patrol Express (Live)</desc>
+  </programme>
+  <programme start="20251106174500 +0800" stop="20251106183000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Deal or No Deal</title>
+    <desc lang="en">Kapamilya Deal or No Deal</desc>
+  </programme>
+  <programme start="20251106183000 +0800" stop="20251106200000 +0800" channel="kapamilya.ph">
+    <title lang="en">TV Patrol (Live)</title>
+    <desc lang="en">TV Patrol (Live)</desc>
+  </programme>
+  <programme start="20251106200000 +0800" stop="20251106204500 +0800" channel="kapamilya.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+    <desc lang="en">FPJ's Batang Quiapo</desc>
+  </programme>
+  <programme start="20251106204500 +0800" stop="20251106213000 +0800" channel="kapamilya.ph">
+    <title lang="en">What Lies Beneath</title>
+    <desc lang="en">What Lies Beneath</desc>
+  </programme>
+  <programme start="20251106213000 +0800" stop="20251106221500 +0800" channel="kapamilya.ph">
+    <title lang="en">Sins of The Father</title>
+    <desc lang="en">Sins of The Father</desc>
+  </programme>
+  <programme start="20251106221500 +0800" stop="20251106224500 +0800" channel="kapamilya.ph">
+    <title lang="en">Go Ahead</title>
+    <desc lang="en">Go Ahead</desc>
+  </programme>
+  <programme start="20251106224500 +0800" stop="20251106231500 +0800" channel="kapamilya.ph">
+    <title lang="en">The World Tonight</title>
+    <desc lang="en">The World Tonight</desc>
+  </programme>
+  <programme start="20251106231500 +0800" stop="20251107004500 +0800" channel="kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Movie Central Presents</desc>
+  </programme>
+  <programme start="20251107004500 +0800" stop="20251107053000 +0800" channel="kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Movie Central Presents</desc>
+  </programme>
+  <programme start="20251107053000 +0800" stop="20251107060000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+    <desc lang="en">Kapamilya Daily Mass</desc>
+  </programme>
+  <programme start="20251107060000 +0800" stop="20251107070000 +0800" channel="kapamilya.ph">
+    <title lang="en">School Anywhere</title>
+    <desc lang="en">School Anywhere</desc>
+  </programme>
+  <programme start="20251107070000 +0800" stop="20251107080000 +0800" channel="kapamilya.ph">
+    <title lang="en">100 Days To Heaven</title>
+    <desc lang="en">100 Days To Heaven</desc>
+  </programme>
+  <programme start="20251107080000 +0800" stop="20251107083000 +0800" channel="kapamilya.ph">
+    <title lang="en">The Flying House</title>
+    <desc lang="en">The Flying House</desc>
+  </programme>
+  <programme start="20251107083000 +0800" stop="20251107090000 +0800" channel="kapamilya.ph">
+    <title lang="en">Superbook Season 5</title>
+    <desc lang="en">Superbook Season 5</desc>
+  </programme>
+  <programme start="20251107090000 +0800" stop="20251107100000 +0800" channel="kapamilya.ph">
+    <title lang="en">Magandang Buhay</title>
+    <desc lang="en">Magandang Buhay</desc>
+  </programme>
+  <programme start="20251107100000 +0800" stop="20251107120000 +0800" channel="kapamilya.ph">
+    <title lang="en">Zinema sa Umaga</title>
+    <desc lang="en">Zinema sa Umaga</desc>
+  </programme>
+  <programme start="20251107120000 +0800" stop="20251107143000 +0800" channel="kapamilya.ph">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">It's Showtime</desc>
+  </programme>
+  <programme start="20251107143000 +0800" stop="20251107151500 +0800" channel="kapamilya.ph">
+    <title lang="en">Linlang</title>
+    <desc lang="en">Linlang</desc>
+  </programme>
+  <programme start="20251107151500 +0800" stop="20251107160000 +0800" channel="kapamilya.ph">
+    <title lang="en">Pamilya Sagrado</title>
+    <desc lang="en">Pamilya Sagrado</desc>
+  </programme>
+  <programme start="20251107160000 +0800" stop="20251107173000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Gold Hits</title>
+    <desc lang="en">Kapamilya Gold Hits</desc>
+  </programme>
+  <programme start="20251107173000 +0800" stop="20251107174500 +0800" channel="kapamilya.ph">
+    <title lang="en">TV Patrol Express (Live)</title>
+    <desc lang="en">TV Patrol Express (Live)</desc>
+  </programme>
+  <programme start="20251107174500 +0800" stop="20251107183000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Deal or No Deal</title>
+    <desc lang="en">Kapamilya Deal or No Deal</desc>
+  </programme>
+  <programme start="20251107183000 +0800" stop="20251107200000 +0800" channel="kapamilya.ph">
+    <title lang="en">TV Patrol (Live)</title>
+    <desc lang="en">TV Patrol (Live)</desc>
+  </programme>
+  <programme start="20251107200000 +0800" stop="20251107204500 +0800" channel="kapamilya.ph">
+    <title lang="en">FPJ's Batang Quiapo</title>
+    <desc lang="en">FPJ's Batang Quiapo</desc>
+  </programme>
+  <programme start="20251107204500 +0800" stop="20251107213000 +0800" channel="kapamilya.ph">
+    <title lang="en">What Lies Beneath</title>
+    <desc lang="en">What Lies Beneath</desc>
+  </programme>
+  <programme start="20251107213000 +0800" stop="20251107221500 +0800" channel="kapamilya.ph">
+    <title lang="en">Sins of The Father</title>
+    <desc lang="en">Sins of The Father</desc>
+  </programme>
+  <programme start="20251107221500 +0800" stop="20251107224500 +0800" channel="kapamilya.ph">
+    <title lang="en">Go Ahead</title>
+    <desc lang="en">Go Ahead</desc>
+  </programme>
+  <programme start="20251107224500 +0800" stop="20251107231500 +0800" channel="kapamilya.ph">
+    <title lang="en">The World Tonight</title>
+    <desc lang="en">The World Tonight</desc>
+  </programme>
+  <programme start="20251107231500 +0800" stop="20251108004500 +0800" channel="kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Movie Central Presents</desc>
+  </programme>
+  <programme start="20251108004500 +0800" stop="20251108053000 +0800" channel="kapamilya.ph">
+    <title lang="en">Movie Central Presents</title>
+    <desc lang="en">Movie Central Presents</desc>
+  </programme>
+  <programme start="20251108053000 +0800" stop="20251108060000 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Daily Mass</title>
+    <desc lang="en">Kapamilya Daily Mass</desc>
+  </programme>
+  <programme start="20251108060000 +0800" stop="20251108063000 +0800" channel="kapamilya.ph">
+    <title lang="en">Bubu and The Little Owls</title>
+    <desc lang="en">Bubu and The Little Owls</desc>
+  </programme>
+  <programme start="20251108063000 +0800" stop="20251108070000 +0800" channel="kapamilya.ph">
+    <title lang="en">Dinoman</title>
+    <desc lang="en">Dinoman</desc>
+  </programme>
+  <programme start="20251108070000 +0800" stop="20251108073000 +0800" channel="kapamilya.ph">
+    <title lang="en">Team Yey</title>
+    <desc lang="en">Team Yey</desc>
+  </programme>
+  <programme start="20251108073000 +0800" stop="20251108083000 +0800" channel="kapamilya.ph">
+    <title lang="en">Wansapanataym</title>
+    <desc lang="en">Wansapanataym</desc>
+  </programme>
+  <programme start="20251108083000 +0800" stop="20251108120000 +0800" channel="kapamilya.ph">
+    <title lang="en">KB Family Weekend</title>
+    <desc lang="en">KB Family Weekend</desc>
+  </programme>
+  <programme start="20251108120000 +0800" stop="20251108143000 +0800" channel="kapamilya.ph">
+    <title lang="en">It's Showtime</title>
+    <desc lang="en">It's Showtime</desc>
+  </programme>
+  <programme start="20251108143000 +0800" stop="20251108151500 +0800" channel="kapamilya.ph">
+    <title lang="en">Linlang</title>
+    <desc lang="en">Linlang</desc>
+  </programme>
+  <programme start="20251108151500 +0800" stop="20251108171500 +0800" channel="kapamilya.ph">
+    <title lang="en">Kapamilya Action Sabado</title>
+    <desc lang="en">Kapamilya Action Sabado</desc>
+  </programme>
+  <programme start="20251108171500 +0800" stop="20251108181500 +0800" channel="kapamilya.ph">
+    <title lang="en">TV Patrol Weekend (Live)</title>
+    <desc lang="en">TV Patrol Weekend (Live)</desc>
+  </programme>
+  <programme start="20251108181500 +0800" stop="20251108191500 +0800" channel="kapamilya.ph">
+    <title lang="en">Rainbow Rumble</title>
+    <desc lang="en">Rainbow Rumble</desc>
+  </programme>
+  <programme start="20251108191500 +0800" stop="20251108201500 +0800" channel="kapamilya.ph">
+    <title lang="en">Your Face Sounds Familiar</title>
+    <desc lang="en">Your Face Sounds Familiar</desc>
+  </programme>
+  <programme start="20251108201500 +0800" stop="20251108211500 +0800" channel="kapamilya.ph">
+    <title lang="en">Maalaala Mo Kaya</title>
+    <desc lang="en">Maalaala Mo Kaya</desc>
+  </programme>
+  <programme start="20251108211500 +0800" stop="20251108220000 +0800" channel="kapamilya.ph">
+    <title lang="en">Tao Po</title>
+    <desc lang="en">Tao Po</desc>
+  </programme>
+  <programme start="20251108220000 +0800" stop="20251108230000 +0800" channel="kapamilya.ph">
+    <title lang="en">Super Kapamilya Blockbusters</title>
+    <desc lang="en">Super Kapamilya Blockbusters</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102035500 +0800" channel="untv.ph">
     <title lang="en">Itanong Mo Kay Soriano</title>
@@ -4349,77 +4848,69 @@
     <title lang="en">Itanong Mo Kay Soriano</title>
     <desc lang="en">Itanong Mo Kay Soriano</desc>
   </programme>
-  <programme start="20251107233000 +0800" stop="20251108003000 +0800" channel="untv.ph">
+  <programme start="20251107233000 +0800" stop="20251108000000 +0800" channel="untv.ph">
     <title lang="en">Itanong Mo Kay Soriano</title>
     <desc lang="en">Itanong Mo Kay Soriano</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101040000 +0800" channel="abante.ph">
-    <title lang="en">Sign Off</title>
-    <desc lang="en">Sign Off</desc>
+  <programme start="20251108000000 +0800" stop="20251108083000 +0800" channel="untv.ph">
+    <title lang="en">Itanong Mo Kay Soriano</title>
+    <desc lang="en">Itanong Mo Kay Soriano</desc>
   </programme>
-  <programme start="20251101040000 +0800" stop="20251101060000 +0800" channel="abante.ph">
-    <title lang="en">Agri Abante</title>
-    <desc lang="en">Agri Abante</desc>
+  <programme start="20251108083000 +0800" stop="20251108090000 +0800" channel="untv.ph">
+    <title lang="en">MCGI Cares</title>
+    <desc lang="en">MCGI Cares</desc>
   </programme>
-  <programme start="20251101060000 +0800" stop="20251101070000 +0800" channel="abante.ph">
-    <title lang="en">Abante Pilipinas</title>
-    <desc lang="en">Abante Pilipinas</desc>
+  <programme start="20251108090000 +0800" stop="20251108120000 +0800" channel="untv.ph">
+    <title lang="en">Itanong Mo Kay Soriano</title>
+    <desc lang="en">Itanong Mo Kay Soriano</desc>
   </programme>
-  <programme start="20251101070000 +0800" stop="20251101080000 +0800" channel="abante.ph">
-    <title lang="en">Abante sa Umaga Weekend</title>
-    <desc lang="en">Abante sa Umaga Weekend</desc>
+  <programme start="20251108120000 +0800" stop="20251108120500 +0800" channel="untv.ph">
+    <title lang="en">UNTV Community Prayer</title>
+    <desc lang="en">UNTV Community Prayer</desc>
   </programme>
-  <programme start="20251101080000 +0800" stop="20251101090000 +0800" channel="abante.ph">
-    <title lang="en">Point of Order</title>
-    <desc lang="en">Point of Order</desc>
+  <programme start="20251108120500 +0800" stop="20251108130000 +0800" channel="untv.ph">
+    <title lang="en">UNTV Ito ang Balita Weekend</title>
+    <desc lang="en">UNTV Ito ang Balita Weekend</desc>
   </programme>
-  <programme start="20251101090000 +0800" stop="20251101100000 +0800" channel="abante.ph">
-    <title lang="en">Cong Radyo</title>
-    <desc lang="en">Cong Radyo</desc>
+  <programme start="20251108130000 +0800" stop="20251108180000 +0800" channel="untv.ph">
+    <title lang="en">Itanong Mo Kay Soriano</title>
+    <desc lang="en">Itanong Mo Kay Soriano</desc>
   </programme>
-  <programme start="20251101100000 +0800" stop="20251101110000 +0800" channel="abante.ph">
-    <title lang="en">Tulong Abante</title>
-    <desc lang="en">Tulong Abante</desc>
+  <programme start="20251108180000 +0800" stop="20251108181000 +0800" channel="untv.ph">
+    <title lang="en">How Authentic, The Bible is...</title>
+    <desc lang="en">How Authentic, The Bible is...</desc>
   </programme>
-  <programme start="20251101110000 +0800" stop="20251101120000 +0800" channel="abante.ph">
-    <title lang="en">Abante sa Tanghali</title>
-    <desc lang="en">Abante sa Tanghali</desc>
+  <programme start="20251108181000 +0800" stop="20251108190000 +0800" channel="untv.ph">
+    <title lang="en">Itanong Mo Kay Soriano</title>
+    <desc lang="en">Itanong Mo Kay Soriano</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101130000 +0800" channel="abante.ph">
-    <title lang="en">OOTD</title>
-    <desc lang="en">OOTD</desc>
+  <programme start="20251108190000 +0800" stop="20251108200000 +0800" channel="untv.ph">
+    <title lang="en">Pulis @ Ur Serbis</title>
+    <desc lang="en">Pulis @ Ur Serbis</desc>
   </programme>
-  <programme start="20251101130000 +0800" stop="20251101140000 +0800" channel="abante.ph">
-    <title lang="en">Lusob Probinsya Weekends</title>
-    <desc lang="en">Lusob Probinsya Weekends</desc>
+  <programme start="20251108200000 +0800" stop="20251108200500 +0800" channel="untv.ph">
+    <title lang="en">UNTV Community Prayer</title>
+    <desc lang="en">UNTV Community Prayer</desc>
   </programme>
-  <programme start="20251101140000 +0800" stop="20251101150000 +0800" channel="abante.ph">
-    <title lang="en">Showbiz Pulis</title>
-    <desc lang="en">Showbiz Pulis</desc>
+  <programme start="20251108200500 +0800" stop="20251108210000 +0800" channel="untv.ph">
+    <title lang="en">Ang Inyong Kawal</title>
+    <desc lang="en">Ang Inyong Kawal</desc>
   </programme>
-  <programme start="20251101150000 +0800" stop="20251101180000 +0800" channel="abante.ph">
-    <title lang="en">Marisol Academy</title>
-    <desc lang="en">Marisol Academy</desc>
+  <programme start="20251108210000 +0800" stop="20251108220000 +0800" channel="untv.ph">
+    <title lang="en">Itanong Mo Kay Soriano</title>
+    <desc lang="en">Itanong Mo Kay Soriano</desc>
   </programme>
-  <programme start="20251101180000 +0800" stop="20251101190000 +0800" channel="abante.ph">
-    <title lang="en">Agenda Weekend</title>
-    <desc lang="en">Agenda Weekend</desc>
+  <programme start="20251108220000 +0800" stop="20251108220500 +0800" channel="untv.ph">
+    <title lang="en">UNTV Community Prayer</title>
+    <desc lang="en">UNTV Community Prayer</desc>
   </programme>
-  <programme start="20251101190000 +0800" stop="20251101210000 +0800" channel="abante.ph">
-    <title lang="en">Tamang Kwentuhan</title>
-    <desc lang="en">Tamang Kwentuhan</desc>
+  <programme start="20251108220500 +0800" stop="20251108233000 +0800" channel="untv.ph">
+    <title lang="en">Itanong Mo Kay Soriano</title>
+    <desc lang="en">Itanong Mo Kay Soriano</desc>
   </programme>
-  <programme start="20251101210000 +0800" stop="20251101220000 +0800" channel="abante.ph">
-    <title lang="en">Abanteliling</title>
-    <desc lang="en">Abanteliling</desc>
-  </programme>
-  <programme start="20251101220000 +0800" stop="20251101223000 +0800" channel="abante.ph">
-    <title lang="en">Roadside</title>
-    <desc lang="en">Roadside</desc>
-  </programme>
-  <programme start="20251101223000 +0800" stop="20251102000000 +0800" channel="abante.ph">
-    <title lang="en">Replay</title>
-    <desc lang="en">Replay</desc>
+  <programme start="20251108233000 +0800" stop="20251109003000 +0800" channel="untv.ph">
+    <title lang="en">Itanong Mo Kay Soriano</title>
+    <desc lang="en">Itanong Mo Kay Soriano</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
@@ -4833,73 +5324,77 @@
     <title lang="en">Telebabe</title>
     <desc lang="en">Telebabe</desc>
   </programme>
-  <programme start="20251107223000 +0800" stop="20251107233000 +0800" channel="abante.ph">
+  <programme start="20251107223000 +0800" stop="20251108000000 +0800" channel="abante.ph">
     <title lang="en">Replay</title>
     <desc lang="en">Replay</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101053000 +0800" channel="gtv.ph">
+  <programme start="20251108000000 +0800" stop="20251108040000 +0800" channel="abante.ph">
     <title lang="en">Sign Off</title>
     <desc lang="en">Sign Off</desc>
   </programme>
-  <programme start="20251101053000 +0800" stop="20251101090000 +0800" channel="gtv.ph">
-    <title lang="en">Dobol B TV (Live)</title>
-    <desc lang="en">Dobol B TV (Live)</desc>
+  <programme start="20251108040000 +0800" stop="20251108060000 +0800" channel="abante.ph">
+    <title lang="en">Agri Abante</title>
+    <desc lang="en">Agri Abante</desc>
   </programme>
-  <programme start="20251101090000 +0800" stop="20251101093000 +0800" channel="gtv.ph">
-    <title lang="en">Siyensikat Pinoy Popular Science Para sa Lahat</title>
-    <desc lang="en">Siyensikat Pinoy Popular Science Para sa Lahat</desc>
+  <programme start="20251108060000 +0800" stop="20251108070000 +0800" channel="abante.ph">
+    <title lang="en">Abante Pilipinas</title>
+    <desc lang="en">Abante Pilipinas</desc>
   </programme>
-  <programme start="20251101093000 +0800" stop="20251101103000 +0800" channel="gtv.ph">
-    <title lang="en">Healing Galing (Live)</title>
-    <desc lang="en">Healing Galing (Live)</desc>
+  <programme start="20251108070000 +0800" stop="20251108080000 +0800" channel="abante.ph">
+    <title lang="en">Abante sa Umaga Weekend</title>
+    <desc lang="en">Abante sa Umaga Weekend</desc>
   </programme>
-  <programme start="20251101103000 +0800" stop="20251101110000 +0800" channel="gtv.ph">
-    <title lang="en">Business Matters</title>
-    <desc lang="en">Business Matters</desc>
+  <programme start="20251108080000 +0800" stop="20251108090000 +0800" channel="abante.ph">
+    <title lang="en">Point of Order</title>
+    <desc lang="en">Point of Order</desc>
   </programme>
-  <programme start="20251101110000 +0800" stop="20251101120000 +0800" channel="gtv.ph">
-    <title lang="en">Saturday Cinema Hits</title>
-    <desc lang="en">Saturday Cinema Hits</desc>
+  <programme start="20251108090000 +0800" stop="20251108100000 +0800" channel="abante.ph">
+    <title lang="en">Cong Radyo</title>
+    <desc lang="en">Cong Radyo</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101143000 +0800" channel="gtv.ph">
-    <title lang="en">Noontime Movie Hits</title>
-    <desc lang="en">Noontime Movie Hits</desc>
+  <programme start="20251108100000 +0800" stop="20251108110000 +0800" channel="abante.ph">
+    <title lang="en">Tulong Abante</title>
+    <desc lang="en">Tulong Abante</desc>
   </programme>
-  <programme start="20251101143000 +0800" stop="20251101170000 +0800" channel="gtv.ph">
-    <title lang="en">NCAA Season 101 Building Greatness (Live)</title>
-    <desc lang="en">NCAA Season 101 Building Greatness (Live)</desc>
+  <programme start="20251108110000 +0800" stop="20251108120000 +0800" channel="abante.ph">
+    <title lang="en">Abante sa Tanghali</title>
+    <desc lang="en">Abante sa Tanghali</desc>
   </programme>
-  <programme start="20251101170000 +0800" stop="20251101173000 +0800" channel="gtv.ph">
-    <title lang="en">Bad Romeo</title>
-    <desc lang="en">Bad Romeo</desc>
+  <programme start="20251108120000 +0800" stop="20251108130000 +0800" channel="abante.ph">
+    <title lang="en">OOTD</title>
+    <desc lang="en">OOTD</desc>
   </programme>
-  <programme start="20251101173000 +0800" stop="20251101181500 +0800" channel="gtv.ph">
-    <title lang="en">24 Oras Weekend (Live)</title>
-    <desc lang="en">24 Oras Weekend (Live)</desc>
+  <programme start="20251108130000 +0800" stop="20251108140000 +0800" channel="abante.ph">
+    <title lang="en">Lusob Probinsya Weekends</title>
+    <desc lang="en">Lusob Probinsya Weekends</desc>
   </programme>
-  <programme start="20251101181500 +0800" stop="20251101201500 +0800" channel="gtv.ph">
-    <title lang="en">G! Flicks</title>
-    <desc lang="en">G! Flicks</desc>
+  <programme start="20251108140000 +0800" stop="20251108150000 +0800" channel="abante.ph">
+    <title lang="en">Showbiz Pulis</title>
+    <desc lang="en">Showbiz Pulis</desc>
   </programme>
-  <programme start="20251101201500 +0800" stop="20251101210000 +0800" channel="gtv.ph">
-    <title lang="en">Pinas Sarap</title>
-    <desc lang="en">Pinas Sarap</desc>
+  <programme start="20251108150000 +0800" stop="20251108180000 +0800" channel="abante.ph">
+    <title lang="en">Marisol Academy</title>
+    <desc lang="en">Marisol Academy</desc>
   </programme>
-  <programme start="20251101210000 +0800" stop="20251101214500 +0800" channel="gtv.ph">
-    <title lang="en">Good News Kasama si Vicky Morales</title>
-    <desc lang="en">Good News Kasama si Vicky Morales</desc>
+  <programme start="20251108180000 +0800" stop="20251108190000 +0800" channel="abante.ph">
+    <title lang="en">Agenda Weekend</title>
+    <desc lang="en">Agenda Weekend</desc>
   </programme>
-  <programme start="20251101214500 +0800" stop="20251101223000 +0800" channel="gtv.ph">
-    <title lang="en">Daig Kayo ng Lola Ko</title>
-    <desc lang="en">Daig Kayo ng Lola Ko</desc>
+  <programme start="20251108190000 +0800" stop="20251108210000 +0800" channel="abante.ph">
+    <title lang="en">Tamang Kwentuhan</title>
+    <desc lang="en">Tamang Kwentuhan</desc>
   </programme>
-  <programme start="20251101223000 +0800" stop="20251101233000 +0800" channel="gtv.ph">
-    <title lang="en">Just For Laughs Gags</title>
-    <desc lang="en">Just For Laughs Gags</desc>
+  <programme start="20251108210000 +0800" stop="20251108220000 +0800" channel="abante.ph">
+    <title lang="en">Abanteliling</title>
+    <desc lang="en">Abanteliling</desc>
   </programme>
-  <programme start="20251101233000 +0800" stop="20251102000000 +0800" channel="gtv.ph">
-    <title lang="en">In Touch With Dr. Charles Stanley</title>
-    <desc lang="en">In Touch With Dr. Charles Stanley</desc>
+  <programme start="20251108220000 +0800" stop="20251108223000 +0800" channel="abante.ph">
+    <title lang="en">Roadside</title>
+    <desc lang="en">Roadside</desc>
+  </programme>
+  <programme start="20251108223000 +0800" stop="20251108233000 +0800" channel="abante.ph">
+    <title lang="en">Replay</title>
+    <desc lang="en">Replay</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102060000 +0800" channel="gtv.ph">
     <title lang="en">Sign Off</title>
@@ -5265,85 +5760,73 @@
     <title lang="en">State of The Nation (Live)</title>
     <desc lang="en">State of The Nation (Live)</desc>
   </programme>
-  <programme start="20251107232500 +0800" stop="20251108002500 +0800" channel="gtv.ph">
+  <programme start="20251107232500 +0800" stop="20251108000000 +0800" channel="gtv.ph">
     <title lang="en">True Horror Stories 20th Anniversary Special</title>
     <desc lang="en">True Horror Stories 20th Anniversary Special</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101040000 +0800" channel="aliwchannel.ph">
+  <programme start="20251108000000 +0800" stop="20251108053000 +0800" channel="gtv.ph">
     <title lang="en">Sign Off</title>
     <desc lang="en">Sign Off</desc>
   </programme>
-  <programme start="20251101040000 +0800" stop="20251101060000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Sa Kabukiran at Kabuhayan</title>
-    <desc lang="en">Sa Kabukiran at Kabuhayan</desc>
+  <programme start="20251108053000 +0800" stop="20251108090000 +0800" channel="gtv.ph">
+    <title lang="en">Dobol B TV (Live)</title>
+    <desc lang="en">Dobol B TV (Live)</desc>
   </programme>
-  <programme start="20251101060000 +0800" stop="20251101070000 +0800" channel="aliwchannel.ph">
-    <title lang="en">IZ Balita Sabado (Umaga)</title>
-    <desc lang="en">IZ Balita Sabado (Umaga)</desc>
+  <programme start="20251108090000 +0800" stop="20251108093000 +0800" channel="gtv.ph">
+    <title lang="en">Siyensikat Pinoy Popular Science Para sa Lahat</title>
+    <desc lang="en">Siyensikat Pinoy Popular Science Para sa Lahat</desc>
   </programme>
-  <programme start="20251101070000 +0800" stop="20251101080000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Isyu ng Bayan</title>
-    <desc lang="en">Isyu ng Bayan</desc>
+  <programme start="20251108093000 +0800" stop="20251108103000 +0800" channel="gtv.ph">
+    <title lang="en">Healing Galing (Live)</title>
+    <desc lang="en">Healing Galing (Live)</desc>
   </programme>
-  <programme start="20251101080000 +0800" stop="20251101100000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Sapol ni Jarius Bondoc</title>
-    <desc lang="en">Sapol ni Jarius Bondoc</desc>
+  <programme start="20251108103000 +0800" stop="20251108110000 +0800" channel="gtv.ph">
+    <title lang="en">Business Matters</title>
+    <desc lang="en">Business Matters</desc>
   </programme>
-  <programme start="20251101100000 +0800" stop="20251101110000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Mr. Taxman</title>
-    <desc lang="en">Mr. Taxman</desc>
+  <programme start="20251108110000 +0800" stop="20251108120000 +0800" channel="gtv.ph">
+    <title lang="en">Saturday Cinema Hits</title>
+    <desc lang="en">Saturday Cinema Hits</desc>
   </programme>
-  <programme start="20251101110000 +0800" stop="20251101120000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Laban Para sa Karapatan</title>
-    <desc lang="en">Laban Para sa Karapatan</desc>
+  <programme start="20251108120000 +0800" stop="20251108143000 +0800" channel="gtv.ph">
+    <title lang="en">Noontime Movie Hits</title>
+    <desc lang="en">Noontime Movie Hits</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101123000 +0800" channel="aliwchannel.ph">
-    <title lang="en">IZ Balita Sabado (Tanghali)</title>
-    <desc lang="en">IZ Balita Sabado (Tanghali)</desc>
+  <programme start="20251108143000 +0800" stop="20251108170000 +0800" channel="gtv.ph">
+    <title lang="en">NCAA Season 101 Building Greatness (Live)</title>
+    <desc lang="en">NCAA Season 101 Building Greatness (Live)</desc>
   </programme>
-  <programme start="20251101123000 +0800" stop="20251101130000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Balitang Paliparan</title>
-    <desc lang="en">Balitang Paliparan</desc>
+  <programme start="20251108170000 +0800" stop="20251108173000 +0800" channel="gtv.ph">
+    <title lang="en">Bad Romeo</title>
+    <desc lang="en">Bad Romeo</desc>
   </programme>
-  <programme start="20251101130000 +0800" stop="20251101140000 +0800" channel="aliwchannel.ph">
-    <title lang="en">El Pueblo Publico</title>
-    <desc lang="en">El Pueblo Publico</desc>
+  <programme start="20251108173000 +0800" stop="20251108181500 +0800" channel="gtv.ph">
+    <title lang="en">24 Oras Weekend (Live)</title>
+    <desc lang="en">24 Oras Weekend (Live)</desc>
   </programme>
-  <programme start="20251101140000 +0800" stop="20251101150000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Usapang Senado</title>
-    <desc lang="en">Usapang Senado</desc>
+  <programme start="20251108181500 +0800" stop="20251108201500 +0800" channel="gtv.ph">
+    <title lang="en">G! Flicks</title>
+    <desc lang="en">G! Flicks</desc>
   </programme>
-  <programme start="20251101150000 +0800" stop="20251101160000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Work Related</title>
-    <desc lang="en">Work Related</desc>
+  <programme start="20251108201500 +0800" stop="20251108210000 +0800" channel="gtv.ph">
+    <title lang="en">Pinas Sarap</title>
+    <desc lang="en">Pinas Sarap</desc>
   </programme>
-  <programme start="20251101160000 +0800" stop="20251101170000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Brgy. 882</title>
-    <desc lang="en">Brgy. 882</desc>
+  <programme start="20251108210000 +0800" stop="20251108214500 +0800" channel="gtv.ph">
+    <title lang="en">Good News Kasama si Vicky Morales</title>
+    <desc lang="en">Good News Kasama si Vicky Morales</desc>
   </programme>
-  <programme start="20251101170000 +0800" stop="20251101180000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Sandigan ng Bayan</title>
-    <desc lang="en">Sandigan ng Bayan</desc>
+  <programme start="20251108214500 +0800" stop="20251108223000 +0800" channel="gtv.ph">
+    <title lang="en">Daig Kayo ng Lola Ko</title>
+    <desc lang="en">Daig Kayo ng Lola Ko</desc>
   </programme>
-  <programme start="20251101180000 +0800" stop="20251101190000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Life Balance</title>
-    <desc lang="en">Life Balance</desc>
+  <programme start="20251108223000 +0800" stop="20251108233000 +0800" channel="gtv.ph">
+    <title lang="en">Just For Laughs Gags</title>
+    <desc lang="en">Just For Laughs Gags</desc>
   </programme>
-  <programme start="20251101190000 +0800" stop="20251101200000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Usapang Senado</title>
-    <desc lang="en">Usapang Senado</desc>
-  </programme>
-  <programme start="20251101200000 +0800" stop="20251101210000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Pulis at Ur Serbis</title>
-    <desc lang="en">Pulis at Ur Serbis</desc>
-  </programme>
-  <programme start="20251101210000 +0800" stop="20251101220000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Beyond Wellness with Ms. P</title>
-    <desc lang="en">Beyond Wellness with Ms. P</desc>
-  </programme>
-  <programme start="20251101220000 +0800" stop="20251102000000 +0800" channel="aliwchannel.ph">
-    <title lang="en">Sign Off</title>
-    <desc lang="en">Sign Off</desc>
+  <programme start="20251108233000 +0800" stop="20251109003000 +0800" channel="gtv.ph">
+    <title lang="en">In Touch With Dr. Charles Stanley</title>
+    <desc lang="en">In Touch With Dr. Charles Stanley</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102060000 +0800" channel="aliwchannel.ph">
     <title lang="en">Sign Off</title>
@@ -5865,149 +6348,85 @@
     <title lang="en">Life Balance</title>
     <desc lang="en">Life Balance</desc>
   </programme>
-  <programme start="20251107220000 +0800" stop="20251107230000 +0800" channel="aliwchannel.ph">
+  <programme start="20251107220000 +0800" stop="20251108000000 +0800" channel="aliwchannel.ph">
     <title lang="en">Sign Off</title>
     <desc lang="en">Sign Off</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101010000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">On Point</title>
-    <desc lang="en">On Point</desc>
+  <programme start="20251108000000 +0800" stop="20251108040000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off</desc>
   </programme>
-  <programme start="20251101010000 +0800" stop="20251101013000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">The Scorecard</title>
-    <desc lang="en">The Scorecard</desc>
+  <programme start="20251108040000 +0800" stop="20251108060000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Sa Kabukiran at Kabuhayan</title>
+    <desc lang="en">Sa Kabukiran at Kabuhayan</desc>
   </programme>
-  <programme start="20251101013000 +0800" stop="20251101020000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Follow The Money</title>
-    <desc lang="en">Follow The Money</desc>
+  <programme start="20251108060000 +0800" stop="20251108070000 +0800" channel="aliwchannel.ph">
+    <title lang="en">IZ Balita Sabado (Umaga)</title>
+    <desc lang="en">IZ Balita Sabado (Umaga)</desc>
   </programme>
-  <programme start="20251101020000 +0800" stop="20251101030000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">At the Forefront</title>
-    <desc lang="en">At the Forefront</desc>
+  <programme start="20251108070000 +0800" stop="20251108080000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Isyu ng Bayan</title>
+    <desc lang="en">Isyu ng Bayan</desc>
   </programme>
-  <programme start="20251101030000 +0800" stop="20251101033000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Business 360</title>
-    <desc lang="en">Business 360</desc>
+  <programme start="20251108080000 +0800" stop="20251108100000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Sapol ni Jarius Bondoc</title>
+    <desc lang="en">Sapol ni Jarius Bondoc</desc>
   </programme>
-  <programme start="20251101033000 +0800" stop="20251101040000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Trade Talks</title>
-    <desc lang="en">Trade Talks</desc>
+  <programme start="20251108100000 +0800" stop="20251108110000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Mr. Taxman</title>
+    <desc lang="en">Mr. Taxman</desc>
   </programme>
-  <programme start="20251101040000 +0800" stop="20251101043000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">The Daily Dish</title>
-    <desc lang="en">The Daily Dish</desc>
+  <programme start="20251108110000 +0800" stop="20251108120000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Laban Para sa Karapatan</title>
+    <desc lang="en">Laban Para sa Karapatan</desc>
   </programme>
-  <programme start="20251101043000 +0800" stop="20251101060000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Agenda</title>
-    <desc lang="en">Agenda</desc>
+  <programme start="20251108120000 +0800" stop="20251108123000 +0800" channel="aliwchannel.ph">
+    <title lang="en">IZ Balita Sabado (Tanghali)</title>
+    <desc lang="en">IZ Balita Sabado (Tanghali)</desc>
   </programme>
-  <programme start="20251101060000 +0800" stop="20251101063000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">The Lifestyle Lab</title>
-    <desc lang="en">The Lifestyle Lab</desc>
+  <programme start="20251108123000 +0800" stop="20251108130000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Balitang Paliparan</title>
+    <desc lang="en">Balitang Paliparan</desc>
   </programme>
-  <programme start="20251101063000 +0800" stop="20251101070000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Trade Talks</title>
-    <desc lang="en">Trade Talks</desc>
+  <programme start="20251108130000 +0800" stop="20251108140000 +0800" channel="aliwchannel.ph">
+    <title lang="en">El Pueblo Publico</title>
+    <desc lang="en">El Pueblo Publico</desc>
   </programme>
-  <programme start="20251101070000 +0800" stop="20251101080000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Beautiful Day</title>
-    <desc lang="en">Beautiful Day</desc>
+  <programme start="20251108140000 +0800" stop="20251108150000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Usapang Senado</title>
+    <desc lang="en">Usapang Senado</desc>
   </programme>
-  <programme start="20251101080000 +0800" stop="20251101083000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Follow The Money</title>
-    <desc lang="en">Follow The Money</desc>
+  <programme start="20251108150000 +0800" stop="20251108160000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Work Related</title>
+    <desc lang="en">Work Related</desc>
   </programme>
-  <programme start="20251101083000 +0800" stop="20251101090000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Politiko Nightly</title>
-    <desc lang="en">Politiko Nightly</desc>
+  <programme start="20251108160000 +0800" stop="20251108170000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Brgy. 882</title>
+    <desc lang="en">Brgy. 882</desc>
   </programme>
-  <programme start="20251101090000 +0800" stop="20251101093000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Weather HQ Weekend</title>
-    <desc lang="en">Weather HQ Weekend</desc>
+  <programme start="20251108170000 +0800" stop="20251108180000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Sandigan ng Bayan</title>
+    <desc lang="en">Sandigan ng Bayan</desc>
   </programme>
-  <programme start="20251101093000 +0800" stop="20251101103000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">At The Forefront</title>
-    <desc lang="en">At The Forefront</desc>
+  <programme start="20251108180000 +0800" stop="20251108190000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Life Balance</title>
+    <desc lang="en">Life Balance</desc>
   </programme>
-  <programme start="20251101103000 +0800" stop="20251101110000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Business 360</title>
-    <desc lang="en">Business 360</desc>
+  <programme start="20251108190000 +0800" stop="20251108200000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Usapang Senado</title>
+    <desc lang="en">Usapang Senado</desc>
   </programme>
-  <programme start="20251101110000 +0800" stop="20251101113000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Trade Talks</title>
-    <desc lang="en">Trade Talks</desc>
+  <programme start="20251108200000 +0800" stop="20251108210000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Pulis at Ur Serbis</title>
+    <desc lang="en">Pulis at Ur Serbis</desc>
   </programme>
-  <programme start="20251101113000 +0800" stop="20251101120000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Rampa</title>
-    <desc lang="en">Rampa</desc>
+  <programme start="20251108210000 +0800" stop="20251108220000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Beyond Wellness with Ms. P</title>
+    <desc lang="en">Beyond Wellness with Ms. P</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101123000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Weather HQ Weekend</title>
-    <desc lang="en">Weather HQ Weekend</desc>
-  </programme>
-  <programme start="20251101123000 +0800" stop="20251101130000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">The Daily Dish</title>
-    <desc lang="en">The Daily Dish</desc>
-  </programme>
-  <programme start="20251101130000 +0800" stop="20251101140000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Politiko Talks</title>
-    <desc lang="en">Politiko Talks</desc>
-  </programme>
-  <programme start="20251101140000 +0800" stop="20251101143000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Follow The Money</title>
-    <desc lang="en">Follow The Money</desc>
-  </programme>
-  <programme start="20251101143000 +0800" stop="20251101150000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">On Point</title>
-    <desc lang="en">On Point</desc>
-  </programme>
-  <programme start="20251101150000 +0800" stop="20251101153000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Kasangga Mo Ang Langit</title>
-    <desc lang="en">Kasangga Mo Ang Langit</desc>
-  </programme>
-  <programme start="20251101153000 +0800" stop="20251101160000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">The Scorecard</title>
-    <desc lang="en">The Scorecard</desc>
-  </programme>
-  <programme start="20251101160000 +0800" stop="20251101170000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">At The Forefront</title>
-    <desc lang="en">At The Forefront</desc>
-  </programme>
-  <programme start="20251101170000 +0800" stop="20251101173000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Politiko Talks</title>
-    <desc lang="en">Politiko Talks</desc>
-  </programme>
-  <programme start="20251101173000 +0800" stop="20251101180000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Trade Talks</title>
-    <desc lang="en">Trade Talks</desc>
-  </programme>
-  <programme start="20251101180000 +0800" stop="20251101190000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Agenda Weekend</title>
-    <desc lang="en">Agenda Weekend</desc>
-  </programme>
-  <programme start="20251101190000 +0800" stop="20251101200000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Divina Law</title>
-    <desc lang="en">Divina Law</desc>
-  </programme>
-  <programme start="20251101200000 +0800" stop="20251101203000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Bilyonaryo Quiz B</title>
-    <desc lang="en">Bilyonaryo Quiz B</desc>
-  </programme>
-  <programme start="20251101203000 +0800" stop="20251101210000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">On Point</title>
-    <desc lang="en">On Point</desc>
-  </programme>
-  <programme start="20251101210000 +0800" stop="20251101220000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Agenda Weekend</title>
-    <desc lang="en">Agenda Weekend</desc>
-  </programme>
-  <programme start="20251101220000 +0800" stop="20251101233000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Sessions with Brian Yamsuan</title>
-    <desc lang="en">Sessions with Brian Yamsuan</desc>
-  </programme>
-  <programme start="20251101233000 +0800" stop="20251102000000 +0800" channel="bilyonaryonews.ph">
-    <title lang="en">Abogado</title>
-    <desc lang="en">Abogado</desc>
+  <programme start="20251108220000 +0800" stop="20251108230000 +0800" channel="aliwchannel.ph">
+    <title lang="en">Sign Off</title>
+    <desc lang="en">Sign Off</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102003000 +0800" channel="bilyonaryonews.ph">
     <title lang="en">Bilyonaryo Quiz B</title>
@@ -6857,49 +7276,149 @@
     <title lang="en">Sessions with Brian Yamsuan</title>
     <desc lang="en">Sessions with Brian Yamsuan</desc>
   </programme>
-  <programme start="20251107233000 +0800" stop="20251108003000 +0800" channel="bilyonaryonews.ph">
+  <programme start="20251107233000 +0800" stop="20251108000000 +0800" channel="bilyonaryonews.ph">
     <title lang="en">On Point</title>
     <desc lang="en">On Point</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101060000 +0800" channel="hboboxing.us">
-    <title lang="en">HBO Boxing Presents</title>
-    <desc lang="en">HBO Boxing Presents</desc>
+  <programme start="20251108000000 +0800" stop="20251108010000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">On Point</title>
+    <desc lang="en">On Point</desc>
   </programme>
-  <programme start="20251101060000 +0800" stop="20251101080000 +0800" channel="hboboxing.us">
-    <title lang="en">HBO Boxing Presents</title>
-    <desc lang="en">HBO Boxing Presents</desc>
+  <programme start="20251108010000 +0800" stop="20251108013000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">The Scorecard</title>
+    <desc lang="en">The Scorecard</desc>
   </programme>
-  <programme start="20251101080000 +0800" stop="20251101100000 +0800" channel="hboboxing.us">
-    <title lang="en">HBO Boxing Presents</title>
-    <desc lang="en">HBO Boxing Presents</desc>
+  <programme start="20251108013000 +0800" stop="20251108020000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Follow The Money</title>
+    <desc lang="en">Follow The Money</desc>
   </programme>
-  <programme start="20251101100000 +0800" stop="20251101120000 +0800" channel="hboboxing.us">
-    <title lang="en">HBO Boxing Presents</title>
-    <desc lang="en">HBO Boxing Presents</desc>
+  <programme start="20251108020000 +0800" stop="20251108030000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">At the Forefront</title>
+    <desc lang="en">At the Forefront</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101140000 +0800" channel="hboboxing.us">
-    <title lang="en">HBO Boxing Presents</title>
-    <desc lang="en">HBO Boxing Presents</desc>
+  <programme start="20251108030000 +0800" stop="20251108033000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Business 360</title>
+    <desc lang="en">Business 360</desc>
   </programme>
-  <programme start="20251101140000 +0800" stop="20251101160000 +0800" channel="hboboxing.us">
-    <title lang="en">HBO Boxing Presents</title>
-    <desc lang="en">HBO Boxing Presents</desc>
+  <programme start="20251108033000 +0800" stop="20251108040000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Trade Talks</title>
+    <desc lang="en">Trade Talks</desc>
   </programme>
-  <programme start="20251101160000 +0800" stop="20251101180000 +0800" channel="hboboxing.us">
-    <title lang="en">HBO Boxing Presents</title>
-    <desc lang="en">HBO Boxing Presents</desc>
+  <programme start="20251108040000 +0800" stop="20251108043000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">The Daily Dish</title>
+    <desc lang="en">The Daily Dish</desc>
   </programme>
-  <programme start="20251101180000 +0800" stop="20251101200000 +0800" channel="hboboxing.us">
-    <title lang="en">HBO Boxing Presents</title>
-    <desc lang="en">HBO Boxing Presents</desc>
+  <programme start="20251108043000 +0800" stop="20251108060000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Agenda</title>
+    <desc lang="en">Agenda</desc>
   </programme>
-  <programme start="20251101200000 +0800" stop="20251101220000 +0800" channel="hboboxing.us">
-    <title lang="en">HBO Boxing Presents</title>
-    <desc lang="en">HBO Boxing Presents</desc>
+  <programme start="20251108060000 +0800" stop="20251108063000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">The Lifestyle Lab</title>
+    <desc lang="en">The Lifestyle Lab</desc>
   </programme>
-  <programme start="20251101220000 +0800" stop="20251102000000 +0800" channel="hboboxing.us">
-    <title lang="en">HBO Boxing Presents</title>
-    <desc lang="en">HBO Boxing Presents</desc>
+  <programme start="20251108063000 +0800" stop="20251108070000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Trade Talks</title>
+    <desc lang="en">Trade Talks</desc>
+  </programme>
+  <programme start="20251108070000 +0800" stop="20251108080000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Beautiful Day</title>
+    <desc lang="en">Beautiful Day</desc>
+  </programme>
+  <programme start="20251108080000 +0800" stop="20251108083000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Follow The Money</title>
+    <desc lang="en">Follow The Money</desc>
+  </programme>
+  <programme start="20251108083000 +0800" stop="20251108090000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Politiko Nightly</title>
+    <desc lang="en">Politiko Nightly</desc>
+  </programme>
+  <programme start="20251108090000 +0800" stop="20251108093000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Weather HQ Weekend</title>
+    <desc lang="en">Weather HQ Weekend</desc>
+  </programme>
+  <programme start="20251108093000 +0800" stop="20251108103000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">At The Forefront</title>
+    <desc lang="en">At The Forefront</desc>
+  </programme>
+  <programme start="20251108103000 +0800" stop="20251108110000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Business 360</title>
+    <desc lang="en">Business 360</desc>
+  </programme>
+  <programme start="20251108110000 +0800" stop="20251108113000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Trade Talks</title>
+    <desc lang="en">Trade Talks</desc>
+  </programme>
+  <programme start="20251108113000 +0800" stop="20251108120000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Rampa</title>
+    <desc lang="en">Rampa</desc>
+  </programme>
+  <programme start="20251108120000 +0800" stop="20251108123000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Weather HQ Weekend</title>
+    <desc lang="en">Weather HQ Weekend</desc>
+  </programme>
+  <programme start="20251108123000 +0800" stop="20251108130000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">The Daily Dish</title>
+    <desc lang="en">The Daily Dish</desc>
+  </programme>
+  <programme start="20251108130000 +0800" stop="20251108140000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Politiko Talks</title>
+    <desc lang="en">Politiko Talks</desc>
+  </programme>
+  <programme start="20251108140000 +0800" stop="20251108143000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Follow The Money</title>
+    <desc lang="en">Follow The Money</desc>
+  </programme>
+  <programme start="20251108143000 +0800" stop="20251108150000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">On Point</title>
+    <desc lang="en">On Point</desc>
+  </programme>
+  <programme start="20251108150000 +0800" stop="20251108153000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Kasangga Mo Ang Langit</title>
+    <desc lang="en">Kasangga Mo Ang Langit</desc>
+  </programme>
+  <programme start="20251108153000 +0800" stop="20251108160000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">The Scorecard</title>
+    <desc lang="en">The Scorecard</desc>
+  </programme>
+  <programme start="20251108160000 +0800" stop="20251108170000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">At The Forefront</title>
+    <desc lang="en">At The Forefront</desc>
+  </programme>
+  <programme start="20251108170000 +0800" stop="20251108173000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Politiko Talks</title>
+    <desc lang="en">Politiko Talks</desc>
+  </programme>
+  <programme start="20251108173000 +0800" stop="20251108180000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Trade Talks</title>
+    <desc lang="en">Trade Talks</desc>
+  </programme>
+  <programme start="20251108180000 +0800" stop="20251108190000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Agenda Weekend</title>
+    <desc lang="en">Agenda Weekend</desc>
+  </programme>
+  <programme start="20251108190000 +0800" stop="20251108200000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Divina Law</title>
+    <desc lang="en">Divina Law</desc>
+  </programme>
+  <programme start="20251108200000 +0800" stop="20251108203000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Bilyonaryo Quiz B</title>
+    <desc lang="en">Bilyonaryo Quiz B</desc>
+  </programme>
+  <programme start="20251108203000 +0800" stop="20251108210000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">On Point</title>
+    <desc lang="en">On Point</desc>
+  </programme>
+  <programme start="20251108210000 +0800" stop="20251108220000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Agenda Weekend</title>
+    <desc lang="en">Agenda Weekend</desc>
+  </programme>
+  <programme start="20251108220000 +0800" stop="20251108233000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Sessions with Brian Yamsuan</title>
+    <desc lang="en">Sessions with Brian Yamsuan</desc>
+  </programme>
+  <programme start="20251108233000 +0800" stop="20251109003000 +0800" channel="bilyonaryonews.ph">
+    <title lang="en">Abogado</title>
+    <desc lang="en">Abogado</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102060000 +0800" channel="hboboxing.us">
     <title lang="en">HBO Boxing Presents</title>
@@ -7137,49 +7656,49 @@
     <title lang="en">HBO Boxing Presents</title>
     <desc lang="en">HBO Boxing Presents</desc>
   </programme>
-  <programme start="20251107220000 +0800" stop="20251107230000 +0800" channel="hboboxing.us">
+  <programme start="20251107220000 +0800" stop="20251108000000 +0800" channel="hboboxing.us">
     <title lang="en">HBO Boxing Presents</title>
     <desc lang="en">HBO Boxing Presents</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101060000 +0800" channel="unifysports.my">
-    <title lang="en">Sports Programming</title>
-    <desc lang="en">Sports Programming</desc>
+  <programme start="20251108000000 +0800" stop="20251108060000 +0800" channel="hboboxing.us">
+    <title lang="en">HBO Boxing Presents</title>
+    <desc lang="en">HBO Boxing Presents</desc>
   </programme>
-  <programme start="20251101060000 +0800" stop="20251101080000 +0800" channel="unifysports.my">
-    <title lang="en">Sports Programming</title>
-    <desc lang="en">Sports Programming</desc>
+  <programme start="20251108060000 +0800" stop="20251108080000 +0800" channel="hboboxing.us">
+    <title lang="en">HBO Boxing Presents</title>
+    <desc lang="en">HBO Boxing Presents</desc>
   </programme>
-  <programme start="20251101080000 +0800" stop="20251101100000 +0800" channel="unifysports.my">
-    <title lang="en">Sports Programming</title>
-    <desc lang="en">Sports Programming</desc>
+  <programme start="20251108080000 +0800" stop="20251108100000 +0800" channel="hboboxing.us">
+    <title lang="en">HBO Boxing Presents</title>
+    <desc lang="en">HBO Boxing Presents</desc>
   </programme>
-  <programme start="20251101100000 +0800" stop="20251101120000 +0800" channel="unifysports.my">
-    <title lang="en">Sports Programming</title>
-    <desc lang="en">Sports Programming</desc>
+  <programme start="20251108100000 +0800" stop="20251108120000 +0800" channel="hboboxing.us">
+    <title lang="en">HBO Boxing Presents</title>
+    <desc lang="en">HBO Boxing Presents</desc>
   </programme>
-  <programme start="20251101120000 +0800" stop="20251101140000 +0800" channel="unifysports.my">
-    <title lang="en">Sports Programming</title>
-    <desc lang="en">Sports Programming</desc>
+  <programme start="20251108120000 +0800" stop="20251108140000 +0800" channel="hboboxing.us">
+    <title lang="en">HBO Boxing Presents</title>
+    <desc lang="en">HBO Boxing Presents</desc>
   </programme>
-  <programme start="20251101140000 +0800" stop="20251101160000 +0800" channel="unifysports.my">
-    <title lang="en">Sports Programming</title>
-    <desc lang="en">Sports Programming</desc>
+  <programme start="20251108140000 +0800" stop="20251108160000 +0800" channel="hboboxing.us">
+    <title lang="en">HBO Boxing Presents</title>
+    <desc lang="en">HBO Boxing Presents</desc>
   </programme>
-  <programme start="20251101160000 +0800" stop="20251101180000 +0800" channel="unifysports.my">
-    <title lang="en">Sports Programming</title>
-    <desc lang="en">Sports Programming</desc>
+  <programme start="20251108160000 +0800" stop="20251108180000 +0800" channel="hboboxing.us">
+    <title lang="en">HBO Boxing Presents</title>
+    <desc lang="en">HBO Boxing Presents</desc>
   </programme>
-  <programme start="20251101180000 +0800" stop="20251101200000 +0800" channel="unifysports.my">
-    <title lang="en">Sports Programming</title>
-    <desc lang="en">Sports Programming</desc>
+  <programme start="20251108180000 +0800" stop="20251108200000 +0800" channel="hboboxing.us">
+    <title lang="en">HBO Boxing Presents</title>
+    <desc lang="en">HBO Boxing Presents</desc>
   </programme>
-  <programme start="20251101200000 +0800" stop="20251101220000 +0800" channel="unifysports.my">
-    <title lang="en">Sports Programming</title>
-    <desc lang="en">Sports Programming</desc>
+  <programme start="20251108200000 +0800" stop="20251108220000 +0800" channel="hboboxing.us">
+    <title lang="en">HBO Boxing Presents</title>
+    <desc lang="en">HBO Boxing Presents</desc>
   </programme>
-  <programme start="20251101220000 +0800" stop="20251102000000 +0800" channel="unifysports.my">
-    <title lang="en">Sports Programming</title>
-    <desc lang="en">Sports Programming</desc>
+  <programme start="20251108220000 +0800" stop="20251108230000 +0800" channel="hboboxing.us">
+    <title lang="en">HBO Boxing Presents</title>
+    <desc lang="en">HBO Boxing Presents</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102060000 +0800" channel="unifysports.my">
     <title lang="en">Sports Programming</title>
@@ -7417,81 +7936,49 @@
     <title lang="en">Sports Programming</title>
     <desc lang="en">Sports Programming</desc>
   </programme>
-  <programme start="20251107220000 +0800" stop="20251107230000 +0800" channel="unifysports.my">
+  <programme start="20251107220000 +0800" stop="20251108000000 +0800" channel="unifysports.my">
     <title lang="en">Sports Programming</title>
     <desc lang="en">Sports Programming</desc>
   </programme>
-  <programme start="20251101000000 +0800" stop="20251101010000 +0800" channel="tv5.ph">
-    <title lang="en">ORAS NG HIMALA</title>
-    <desc lang="en">ORAS NG HIMALA</desc>
+  <programme start="20251108000000 +0800" stop="20251108060000 +0800" channel="unifysports.my">
+    <title lang="en">Sports Programming</title>
+    <desc lang="en">Sports Programming</desc>
   </programme>
-  <programme start="20251101010000 +0800" stop="20251101070000 +0800" channel="tv5.ph">
-    <title lang="en">SIGN OFF</title>
-    <desc lang="en">SIGN OFF</desc>
+  <programme start="20251108060000 +0800" stop="20251108080000 +0800" channel="unifysports.my">
+    <title lang="en">Sports Programming</title>
+    <desc lang="en">Sports Programming</desc>
   </programme>
-  <programme start="20251101070000 +0800" stop="20251101073000 +0800" channel="tv5.ph">
-    <title lang="en">TROLLS THE BEAT GOES ON</title>
-    <desc lang="en">TROLLS THE BEAT GOES ON</desc>
+  <programme start="20251108080000 +0800" stop="20251108100000 +0800" channel="unifysports.my">
+    <title lang="en">Sports Programming</title>
+    <desc lang="en">Sports Programming</desc>
   </programme>
-  <programme start="20251101073000 +0800" stop="20251101083000 +0800" channel="tv5.ph">
-    <title lang="en">DRAGON RACE TO THE EDGE</title>
-    <desc lang="en">DRAGON RACE TO THE EDGE</desc>
+  <programme start="20251108100000 +0800" stop="20251108120000 +0800" channel="unifysports.my">
+    <title lang="en">Sports Programming</title>
+    <desc lang="en">Sports Programming</desc>
   </programme>
-  <programme start="20251101083000 +0800" stop="20251101093000 +0800" channel="tv5.ph">
-    <title lang="en">FAST AND FURIOUS: SPYRACERS</title>
-    <desc lang="en">FAST AND FURIOUS: SPYRACERS</desc>
+  <programme start="20251108120000 +0800" stop="20251108140000 +0800" channel="unifysports.my">
+    <title lang="en">Sports Programming</title>
+    <desc lang="en">Sports Programming</desc>
   </programme>
-  <programme start="20251101093000 +0800" stop="20251101143000 +0800" channel="tv5.ph">
-    <title lang="en">CINE CINCO WEEKEND SAYA</title>
-    <desc lang="en">CINE CINCO WEEKEND SAYA</desc>
+  <programme start="20251108140000 +0800" stop="20251108160000 +0800" channel="unifysports.my">
+    <title lang="en">Sports Programming</title>
+    <desc lang="en">Sports Programming</desc>
   </programme>
-  <programme start="20251101143000 +0800" stop="20251101150000 +0800" channel="tv5.ph">
-    <title lang="en">FRONTLINE EXPRESS (LIVE)</title>
-    <desc lang="en">FRONTLINE EXPRESS (LIVE)</desc>
+  <programme start="20251108160000 +0800" stop="20251108180000 +0800" channel="unifysports.my">
+    <title lang="en">Sports Programming</title>
+    <desc lang="en">Sports Programming</desc>
   </programme>
-  <programme start="20251101150000 +0800" stop="20251101164500 +0800" channel="tv5.ph">
-    <title lang="en">CINE CINCO HIT NA HIT</title>
-    <desc lang="en">CINE CINCO HIT NA HIT</desc>
+  <programme start="20251108180000 +0800" stop="20251108200000 +0800" channel="unifysports.my">
+    <title lang="en">Sports Programming</title>
+    <desc lang="en">Sports Programming</desc>
   </programme>
-  <programme start="20251101164500 +0800" stop="20251101171500 +0800" channel="tv5.ph">
-    <title lang="en">VIBE UP!</title>
-    <desc lang="en">VIBE UP!</desc>
+  <programme start="20251108200000 +0800" stop="20251108220000 +0800" channel="unifysports.my">
+    <title lang="en">Sports Programming</title>
+    <desc lang="en">Sports Programming</desc>
   </programme>
-  <programme start="20251101171500 +0800" stop="20251101180000 +0800" channel="tv5.ph">
-    <title lang="en">BAD GENIUS</title>
-    <desc lang="en">BAD GENIUS</desc>
-  </programme>
-  <programme start="20251101180000 +0800" stop="20251101183000 +0800" channel="tv5.ph">
-    <title lang="en">PARA SA ISA'T ISA</title>
-    <desc lang="en">PARA SA ISA'T ISA</desc>
-  </programme>
-  <programme start="20251101183000 +0800" stop="20251101190000 +0800" channel="tv5.ph">
-    <title lang="en">FRONTLINE WEEKEND (LIVE)</title>
-    <desc lang="en">FRONTLINE WEEKEND (LIVE)</desc>
-  </programme>
-  <programme start="20251101190000 +0800" stop="20251101201500 +0800" channel="tv5.ph">
-    <title lang="en">SING-GALING SING-LEBRITY</title>
-    <desc lang="en">SING-GALING SING-LEBRITY</desc>
-  </programme>
-  <programme start="20251101201500 +0800" stop="20251101211500 +0800" channel="tv5.ph">
-    <title lang="en">YOUR FACE SOUNDS FAMILIAR</title>
-    <desc lang="en">YOUR FACE SOUNDS FAMILIAR</desc>
-  </programme>
-  <programme start="20251101211500 +0800" stop="20251101214500 +0800" channel="tv5.ph">
-    <title lang="en">LOVE ON THE CLOCK</title>
-    <desc lang="en">LOVE ON THE CLOCK</desc>
-  </programme>
-  <programme start="20251101214500 +0800" stop="20251101224500 +0800" channel="tv5.ph">
-    <title lang="en">AMERICAN IDOL</title>
-    <desc lang="en">AMERICAN IDOL</desc>
-  </programme>
-  <programme start="20251101224500 +0800" stop="20251101232500 +0800" channel="tv5.ph">
-    <title lang="en">FORENSICS WITH GUS</title>
-    <desc lang="en">FORENSICS WITH GUS</desc>
-  </programme>
-  <programme start="20251101232500 +0800" stop="20251102000000 +0800" channel="tv5.ph">
-    <title lang="en">E.A.T BULAGA (LIVE)</title>
-    <desc lang="en">E.A.T BULAGA (LIVE)</desc>
+  <programme start="20251108220000 +0800" stop="20251108230000 +0800" channel="unifysports.my">
+    <title lang="en">Sports Programming</title>
+    <desc lang="en">Sports Programming</desc>
   </programme>
   <programme start="20251102000000 +0800" stop="20251102003000 +0800" channel="tv5.ph">
     <title lang="en">PINOY EXPLORER</title>
@@ -8017,8 +8504,80 @@
     <title lang="en">FRONTLINE TONIGHT (LIVE)</title>
     <desc lang="en">FRONTLINE TONIGHT (LIVE)</desc>
   </programme>
-  <programme start="20251107233000 +0800" stop="20251108003000 +0800" channel="tv5.ph">
+  <programme start="20251107233000 +0800" stop="20251108000000 +0800" channel="tv5.ph">
     <title lang="en">VIBE NIGHTS</title>
     <desc lang="en">VIBE NIGHTS</desc>
+  </programme>
+  <programme start="20251108000000 +0800" stop="20251108010000 +0800" channel="tv5.ph">
+    <title lang="en">ORAS NG HIMALA</title>
+    <desc lang="en">ORAS NG HIMALA</desc>
+  </programme>
+  <programme start="20251108010000 +0800" stop="20251108070000 +0800" channel="tv5.ph">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">SIGN OFF</desc>
+  </programme>
+  <programme start="20251108070000 +0800" stop="20251108073000 +0800" channel="tv5.ph">
+    <title lang="en">TROLLS THE BEAT GOES ON</title>
+    <desc lang="en">TROLLS THE BEAT GOES ON</desc>
+  </programme>
+  <programme start="20251108073000 +0800" stop="20251108083000 +0800" channel="tv5.ph">
+    <title lang="en">DRAGON RACE TO THE EDGE</title>
+    <desc lang="en">DRAGON RACE TO THE EDGE</desc>
+  </programme>
+  <programme start="20251108083000 +0800" stop="20251108093000 +0800" channel="tv5.ph">
+    <title lang="en">FAST AND FURIOUS: SPYRACERS</title>
+    <desc lang="en">FAST AND FURIOUS: SPYRACERS</desc>
+  </programme>
+  <programme start="20251108093000 +0800" stop="20251108143000 +0800" channel="tv5.ph">
+    <title lang="en">CINE CINCO WEEKEND SAYA</title>
+    <desc lang="en">CINE CINCO WEEKEND SAYA</desc>
+  </programme>
+  <programme start="20251108143000 +0800" stop="20251108150000 +0800" channel="tv5.ph">
+    <title lang="en">FRONTLINE EXPRESS (LIVE)</title>
+    <desc lang="en">FRONTLINE EXPRESS (LIVE)</desc>
+  </programme>
+  <programme start="20251108150000 +0800" stop="20251108164500 +0800" channel="tv5.ph">
+    <title lang="en">CINE CINCO HIT NA HIT</title>
+    <desc lang="en">CINE CINCO HIT NA HIT</desc>
+  </programme>
+  <programme start="20251108164500 +0800" stop="20251108171500 +0800" channel="tv5.ph">
+    <title lang="en">VIBE UP!</title>
+    <desc lang="en">VIBE UP!</desc>
+  </programme>
+  <programme start="20251108171500 +0800" stop="20251108180000 +0800" channel="tv5.ph">
+    <title lang="en">BAD GENIUS</title>
+    <desc lang="en">BAD GENIUS</desc>
+  </programme>
+  <programme start="20251108180000 +0800" stop="20251108183000 +0800" channel="tv5.ph">
+    <title lang="en">PARA SA ISA'T ISA</title>
+    <desc lang="en">PARA SA ISA'T ISA</desc>
+  </programme>
+  <programme start="20251108183000 +0800" stop="20251108190000 +0800" channel="tv5.ph">
+    <title lang="en">FRONTLINE WEEKEND (LIVE)</title>
+    <desc lang="en">FRONTLINE WEEKEND (LIVE)</desc>
+  </programme>
+  <programme start="20251108190000 +0800" stop="20251108201500 +0800" channel="tv5.ph">
+    <title lang="en">SING-GALING SING-LEBRITY</title>
+    <desc lang="en">SING-GALING SING-LEBRITY</desc>
+  </programme>
+  <programme start="20251108201500 +0800" stop="20251108211500 +0800" channel="tv5.ph">
+    <title lang="en">YOUR FACE SOUNDS FAMILIAR</title>
+    <desc lang="en">YOUR FACE SOUNDS FAMILIAR</desc>
+  </programme>
+  <programme start="20251108211500 +0800" stop="20251108214500 +0800" channel="tv5.ph">
+    <title lang="en">LOVE ON THE CLOCK</title>
+    <desc lang="en">LOVE ON THE CLOCK</desc>
+  </programme>
+  <programme start="20251108214500 +0800" stop="20251108224500 +0800" channel="tv5.ph">
+    <title lang="en">AMERICAN IDOL</title>
+    <desc lang="en">AMERICAN IDOL</desc>
+  </programme>
+  <programme start="20251108224500 +0800" stop="20251108232500 +0800" channel="tv5.ph">
+    <title lang="en">FORENSICS WITH GUS</title>
+    <desc lang="en">FORENSICS WITH GUS</desc>
+  </programme>
+  <programme start="20251108232500 +0800" stop="20251109002500 +0800" channel="tv5.ph">
+    <title lang="en">E.A.T BULAGA (LIVE)</title>
+    <desc lang="en">E.A.T BULAGA (LIVE)</desc>
   </programme>
 </tv>
