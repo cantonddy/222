@@ -9,7 +9,7 @@ MONDAY
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
 3:20 PM - Cruz vs. Cruz
-4:05 PM - Akusada
+4:05 PM - Unica Hija
 4:45 PM - Fast Talk with Boy Abunda
 5:10 PM - You Are My Makeup Artist
 5:40 PM - Family Feud
@@ -19,7 +19,7 @@ MONDAY
 9:40 PM - Pinoy Big Brother Celebrity Collab Edition
 10:20 PM - Saksi
 11:00 PM - When I Marry A Stranger
-11:30 PM - Wicked-in-Law
+11:30 PM - To the Moon and Back
 
 TUESDAY
 12:00 AM - The 700 Club Asia
@@ -33,7 +33,7 @@ TUESDAY
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
 3:20 PM - Cruz vs. Cruz
-4:05 PM - Akusada
+4:05 PM - Unica Hija
 4:45 PM - Fast Talk with Boy Abunda
 5:10 PM - You Are My Makeup Artist
 5:40 PM - Family Feud
@@ -43,7 +43,7 @@ TUESDAY
 9:40 PM - Pinoy Big Brother Celebrity Collab Edition
 10:20 PM - Saksi
 11:00 PM - When I Marry A Stranger
-11:30 PM - Wicked-in-Law
+11:30 PM - To the Moon and Back
 
 WEDNESDAY
 12:00 AM - The 700 Club Asia
@@ -57,7 +57,7 @@ WEDNESDAY
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
 3:20 PM - Cruz vs. Cruz
-4:05 PM - Akusada
+4:05 PM - Unica Hija
 4:45 PM - Fast Talk with Boy Abunda
 5:10 PM - You Are My Makeup Artist
 5:40 PM - Family Feud
@@ -67,7 +67,7 @@ WEDNESDAY
 9:40 PM - Pinoy Big Brother Celebrity Collab Edition
 10:20 PM - Saksi
 11:00 PM - When I Marry A Stranger
-11:30 PM - Wicked-in-Law
+11:30 PM - To the Moon and Back
 
 THURSDAY
 12:00 AM - The 700 Club Asia
@@ -81,7 +81,7 @@ THURSDAY
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
 3:20 PM - Cruz vs. Cruz
-4:05 PM - Akusada
+4:05 PM - Unica Hija
 4:45 PM - Fast Talk with Boy Abunda
 5:10 PM - You Are My Makeup Artist
 5:40 PM - Family Feud
@@ -91,7 +91,7 @@ THURSDAY
 9:40 PM - Pinoy Big Brother Celebrity Collab Edition
 10:20 PM - Saksi
 11:00 PM - When I Marry A Stranger
-11:30 PM - Wicked-in-Law
+11:30 PM - To the Moon and Back
 
 FRIDAY
 12:00 AM - The 700 Club Asia
@@ -105,7 +105,7 @@ FRIDAY
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
 3:20 PM - Cruz vs. Cruz
-4:05 PM - Akusada
+4:05 PM - Unica Hija
 4:45 PM - Fast Talk with Boy Abunda
 5:10 PM - You Are My Makeup Artist
 5:40 PM - Family Feud
@@ -115,7 +115,7 @@ FRIDAY
 9:40 PM - Pinoy Big Brother Celebrity Collab Edition
 10:20 PM - Saksi
 11:00 PM - When I Marry A Stranger
-11:30 PM - Wicked-in-Law
+11:30 PM - To the Moon and Back
 
 SATURDAY
 12:00 AM - The 700 Club Asia
@@ -145,7 +145,7 @@ SATURDAY
 9:30 PM - Daig Kayo Ng Lola Ko
 10:15 PM - I-Witness
 11:00 PM - Reporter's Notebook
-11:30 PM - Desirable Flowers
+11:30 PM - To the Moon and Back
 
 SUNDAY
 12:00 AM - Sign Off
