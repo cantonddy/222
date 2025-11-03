@@ -6,7 +6,7 @@ MONDAY
 8:00 AM - The Flying House
 8:30 AM - Superbook Season 5
 9:00 AM - Magandang Buhay
-10:00 AM - Zinema sa Umaga
+10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
 2:30 PM - Linlang
 3:15 PM - Pamilya Sagrado
@@ -30,7 +30,7 @@ TUESDAY
 8:00 AM - The Flying House
 8:30 AM - Superbook Season 5
 9:00 AM - Magandang Buhay
-10:00 AM - Zinema sa Umaga
+10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
 2:30 PM - Linlang
 3:15 PM - Pamilya Sagrado
@@ -54,7 +54,7 @@ WEDNESDAY
 8:00 AM - The Flying House
 8:30 AM - Superbook Season 5
 9:00 AM - Magandang Buhay
-10:00 AM - Zinema sa Umaga
+10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
 2:30 PM - Linlang
 3:15 PM - Pamilya Sagrado
@@ -78,7 +78,7 @@ THURSDAY
 8:00 AM - The Flying House
 8:30 AM - Superbook Season 5
 9:00 AM - Magandang Buhay
-10:00 AM - Zinema sa Umaga
+10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
 2:30 PM - Linlang
 3:15 PM - Pamilya Sagrado
@@ -102,7 +102,7 @@ FRIDAY
 8:00 AM - The Flying House
 8:30 AM - Superbook Season 5
 9:00 AM - Magandang Buhay
-10:00 AM - Zinema sa Umaga
+10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
 2:30 PM - Linlang
 3:15 PM - Pamilya Sagrado
