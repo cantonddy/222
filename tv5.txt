@@ -7,18 +7,18 @@ MONDAY
 8:00 AM - Little Princess Sarah
 8:30 AM - Dog of Flanders
 9:00 AM - CINE CINCO sa Umaga
-10:30 AM - FRONTLINE Express
+10:30 AM - FRONTLINE Express (LIVE)
 11:00 AM - FACE To FACE Harapan
 12:00 PM - E.A.T Bulaga (LIVE)
-2:30 PM - Tulong Mga Kapatid (LIVE)
+2:30 PM - FRONTLINE Express (LIVE)
 3:15 PM - CINE CINCO sa Hapon
 4:45 PM - VIBE Up
 5:30 PM - Una Sa Lahat (LIVE)
 6:00 PM - FRONTLINE Pilipinas (LIVE)
 7:00 PM - Totoy Bato
 8:00 PM - Batang Quiapo
-8:45 PM - What Lies Beneath
-9:30 PM - Sins Of The Father
+8:45 PM - Roja
+9:30 PM - What Lies Beneath
 10:15 PM - Go Ahead
 10:45 PM - FRONTLINE Tonight (LIVE)
 11:30 PM - VIBE Nights
@@ -41,8 +41,8 @@ TUESDAY
 6:00 PM - FRONTLINE Pilipinas (LIVE)
 7:00 PM - Totoy Bato
 8:00 PM - Batang Quiapo
-8:45 PM - What Lies Beneath
-9:30 PM - Sins Of The Father
+8:45 PM - Roja
+9:30 PM - What Lies Beneath
 10:15 PM - Go Ahead
 10:45 PM - FRONTLINE Tonight (LIVE)
 11:30 PM - VIBE Nights
@@ -65,8 +65,8 @@ WEDNESDAY
 6:00 PM - FRONTLINE Pilipinas (LIVE)
 7:00 PM - Totoy Bato
 8:00 PM - Batang Quiapo
-8:45 PM - What Lies Beneath
-9:30 PM - Sins Of The Father
+8:45 PM - Roja
+9:30 PM - What Lies Beneath
 10:15 PM - Go Ahead
 10:45 PM - FRONTLINE Tonight (LIVE)
 11:30 PM - VIBE Nights
@@ -89,8 +89,8 @@ THURSDAY
 6:00 PM - FRONTLINE Pilipinas (LIVE)
 7:00 PM - Totoy Bato
 8:00 PM - Batang Quiapo
-8:45 PM - What Lies Beneath
-9:30 PM - Sins Of The Father
+8:45 PM - Roja
+9:30 PM - What Lies Beneath
 10:15 PM - Go Ahead
 10:45 PM - FRONTLINE Tonight (LIVE)
 11:30 PM - VIBE Nights
@@ -113,8 +113,8 @@ FRIDAY
 6:00 PM - FRONTLINE Pilipinas (LIVE)
 7:00 PM - Totoy Bato
 8:00 PM - Batang Quiapo
-8:45 PM - What Lies Beneath
-9:30 PM - Sins Of The Father
+8:45 PM - Roja
+9:30 PM - What Lies Beneath
 10:15 PM - Go Ahead
 10:45 PM - FRONTLINE Tonight (LIVE)
 11:30 PM - VIBE Nights
@@ -151,7 +151,7 @@ SUNDAY
 9:00 AM - Fast and Furious: Spyracers
 10:00 AM - CINE CINCO Weekend Saya
 12:00 PM - ASAP Natin To! (LIVE)
-2:15 PM - TOP 5 Mga Kwentong Marc Logan
+2:15 PM - Presinto 5
 2:45 PM - JULIUS BABAO Unplugged
 3:15 PM - CINE CINCO Astig Sunday
 5:00 PM - FRONTLINE Weekend (LIVE)
@@ -162,6 +162,7 @@ SUNDAY
 9:30 PM - Rated KORINA
 10:45 PM - The Men's Room
 11:30 PM - CCF Worship
+
 
 
 
