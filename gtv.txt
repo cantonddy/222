@@ -5,7 +5,7 @@ MONDAY
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
 2:30 PM - Princess Hours
-3:00 PM - Bad Romeo
+3:00 PM - The Skywatcher
 3:30 PM - Afternoon Movie Break
 5:45 PM - Hearts On Ice
 6:30 PM - 24 Oras (Live)
@@ -40,7 +40,8 @@ WEDNESDAY
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
 2:30 PM - NCAA Season 101 Building Greatness (Live)
-5:00 PM - Bad Romeo
+3:30 PM - Afternoon Movie Break
+5:00 PM - The Skywatcher
 5:45 PM - Hearts On Ice
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
@@ -57,7 +58,7 @@ THURSDAY
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
 2:30 PM - Princess Hours
-3:00 PM - Bad Romeo
+3:00 PM - The Skywatcher
 3:30 PM - Afternoon Movie Break
 5:45 PM - Hearts On Ice
 6:30 PM - 24 Oras (Live)
@@ -75,7 +76,7 @@ FRIDAY
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
 2:30 PM - Princess Hours
-3:00 PM - Bad Romeo
+3:00 PM - The Skywatcher
 3:30 PM - Afternoon Movie Break
 5:45 PM - Hearts On Ice
 6:30 PM - 24 Oras (Live)
@@ -125,3 +126,4 @@ SUNDAY
 8:30 PM - Happy ToGetHer
 9:15 PM - Kapuso Mo, Jessica Soho
 11:05 PM - Dear Uge
+
