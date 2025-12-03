@@ -8,15 +8,15 @@ MONDAY
 9:00 AM - Magandang Buhay
 10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
-2:30 PM - Linlang
+2:30 PM - Lavender Fields
 3:15 PM - Pamilya Sagrado
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
 5:45 PM - Kapamilya Deal or No Deal
 6:30 PM - TV Patrol (Live)
 8:00 PM - FPJ's Batang Quiapo
-8:45 PM - What Lies Beneath
-9:30 PM - Sins of The Father
+8:45 PM - Roja
+9:30 PM - What Lies Beneath
 10:15 PM - Go Ahead
 10:45 PM - The World Tonight
 11:15 PM - Movie Central Presents
@@ -32,15 +32,15 @@ TUESDAY
 9:00 AM - Magandang Buhay
 10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
-2:30 PM - Linlang
+2:30 PM - Lavender Fields
 3:15 PM - Pamilya Sagrado
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
 5:45 PM - Kapamilya Deal or No Deal
 6:30 PM - TV Patrol (Live)
 8:00 PM - FPJ's Batang Quiapo
-8:45 PM - What Lies Beneath
-9:30 PM - Sins of The Father
+8:45 PM - Roja
+9:30 PM - What Lies Beneath
 10:15 PM - Go Ahead
 10:45 PM - The World Tonight
 11:15 PM - Movie Central Presents
@@ -56,15 +56,15 @@ WEDNESDAY
 9:00 AM - Magandang Buhay
 10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
-2:30 PM - Linlang
+2:30 PM - Lavender Fields
 3:15 PM - Pamilya Sagrado
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
 5:45 PM - Kapamilya Deal or No Deal
 6:30 PM - TV Patrol (Live)
 8:00 PM - FPJ's Batang Quiapo
-8:45 PM - What Lies Beneath
-9:30 PM - Sins of The Father
+8:45 PM - Roja
+9:30 PM - What Lies Beneath
 10:15 PM - Go Ahead
 10:45 PM - The World Tonight
 11:15 PM - Movie Central Presents
@@ -80,15 +80,15 @@ THURSDAY
 9:00 AM - Magandang Buhay
 10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
-2:30 PM - Linlang
+2:30 PM - Lavender Fields
 3:15 PM - Pamilya Sagrado
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
 5:45 PM - Kapamilya Deal or No Deal
 6:30 PM - TV Patrol (Live)
 8:00 PM - FPJ's Batang Quiapo
-8:45 PM - What Lies Beneath
-9:30 PM - Sins of The Father
+8:45 PM - Roja
+9:30 PM - What Lies Beneath
 10:15 PM - Go Ahead
 10:45 PM - The World Tonight
 11:15 PM - Movie Central Presents
@@ -104,15 +104,15 @@ FRIDAY
 9:00 AM - Magandang Buhay
 10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
-2:30 PM - Linlang
+2:30 PM - Lavender Fields
 3:15 PM - Pamilya Sagrado
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
 5:45 PM - Kapamilya Deal or No Deal
 6:30 PM - TV Patrol (Live)
 8:00 PM - FPJ's Batang Quiapo
-8:45 PM - What Lies Beneath
-9:30 PM - Sins of The Father
+8:45 PM - Roja
+9:30 PM - What Lies Beneath
 10:15 PM - Go Ahead
 10:45 PM - The World Tonight
 11:15 PM - Movie Central Presents
@@ -127,7 +127,7 @@ SATURDAY
 7:30 AM - Wansapanataym
 8:30 AM - KB Family Weekend
 12:00 PM - It's Showtime
-2:30 PM - Linlang
+2:30 PM - Lavender Fields
 3:15 PM - Kapamilya Action Sabado
 5:15 PM - TV Patrol Weekend (Live)
 6:15 PM - Rainbow Rumble
@@ -156,3 +156,4 @@ SUNDAY
 8:15 PM - Rated Korina
 9:15 PM - Mega Blockbusters
 10:45 PM - Sunday's Best
+
