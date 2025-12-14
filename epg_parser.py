@@ -35,6 +35,7 @@ CHANNEL_MAP = {
     'ibc.txt': 'ibc.ph',
     'oneph.txt': 'oneph.ph',
     'onenews.txt': 'onenews.ph',
+    'alltv.txt': 'alltv.ph',
 }
 
 # Standard mapping of day names to datetime weekday indices (Monday is 0, Sunday is 6)
