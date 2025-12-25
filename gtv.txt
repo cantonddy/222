@@ -4,17 +4,16 @@ MONDAY
 9:00 AM - Cinema G!
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
-2:30 PM - Princess Hours
+2:30 PM - One The Woman
 3:00 PM - The Skywatcher
 3:30 PM - Afternoon Movie Break
-5:45 PM - Hearts On Ice
+5:45 PM - Heartful Cafe
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
 9:45 PM - Encantadia Chronicles Sang'gre
 10:30 PM - Sanggang Dikit FR
 11:00 PM - State of The Nation (Live)
-11:25 PM - True Horror Stories 20th Anniversary Special
-
+11:25 PM - True Horror Stories 
 
 TUESDAY
 12:00 AM - Sign Off
@@ -22,15 +21,16 @@ TUESDAY
 9:00 AM - Cinema G!
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
-2:30 PM - NCAA Season 101 Building Greatness (Live)
-5:00 PM - Bad Romeo
-5:45 PM - Hearts On Ice
+2:30 PM - One The Woman
+3:00 PM - The Skywatcher
+3:30 PM - Afternoon Movie Break
+5:45 PM - Heartful Cafe
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
 9:45 PM - Encantadia Chronicles Sang'gre
 10:30 PM - Sanggang Dikit FR
 11:00 PM - State of The Nation (Live)
-11:25 PM - True Horror Stories 20th Anniversary Special
+11:25 PM - True Horror Stories
 
 
 WEDNESDAY
@@ -39,16 +39,16 @@ WEDNESDAY
 9:00 AM - Cinema G!
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
-2:30 PM - NCAA Season 101 Building Greatness (Live)
+2:30 PM - One The Woman
+3:00 PM - The Skywatcher
 3:30 PM - Afternoon Movie Break
-5:00 PM - The Skywatcher
-5:45 PM - Hearts On Ice
+5:45 PM - Heartful Cafe
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
 9:45 PM - Encantadia Chronicles Sang'gre
 10:30 PM - Sanggang Dikit FR
 11:00 PM - State of The Nation (Live)
-11:25 PM - True Horror Stories 20th Anniversary Special
+11:25 PM - True Horror Stories
 
 
 THURSDAY
@@ -57,16 +57,16 @@ THURSDAY
 9:00 AM - Cinema G!
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
-2:30 PM - Princess Hours
+2:30 PM - One The Woman
 3:00 PM - The Skywatcher
 3:30 PM - Afternoon Movie Break
-5:45 PM - Hearts On Ice
+5:45 PM - Heartful Cafe
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
 9:45 PM - Encantadia Chronicles Sang'gre
 10:30 PM - Sanggang Dikit FR
 11:00 PM - State of The Nation (Live)
-11:25 PM - True Horror Stories 20th Anniversary Special
+11:25 PM - True Horror Stories
 
 
 FRIDAY
@@ -75,28 +75,28 @@ FRIDAY
 9:00 AM - Cinema G!
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
-2:30 PM - Princess Hours
+2:30 PM - One The Woman
 3:00 PM - The Skywatcher
 3:30 PM - Afternoon Movie Break
-5:45 PM - Hearts On Ice
+5:45 PM - Heartful Cafe
 6:30 PM - 24 Oras (Live)
-8:00 PM - Int'l Series PH X Bingo Plus
-10:00 PM - Encantadia Chronicles Sang'gre
+8:05 PM - FPJ sa G! Flicks
+9:45 PM - Encantadia Chronicles Sang'gre
 10:30 PM - Sanggang Dikit FR
 11:00 PM - State of The Nation (Live)
-11:25 PM - True Horror Stories 20th Anniversary Special
+11:25 PM - True Horror Stories
 
 
 SATURDAY
 12:00 AM - Sign Off
 5:30 AM - Dobol B TV (Live)
-9:00 AM - Siyensikat Pinoy Popular Science Para sa Lahat
+9:00 AM - Yashahime
 9:30 AM - Healing Galing (Live)
 10:30 AM - Business Matters
 11:00 AM - Saturday Cinema Hits
 12:00 PM - Noontime Movie Hits
-2:30 PM - NCAA Season 101 Building Greatness (Live)
-5:00 PM - Bad Romeo
+2:30 PM - Afternoon Movie Break
+4:00 PM - Afternoon Movie Break
 5:30 PM - 24 Oras Weekend (Live)
 6:15 PM - G! Flicks
 8:15 PM - Pinas Sarap
@@ -114,11 +114,12 @@ SUNDAY
 7:30 AM - TrollsTopia
 8:30 AM - Kung Fu Panda Paws of Destiny
 9:30 AM - Word of God Network
-10:30 AM - Jujutsu Kaisen
+10:30 AM - Yashahime
 11:00 AM - Kamen Rider Zero One
-11:30 AM - Superhero Academy
-12:00 PM - NCAA Season 101 Building Greatness (Live)
-5:00 PM - Bad Romeo
+11:30 AM - The Bureau of Magical Things
+12:00 PM - Sine Date Weekends
+2:00 PM - Afternoon Movie Break
+3:45 PM - Afternoon Movie Break
 5:30 PM - 24 Oras Weekend (Live)
 6:10 PM - Biyahe ni Drew
 7:00 PM - Farm To Table
@@ -126,4 +127,5 @@ SUNDAY
 8:30 PM - Happy ToGetHer
 9:15 PM - Kapuso Mo, Jessica Soho
 11:05 PM - Dear Uge
+
 
