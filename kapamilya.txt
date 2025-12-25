@@ -9,7 +9,7 @@ MONDAY
 10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
 2:30 PM - Lavender Fields
-3:15 PM - Pamilya Sagrado
+3:15 PM - Senior High
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
 5:45 PM - Kapamilya Deal or No Deal
@@ -33,7 +33,7 @@ TUESDAY
 10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
 2:30 PM - Lavender Fields
-3:15 PM - Pamilya Sagrado
+3:15 PM - Senior High
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
 5:45 PM - Kapamilya Deal or No Deal
@@ -57,7 +57,7 @@ WEDNESDAY
 10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
 2:30 PM - Lavender Fields
-3:15 PM - Pamilya Sagrado
+3:15 PM - Senior High
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
 5:45 PM - Kapamilya Deal or No Deal
@@ -81,7 +81,7 @@ THURSDAY
 10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
 2:30 PM - Lavender Fields
-3:15 PM - Pamilya Sagrado
+3:15 PM - Senior High
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
 5:45 PM - Kapamilya Deal or No Deal
@@ -105,7 +105,7 @@ FRIDAY
 10:00 AM - Kapamilya Blockbusters
 12:00 PM - It's Showtime
 2:30 PM - Lavender Fields
-3:15 PM - Pamilya Sagrado
+3:15 PM - Senior High
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
 5:45 PM - Kapamilya Deal or No Deal
@@ -156,4 +156,5 @@ SUNDAY
 8:15 PM - Rated Korina
 9:15 PM - Mega Blockbusters
 10:45 PM - Sunday's Best
+
 
