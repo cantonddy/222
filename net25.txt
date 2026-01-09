@@ -5,19 +5,19 @@ MONDAY
 8:00 AM - Ano Sa Palagay Nyo ASPN
 10:00 AM - Kada Umaga
 12:00 PM - Mata ng Agila sa Tanghali
-12:30 PM - Best Choice Ever
-1:00 PM - Go Go Squid
-1:30 PM - Rising With The Wind
-2:00 PM - As Beautiful As You
+12:30 PM - A Date with the Future
+1:00 PM - Love in her Bag
+1:30 PM - As Beautiful as You
+2:00 PM - Syndrome
 2:30 PM - Kimchi Family
 3:00 PM - Oh No It's B.O
 4:00 PM - Net25 Starkada
 4:30 PM - Sa Ganang Mamamayan
 6:00 PM - Mata Ng Agila Primetime
-7:30 PM - Love in her Bag
+7:30 PM - Meet Yourself
 8:00 PM - Happy Ending
-8:30 PM - Kimchi Family
-9:00 PM - Syndrome
+8:30 PM - Love Me Love My Voice
+9:00 PM - Here We Meet Again
 9:30 PM - Mata Ng Agila International
 11:00 PM - Open For Business
 
@@ -29,19 +29,19 @@ TUESDAY
 8:00 AM - Ano Sa Palagay Nyo ASPN
 10:00 AM - Kada Umaga
 12:00 PM - Mata ng Agila sa Tanghali
-12:30 PM - Best Choice Ever
-1:00 PM - Go Go Squid
-1:30 PM - Rising With The Wind
-2:00 PM - As Beautiful As You
+12:30 PM - A Date with the Future
+1:00 PM - Love in her Bag
+1:30 PM - As Beautiful as You
+2:00 PM - Syndrome
 2:30 PM - Kimchi Family
 3:00 PM - Responde Mata ng Mamamayan
 4:00 PM - Net25 Starkada
 4:30 PM - Sa Ganang Mamamayan
 6:00 PM - Mata Ng Agila Primetime
-7:30 PM - Love in her Bag
+7:30 PM - Meet Yourself
 8:00 PM - Happy Ending
-8:30 PM - Kimchi Family
-9:00 PM - Syndrome
+8:30 PM - Love Me Love My Voice
+9:00 PM - Here We Meet Again
 9:30 PM - Mata Ng Agila International
 
 
@@ -52,19 +52,19 @@ WEDNESDAY
 8:00 AM - Ano Sa Palagay Nyo ASPN
 10:00 AM - Kada Umaga
 12:00 PM - Mata ng Agila sa Tanghali
-12:30 PM - Best Choice Ever
-1:00 PM - Go Go Squid
-1:30 PM - Rising With The Wind
-2:00 PM - As Beautiful As You
+12:30 PM - A Date with the Future
+1:00 PM - Love in her Bag
+1:30 PM - As Beautiful as You
+2:00 PM - Syndrome
 2:30 PM - Kimchi Family
 3:00 PM - Anong Meron kay ABOK
 4:00 PM - Net25 Starkada
 4:30 PM - Sa Ganang Mamamayan
 6:00 PM - Mata Ng Agila Primetime
-7:30 PM - Love in her Bag
+7:30 PM - Meet Yourself
 8:00 PM - Happy Ending
-8:30 PM - Kimchi Family
-9:00 PM - Syndrome
+8:30 PM - Love Me Love My Voice
+9:00 PM - Here We Meet Again
 9:30 PM - Mata Ng Agila International
 11:00 PM - Open For Business
 
@@ -76,19 +76,19 @@ THURSDAY
 8:00 AM - Ano Sa Palagay Nyo ASPN
 10:00 AM - Kada Umaga
 12:00 PM - Mata ng Agila sa Tanghali
-12:30 PM - Best Choice Ever
-1:00 PM - Go Go Squid
-1:30 PM - Rising With The Wind
-2:00 PM - As Beautiful As You
+12:30 PM - A Date with the Future
+1:00 PM - Love in her Bag
+1:30 PM - As Beautiful as You
+2:00 PM - Syndrome
 2:30 PM - Kimchi Family
 3:00 PM - Quizon CT
 4:00 PM - Net25 Starkada
 4:30 PM - Sa Ganang Mamamayan
 6:00 PM - Mata Ng Agila Primetime
-7:30 PM - Love in her Bag
+7:30 PM - Meet Yourself
 8:00 PM - Happy Ending
-8:30 PM - Kimchi Family
-9:00 PM - Syndrome
+8:30 PM - Love Me Love My Voice
+9:00 PM - Here We Meet Again
 9:30 PM - Mata Ng Agila International
 
 
@@ -99,19 +99,19 @@ FRIDAY
 8:00 AM - Ano Sa Palagay Nyo ASPN
 10:00 AM - Kada Umaga
 12:00 PM - Mata ng Agila sa Tanghali
-12:30 PM - Best Choice Ever
-1:00 PM - Go Go Squid
-1:30 PM - Rising With The Wind
-2:00 PM - As Beautiful As You
+12:30 PM - A Date with the Future
+1:00 PM - Love in her Bag
+1:30 PM - As Beautiful as You
+2:00 PM - Syndrome
 2:30 PM - Kimchi Family
 3:00 PM - Korina Interviews
 4:00 PM - Net25 Starkada
 4:30 PM - Sa Ganang Mamamayan
 6:00 PM - Mata Ng Agila Primetime
-7:30 PM - Love in her Bag
+7:30 PM - Meet Yourself
 8:00 PM - Happy Ending
-8:30 PM - Kimchi Family
-9:00 PM - Syndrome
+8:30 PM - Love Me Love My Voice
+9:00 PM - Here We Meet Again
 9:30 PM - Mata Ng Agila International
 11:00 PM - Open For Business
 
@@ -147,4 +147,5 @@ SUNDAY
 5:00 PM - Good Will
 6:00 PM - Korina Interviews
 7:00 PM - Tara Game Agad Agad Level Up
+8:00 PM - 3-iN-1
 9:00 PM - Open For Business
