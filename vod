@@ -2,48 +2,6 @@
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=77a4d7918c6b16f8e6249678eed58210:196b3a79eb360720630ea02c27a0ae32
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAOGY_IVP_LAND_171x96_50139_2024321_171856.jpg" group-title="Tagalog" group-logo="https://pictr.com/images/2025/02/21/xLAzcO.png" tvg-id="NULL", Exes Baggage
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/236cbfdb-2161-5138-afd5-a5758c20d11c/default_dash.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=ce11cb301e1af3828c97185efe7f5b10:f1207e8e631cdb6d5692ff223f9ec407
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/819OGOdL4gL._AC_UF894,1000_QL80_.jpg" group-title="Tagalog" group-logo="https://pictr.com/images/2025/02/21/xLAzcO.png" tvg-id="NULL", Norte, The End of History
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/347245da-6d90-5ceb-961d-7e4b0a02dab0/default_dash.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=7e2ab5795f4b5ab2877820f44a55d310:713ed3340a4fb49e8f2a92e431095f02
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IXZUG_IVP_LAND_288x162_363FD_2024313_17032.jpg" group-title="Tagalog" group-logo="https://pictr.com/images/2025/02/21/xLAzcO.png" tvg-id="NULL", Season Of The Devil
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6af41dd9-9fc5-5ec1-8328-aa5437cae94f/default_dash.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=3328de58c37e570090ca3cff9c0c1610:a3a51fb27a1db815e806fef1d174adef
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAOHG_IVP_LAND_171x96_668F5_2024313_182626.jpg" group-title="Tagalog" group-logo="https://pictr.com/images/2025/02/21/xLAzcO.png" tvg-id="NULL", The Hows Of Us
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a3dad5cf-0187-5e96-92b2-0b188062beb4/default_dash.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=4edc74b06c3690cfc9a8d15ac44ce910:36ae630ad19112b13050b02e9c113a28
-#EXTINF:-1 tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEWZB_IVP_LAND_672x378_676AC_2024313_18286.jpg" group-title="Tagalog" group-logo="https://pictr.com/images/2025/02/21/xLAzcO.png" tvg-id="NULL", The Missing
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/41f188d7-c909-5ae5-a526-93e77400af9d/default_dash.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=26225148e68d7e472bef63db4895046d:a26a2788358804102d329a71fc64fe46
-#EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jGKreGg9s4ruL25UFt7budrGJfy.jpg" group-title="Tagalog" group-logo="https://pictr.com/images/2025/02/21/xLAzcO.png",Forbidden Desire
-https://cdnbp.vivamax.net/video/T99969FFLMFORBIDDENDESIRE_7386037af5ab3cd7a23421ae2c64aefed8416e69c3d9a38b221ac3a5082dfb73/dash/hd.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1eae158067b0d47aca795268d949dbb5:94404f349024ce1b3ddc155559c8770d
 #EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jGKreGg9s4ruL25UFt7budrGJfy.jpg" group-title="Tagalog" group-logo="https://pictr.com/images/2025/02/21/xLAzcO.png",Pin/Ya
@@ -3362,3 +3320,4 @@ https://absvod.akamaized.net/c/2/m/5c17122e-89bc-11eb-9393-4c2b408284f3.ism/mani
 #KODIPROP:inputstream.adaptive.license_key=4c053ed4b5a711ec86d5ba9c6a45220a:415cd5c4a176a34f1b70cf1b7f394543
 #EXTINF:-1 tvg-id="NULL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7nabvhQ4Td0pgwm0wiCo2MjkmLH.jpg" group-title="Tagalog" group-logo="https://pictr.com/images/2025/02/21/xLAzcO.png",Throwback Today
 https://absvod.akamaized.net/c/2/m/4c053ed4-b5a7-11ec-86d5-ba9c6a45220a.ism/manifest.mpd
+
