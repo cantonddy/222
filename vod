@@ -3634,7 +3634,8 @@ https://absvod.akamaized.net/c/2/m/aac098a4-8954-11eb-a177-5e39408284f3.ism/mani
 #KODIPROP:inputstream.adaptive.license_key=9eaa3e46446911ecb20a1937550b00c0:963014bbf633b72539b780c1ced1f8b3
 https://absvod.akamaized.net/c/2/m/9eaa3e46-4469-11ec-b20a-1937550b00c0.ism/manifest.mpd
 
-#EXTINF:-1 group-title="iWantTFC Movies" type="movie"  tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/Tj7hsssRTD1FBY_Ltp89CQ.jpg",Pinocchio #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 group-title="iWantTFC Movies" type="movie"  tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/Tj7hsssRTD1FBY_Ltp89CQ.jpg",Pinocchio 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0640e74cd0c011edb70928b64e14d9bf:58b92c52c4fba69daeaaaa24726947d5
@@ -7500,3 +7501,4 @@ http://103.236.179.86:80/movie/rictms/rictms/15932.mp4
 http://103.236.179.86:80/movie/rictms/rictms/15937.mp4
 #EXTINF:-1 xui-id="15969" tvg-name="A Mile in His Shoes (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vh5Ok5yqk5cWea175wJ4CQrwdik.jpg" group-title="FAMILY",A Mile in His Shoes (2011)
 http://103.236.179.86:80/movie/rictms/rictms/15969.mp4
+
