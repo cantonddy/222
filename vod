@@ -3322,7 +3322,7 @@ https://absvod.akamaized.net/c/2/m/5c17122e-89bc-11eb-9393-4c2b408284f3.ism/mani
 https://absvod.akamaized.net/c/2/m/4c053ed4-b5a7-11ec-86d5-ba9c6a45220a.ism/manifest.mpd
 
 
-#EXTINF:-1 group-title="iWantTFC Top" type="movie"  tvg-logo="https://pql-static.abs-cbn.com/images/homealongdarilesdamovie.herobg-tv.jpg?im_policy=landscapeHero_tv_hd",Home Along Da Riles The Movie
+#EXTINF:-1 group-title="iWantTFC Top" type="movie"  tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/1BlgyeK9Nf3MASyyldxP89txvV5.jpg",Home Along Da Riles The Movie
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3331,20 +3331,20 @@ https://iwant-video.akamaized.net/homealongdarilesdamovie/162efd97-5db2-4d9f-8e4
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cfb52ae2e3d412193d7a0287b9e7c5f:28565ed1fe31ebc6de16e23ebe1efc37
-#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://pql-static.abs-cbn.com/images/thelastresort.herobg-tv.JPG?im_policy=landscapeHero_tv_hd" type="movie",The Last Resort
+#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/3MpPRispkovhBJRQq2UTOP5T2Jl.jpg" type="movie",The Last Resort
 https://iwant-video.akamaized.net/thelastresort/a586f1a9-ce83-439e-8f14-57f01b9c8552/manifest-1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=20ac1b672f3246a791bb260481cd95dc:10b64806acceec6f7b5245ff063a4ef2
-#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://pql-static.abs-cbn.com/images/thehowsofus.herobg-tv.jpg?im_policy=landscapeHero_tv_hd" type="movie",The Hows of Us
+#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/2O3SS7Gh2OuKdzxi2bEOi7zNVue.jpg" type="movie",The Hows of Us
 https://iwant-video.akamaized.net/thehowsofus/1fc7bf3e-bacc-4d32-baee-fc254685ceaa/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e3647fb9ae74bb6b7c19f016658ae1b:bd53a64d1f48a4c722d071d0781bebdd
-#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://pql-static.abs-cbn.com/images/silong.herobg-tv.jpg?im_policy=landscapeHero_tv_hd" type="movie",Silong
+#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/89dBfje0fCEUtdHP7qjpJaSj6Nz.jpg" type="movie",Silong
 https://iwant-video.akamaized.net/silong/ff4d3b37-c2f4-4967-8df9-964ca214bb08/manifest.mpd
 
-#EXTINF:-1 group-title="iWantTFC Top" type="movie"  tvg-logo="https://pql-static.abs-cbn.com/images/silip2007.herobg-tv.jpg?im_policy=landscapeHero_tv_hd",Silip
+#EXTINF:-1 group-title="iWantTFC Top" type="movie"  tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/yJg0fdbpfEUN4co9cWAfLQODNmn.jpg",Silip
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3353,10 +3353,10 @@ https://iwant-video.akamaized.net/silip2007/fb640df6-e104-42ea-a4cb-13a727efcbc4
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aa5383f23a84a30b26e5bea375b6e0e:1aef5e7bfae30cf54f212ede0ac6a56b
-#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://pql-static.abs-cbn.com/images/theannulment.herobg-tv.jpg?im_policy=landscapeHero_tv_hd" type="movie",The Annulment
+#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/90AB6A0H93HsKhurFaihiNXhNZv.jpg" type="movie",The Annulment
 https://iwant-video.akamaized.net/theannulment/d5462c05-1bb1-4d52-bdbd-9411747a80f1/manifest.mpd
 
-#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://pql-static.abs-cbn.com/images/hellolovegoodbye.herobg-tv.v2.JPG?im_policy=landscapeHero_tv_hd" type="movie" , Hello Love Goodbye
+#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/sJFouUfCgHFSUh5OKVSQBSfrfA1.jpg" type="movie" , Hello Love Goodbye
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3365,15 +3365,15 @@ https://iwant-video.akamaized.net/hellolovegoodbye/5ad29459-35c9-44be-92fc-aa9ea
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=17ae5cc2dc294a99bf6bbe33227fd09f:0fbf0631faed19db1a3c696e32e5eebe
-#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://pql-static.abs-cbn.com/images/radioromance.herobg-tv.jpg?im_policy=landscapeHero_tv_hd" type="movie",Radio Romance
+#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/hCyZe2Q6qu3vZCoIIidfx4tGVmk.jpg" type="movie",Radio Romance
 https://iwant-video.akamaized.net/radioromance/8fb57f01-c6e3-44fb-a0ad-629220d05109/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c3d4a6a9de945e8b7002dab6c693a43:490c78ca1c81330d3ea5f63250c19eb6
-#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://pql-static.abs-cbn.com/images/tiamadre.herobg-tv.jpg?im_policy=landscapeHero_tv_hd" type="movie",Tía Madré
+#EXTINF:-1 group-title="iWantTFC Top" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/sbhZwFkBWzGvHtcHq9sTmX2xzha.jpg" type="movie",Tía Madré
 https://iwant-video.akamaized.net/tiamadre/4dfc8eef-c823-4603-874e-e95720e9001a/manifest.mpd
 
-#EXTINF:-1 group-title="iWantTFC Top" type="movie"  tvg-logo="https://pql-static.abs-cbn.com/images/gandarrapiddotherevengersquad.herobg-tv.jpg?im_policy=landscapeHero_tv_hd",The Revenger Squad
+#EXTINF:-1 group-title="iWantTFC Top" type="movie"  tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/lWJrqgpBUWWmzu6APYx5tddUOfn.jpg",The Revenger Squad
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3382,33 +3382,28 @@ https://iwant-video.akamaized.net/gandarrapiddotherevengersquad/33c8bd77-bc27-4f
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f3043d62ee543d3a2b4d429918a0f4e:e082e855b5ca4da4cb4ee35f77b140f1
-#EXTINF:-1 group-title="iWantTFC Movies" tvg-logo="https://pql-static.abs-cbn.com/images/bakadoonsabuwan.herobg-tv.JPG?im_policy=landscapeHero_tv_hd" type="movie",Baka Doon sa Buwan
+#EXTINF:-1 group-title="iWantTFC Movies" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/3ZV1cNuWrZemCVwu0nPQ47bT8Rv.jpg" type="movie",Baka Doon sa Buwan
 https://iwant-video.akamaized.net/bakadoonsabuwan/968333c2-b56e-41dd-bf9f-8fa6fd7c4424/manifest-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9390e8f0aaba44eb8551a33c208a7175:e71da8f756447e4b42c51fded468eba5
-#EXTINF:-1 group-title="iWantTFC Movies" tvg-logo="https://pql-static.abs-cbn.com/images/anglarawan.herobg-tv.jpg?im_policy=landscapeHero_tv_hd" type="movie",Ang Larawan
+#EXTINF:-1 group-title="iWantTFC Movies" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/aD1031bOh3t3L3XWFdxBdUUCsLk.jpg" type="movie",Ang Larawan
 https://iwant-video.akamaized.net/anglarawan/06ed7067-9802-476f-a6af-1ab9729ce635/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=726eee9b06ec4747b5db51954d038f55:c6092f7c9657cedb9e9bc40939b308f9
-#EXTINF:-1 group-title="iWantTFC Movies" tvg-logo="https://pql-static.abs-cbn.com/images/bitukangmanok.herobg-tv.jpg?im_policy=landscapeHero_tv_hd" type="movie",Bitukang Manok
+#EXTINF:-1 group-title="iWantTFC Movies" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/e2GbeuKJiEUhi3J5hHdddBAFZfj.jpg" type="movie",Bitukang Manok
 https://iwant-video.akamaized.net/bitukangmanok/20a2d917-d81c-4eb1-8c37-283f7aba0dc0/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=227fcbf1a35448b2bbe7bf650ebd250e:b1dd919e65b5366597c4812ba243569b
-#EXTINF:-1 group-title="iWantTFC Movies" tvg-logo="https://pql-static.abs-cbn.com/images/tenement66.herobg-tv.jpg?im_policy=landscapeHero_tv_hd" type="movie",Tenement66
+#EXTINF:-1 group-title="iWantTFC Movies" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/uRvFETVuBZ0SWBdVJSMrDGMJtpr.jpg" type="movie",Tenement66
 https://iwant-video.akamaized.net/tenement66/2a903b08-8026-42d6-8f70-da346ba594ba/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=77f88f74ed2e4b4f81449500a7796ae5:1bcfb42c99d1d892cc57e93ae07222ec
-#EXTINF:-1 group-title="iWantTFC Movies" tvg-logo="https://pql-static.abs-cbn.com/images/dukot.herobg-tv.jpg?im_policy=landscapeHero_tv_hd" type="movie",Dukot
+#EXTINF:-1 group-title="iWantTFC Movies" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/1SC8ekP6bhDZZBlSz6u77urvZpy.jpg" type="movie",Dukot
 https://iwant-video.akamaized.net/dukot/33298c4f-3497-47bb-abcb-37779c28b432/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1a5fdedcc06471491c024699933a84d:1d03992cab30b09da8777805690d0f8f
-#EXTINF:-1 group-title="iWantTFC Movies" tvg-logo="https://pql-static.abs-cbn.com/images/grieftakesavillage.herobg-tv.JPG?im_policy=landscapeHero_tv_hd" type="movie",Grief Takes a Village
-https://iwant-video-aws.akamaized.net/grieftakesavillage/0551ebd0-f2d8-4a7f-959f-e602f3971c9a/manifest-mobile.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5847485c12b14d4e88bafe720c594558:bfe0e06ee5d631fc2ed3bf936a748858
@@ -7065,5 +7060,6 @@ http://103.236.179.86:80/movie/rictms/rictms/15932.mp4
 http://103.236.179.86:80/movie/rictms/rictms/15937.mp4
 #EXTINF:-1 xui-id="15969" tvg-name="A Mile in His Shoes (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vh5Ok5yqk5cWea175wJ4CQrwdik.jpg" group-title="FAMILY",A Mile in His Shoes (2011)
 http://103.236.179.86:80/movie/rictms/rictms/15969.mp4
+
 
 
