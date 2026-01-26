@@ -5,7 +5,7 @@ Monday
 3:00am – Balitang Promdi
 4:00am – Magandang Umaga, Pilipinas
 6:00am – Dos Por Dos
-8:00am – Damdamin Bayan
+8:00am – Damdaming Bayan
 10:00am – Operation Tulong
 11:00am – Magandang Umaga, Pilipinas (replay)
 12:00nn – MBC TV Network News
@@ -30,7 +30,7 @@ Tuesday
 3:00am – Balitang Promdi
 4:00am – Magandang Umaga, Pilipinas
 6:00am – Dos Por Dos
-8:00am – Damdamin Bayan
+8:00am – Damdaming Bayan
 10:00am – Operation Tulong
 11:00am – Magandang Umaga, Pilipinas (replay)
 12:00nn – MBC TV Network News
@@ -55,7 +55,7 @@ Wednesday
 3:00am – Balitang Promdi
 4:00am – Magandang Umaga, Pilipinas
 6:00am – Dos Por Dos
-8:00am – Damdamin Bayan
+8:00am – Damdaming Bayan
 10:00am – ECC Work Related
 11:00am – Magandang Umaga, Pilipinas (replay)
 12:00nn – MBC TV Network News
@@ -80,7 +80,7 @@ Thursday
 3:00am – Balitang Promdi
 4:00am – Magandang Umaga, Pilipinas
 6:00am – Dos Por Dos
-8:00am – Damdamin Bayan
+8:00am – Damdaming Bayan
 10:00am – Operation Tulong
 11:00am – Magandang Umaga, Pilipinas (replay)
 12:00nn – MBC TV Network News
@@ -105,7 +105,7 @@ Friday
 3:00am – Balitang Promdi
 4:00am – Magandang Umaga, Pilipinas
 6:00am – Dos Por Dos
-8:00am – Damdamin Bayan
+8:00am – Damdaming Bayan
 10:00am – Operation Tulong
 11:00am – Magandang Umaga, Pilipinas (replay)
 12:00nn – MBC TV Network News
@@ -175,3 +175,4 @@ Sunday
 9:00pm – Showbiz Talk
 10:00pm – Bisaya Time
 11:00pm – For Tonight Only
+
