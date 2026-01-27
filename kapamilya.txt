@@ -2,7 +2,7 @@ MONDAY
 12:45 AM - Movie Central Presents
 5:30 AM - Kapamilya Daily Mass
 6:00 AM - School Anywhere
-7:00 AM - 100 Days To Heaven
+7:00 AM - Komiks Presents: Mars Ravelo's Flash Bomba
 8:00 AM - The Flying House
 8:30 AM - Superbook Season 5
 9:00 AM - Magandang Buhay
@@ -26,7 +26,7 @@ TUESDAY
 12:45 AM - Movie Central Presents
 5:30 AM - Kapamilya Daily Mass
 6:00 AM - School Anywhere
-7:00 AM - 100 Days To Heaven
+7:00 AM - Komiks Presents: Mars Ravelo's Flash Bomba
 8:00 AM - The Flying House
 8:30 AM - Superbook Season 5
 9:00 AM - Magandang Buhay
@@ -50,7 +50,7 @@ WEDNESDAY
 12:45 AM - Movie Central Presents
 5:30 AM - Kapamilya Daily Mass
 6:00 AM - School Anywhere
-7:00 AM - 100 Days To Heaven
+7:00 AM - Komiks Presents: Mars Ravelo's Flash Bomba
 8:00 AM - The Flying House
 8:30 AM - Superbook Season 5
 9:00 AM - Magandang Buhay
@@ -74,7 +74,7 @@ THURSDAY
 12:45 AM - Movie Central Presents
 5:30 AM - Kapamilya Daily Mass
 6:00 AM - School Anywhere
-7:00 AM - 100 Days To Heaven
+7:00 AM - Komiks Presents: Mars Ravelo's Flash Bomba
 8:00 AM - The Flying House
 8:30 AM - Superbook Season 5
 9:00 AM - Magandang Buhay
@@ -98,7 +98,7 @@ FRIDAY
 12:45 AM - Movie Central Presents
 5:30 AM - Kapamilya Daily Mass
 6:00 AM - School Anywhere
-7:00 AM - 100 Days To Heaven
+7:00 AM - Komiks Presents: Mars Ravelo's Flash Bomba
 8:00 AM - The Flying House
 8:30 AM - Superbook Season 5
 9:00 AM - Magandang Buhay
@@ -156,5 +156,6 @@ SUNDAY
 8:15 PM - Rated Korina
 9:15 PM - Mega Blockbusters
 10:45 PM - Sunday's Best
+
 
 
