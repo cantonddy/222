@@ -11,13 +11,15 @@ MONDAY
 11:00 AM - Face to Face: Harapan
 12:00 PM - E.A.T Bulaga (LIVE)
 2:30 PM - Frontline Express (LIVE)
-3:15 PM - Cine Cinco sa Hapon
+3:10 PM - Cine Cinco sa Hapon
 4:45 PM - VIBE UP
 5:30 PM - Una Sa Lahat (LIVE)
 6:15 PM - Frontline Pilipinas (LIVE)
 8:00 PM - Totoy Bato
-8:45 PM - Cine Cinco Primetime
-10:45 PM - Frontline Tonight (LIVE)
+8:45 PM - Nag-Aapoy na Damdamin
+9:30 PM - Pira-Pirasong Paraiso
+10:15 PM - Frontline Tonight (LIVE)
+11:00 PM - Kapatid Dokyu
 11:30 PM - VIBE Nights
 
 TUESDAY
@@ -32,13 +34,15 @@ TUESDAY
 11:00 AM - Face to Face: Harapan
 12:00 PM - E.A.T Bulaga (LIVE)
 2:30 PM - Frontline Express (LIVE)
-3:15 PM - Cine Cinco sa Hapon
+3:10 PM - Cine Cinco sa Hapon
 4:45 PM - VIBE UP
 5:30 PM - Una Sa Lahat (LIVE)
 6:15 PM - Frontline Pilipinas (LIVE)
 8:00 PM - Totoy Bato
-8:45 PM - Cine Cinco Primetime
-10:45 PM - Frontline Tonight (LIVE)
+8:45 PM - Nag-Aapoy na Damdamin
+9:30 PM - Pira-Pirasong Paraiso
+10:15 PM - Frontline Tonight (LIVE)
+11:00 PM - Kapatid Dokyu
 11:30 PM - VIBE Nights
 
 WEDNESDAY
@@ -53,13 +57,15 @@ WEDNESDAY
 11:00 AM - Face to Face: Harapan
 12:00 PM - E.A.T Bulaga (LIVE)
 2:30 PM - Frontline Express (LIVE)
-3:15 PM - Cine Cinco sa Hapon
+3:10 PM - Cine Cinco sa Hapon
 4:45 PM - VIBE UP
 5:30 PM - Una Sa Lahat (LIVE)
 6:15 PM - Frontline Pilipinas (LIVE)
 8:00 PM - Totoy Bato
-8:45 PM - Cine Cinco Primetime
-10:45 PM - Frontline Tonight (LIVE)
+8:45 PM - Nag-Aapoy na Damdamin
+9:30 PM - Pira-Pirasong Paraiso
+10:15 PM - Frontline Tonight (LIVE)
+11:00 PM - Kapatid Dokyu
 11:30 PM - VIBE Nights
 
 THURSDAY
@@ -74,13 +80,15 @@ THURSDAY
 11:00 AM - Face to Face: Harapan
 12:00 PM - E.A.T Bulaga (LIVE)
 2:30 PM - Frontline Express (LIVE)
-3:15 PM - Cine Cinco sa Hapon
+3:10 PM - Cine Cinco sa Hapon
 4:45 PM - VIBE UP
 5:30 PM - Una Sa Lahat (LIVE)
 6:15 PM - Frontline Pilipinas (LIVE)
 8:00 PM - Totoy Bato
-8:45 PM - Cine Cinco Primetime
-10:45 PM - Frontline Tonight (LIVE)
+8:45 PM - Nag-Aapoy na Damdamin
+9:30 PM - Pira-Pirasong Paraiso
+10:15 PM - Frontline Tonight (LIVE)
+11:00 PM - Kapatid Dokyu
 11:30 PM - VIBE Nights
 
 FRIDAY
@@ -95,13 +103,15 @@ FRIDAY
 11:00 AM - Face to Face: Harapan
 12:00 PM - E.A.T Bulaga (LIVE)
 2:30 PM - Frontline Express (LIVE)
-3:15 PM - Cine Cinco sa Hapon
+3:10 PM - Cine Cinco sa Hapon
 4:45 PM - VIBE UP
 5:30 PM - Una Sa Lahat (LIVE)
 6:15 PM - Frontline Pilipinas (LIVE)
 8:00 PM - Totoy Bato
-8:45 PM - Cine Cinco Primetime
-10:45 PM - Frontline Tonight (LIVE)
+8:45 PM - Nag-Aapoy na Damdamin
+9:30 PM - Pira-Pirasong Paraiso
+10:15 PM - Frontline Tonight (LIVE)
+11:00 PM - Kapatid Dokyu
 11:30 PM - VIBE Nights
 
 
@@ -147,6 +157,7 @@ SUNDAY
 9:30 PM - Tik Talks
 10:45 PM - Long Conversations: The Men’s Room with Janno Gibbs and Stanley Chi
 11:30 PM - CCF Worship Service
+
 
 
 
