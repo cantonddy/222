@@ -7,9 +7,9 @@ MONDAY
 9:00 AM - Cinema G!
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
-2:30 PM - One The Woman
-3:00 PM - The Skywatcher
-3:30 PM - Afternoon Movie Break
+2:30 PM - Afternoon Movie Break
+4:45 PM - One The Woman
+5:15 PM - The Skywatcher
 5:45 PM - Heartful Cafe
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
@@ -27,9 +27,9 @@ TUESDAY
 9:00 AM - Cinema G!
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
-2:30 PM - One The Woman
-3:00 PM - The Skywatcher
-3:30 PM - Afternoon Movie Break
+2:30 PM - Afternoon Movie Break
+4:45 PM - One The Woman
+5:15 PM - The Skywatcher
 5:45 PM - Heartful Cafe
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
@@ -48,10 +48,10 @@ WEDNESDAY
 9:00 AM - Cinema G!
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
-2:30 PM - One The Woman
-3:00 PM - The Skywatcher
-3:30 PM - Afternoon Movie Break
+2:30 PM - NCAA Season 101 Building Greatness: Women's Volleyball (Live)
+5:15 PM - The Skywatcher
 5:45 PM - Heartful Cafe
+5:15 PM - The Skywatcher
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
 9:45 PM - Encantadia Chronicles Sang'gre
@@ -69,9 +69,9 @@ THURSDAY
 9:00 AM - Cinema G!
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
-2:30 PM - One The Woman
-3:00 PM - The Skywatcher
-3:30 PM - Afternoon Movie Break
+2:30 PM - Afternoon Movie Break
+4:45 PM - One The Woman
+5:15 PM - The Skywatcher
 5:45 PM - Heartful Cafe
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
@@ -90,9 +90,9 @@ FRIDAY
 9:00 AM - Cinema G!
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
-2:30 PM - One The Woman
-3:00 PM - The Skywatcher
-3:30 PM - Afternoon Movie Break
+2:30 PM - Afternoon Movie Break
+4:45 PM - One The Woman
+5:15 PM - The Skywatcher
 5:45 PM - Heartful Cafe
 6:30 PM - 24 Oras (Live)
 8:05 PM - FPJ sa G! Flicks
@@ -144,6 +144,7 @@ SUNDAY
 8:30 PM - Happy ToGetHer
 9:15 PM - Kapuso Mo, Jessica Soho
 11:05 PM - Dear Uge
+
 
 
 
