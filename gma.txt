@@ -2,16 +2,16 @@ MONDAY
 12:00 AM - Sign Off
 5:30 AM - Unang Hirit
 8:00 AM - One Piece Dressrosa Arc
-8:25 AM - Love Between Fairy And Moon Supreme
+8:25 AM - Kamen Rider Saber
 9:00 AM - The Baker King
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
-3:20 PM - Cruz vs. Cruz
+3:20 PM - House of Lies
 4:05 PM - Fast Talk with Boy Abunda
 4:30 PM - Unica Hija
-5:10 PM - You Are My Makeup Artist
+5:10 PM - Delightfully Deceitful
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:05 PM - Encantadia Chronicles Sang'gre
@@ -26,16 +26,16 @@ TUESDAY
 12:30 AM - Sign Off
 5:30 AM - Unang Hirit
 8:00 AM - One Piece Dressrosa Arc
-8:25 AM - Love Between Fairy And Moon Supreme
+8:25 AM - Kamen Rider Saber
 9:00 AM - The Baker King
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
-3:20 PM - Cruz vs. Cruz
+3:20 PM - House of Lies
 4:05 PM - Fast Talk with Boy Abunda
 4:30 PM - Unica Hija
-5:10 PM - You Are My Makeup Artist
+5:10 PM - Delightfully Deceitful
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:05 PM - Encantadia Chronicles Sang'gre
@@ -50,16 +50,16 @@ WEDNESDAY
 12:30 AM - Sign Off
 5:30 AM - Unang Hirit
 8:00 AM - One Piece Dressrosa Arc
-8:25 AM - Love Between Fairy And Moon Supreme
+8:25 AM - Kamen Rider Saber
 9:00 AM - The Baker King
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
-3:20 PM - Cruz vs. Cruz
+3:20 PM - House of Lies
 4:05 PM - Fast Talk with Boy Abunda
 4:30 PM - Unica Hija
-5:10 PM - You Are My Makeup Artist
+5:10 PM - Delightfully Deceitful
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:05 PM - Encantadia Chronicles Sang'gre
@@ -74,16 +74,16 @@ THURSDAY
 12:30 AM - Sign Off
 5:30 AM - Unang Hirit
 8:00 AM - One Piece Dressrosa Arc
-8:25 AM - Love Between Fairy And Moon Supreme
+8:25 AM - Kamen Rider Saber
 9:00 AM - The Baker King
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
-3:20 PM - Cruz vs. Cruz
+3:20 PM - House of Lies
 4:05 PM - Fast Talk with Boy Abunda
 4:30 PM - Unica Hija
-5:10 PM - You Are My Makeup Artist
+5:10 PM - Delightfully Deceitful
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:05 PM - Encantadia Chronicles Sang'gre
@@ -98,16 +98,16 @@ FRIDAY
 12:30 AM - Sign Off
 5:30 AM - Unang Hirit
 8:00 AM - One Piece Dressrosa Arc
-8:25 AM - Love Between Fairy And Moon Supreme
+8:25 AM - Kamen Rider Saber
 9:00 AM - The Baker King
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
-3:20 PM - Cruz vs. Cruz
+3:20 PM - House of Lies
 4:05 PM - Fast Talk with Boy Abunda
 4:30 PM - Unica Hija
-5:10 PM - You Are My Makeup Artist
+5:10 PM - Delightfully Deceitful
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:05 PM - Encantadia Chronicles Sang'gre
@@ -168,5 +168,6 @@ SUNDAY
 8:15 PM - Kapuso Mo, Jessica Soho
 10:05 PM - The Boobay and Tekla Show
 11:05 PM - CIA: Cayetano in Action with Boy Abunda
+
 
 
