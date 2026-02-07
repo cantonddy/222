@@ -3,7 +3,7 @@ MONDAY
 5:30 AM - Unang Hirit
 8:00 AM - One Piece Dressrosa Arc
 8:25 AM - Kamen Rider Saber
-9:00 AM - The Baker King
+9:00 AM - Astrophile
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
@@ -15,11 +15,11 @@ MONDAY
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:05 PM - Encantadia Chronicles Sang'gre
-8:55 PM - Sanggang Dikit FR
+8:55 PM - Never Say Die
 9:40 PM - Pinoy Big Brother Celebrity Collab Edition
 10:20 PM - Saksi
 11:00 PM - Tricky Love
-11:30 PM - To the Moon and Back
+11:30 PM - The Cherry Lee Village Headman
 
 TUESDAY
 12:00 AM - The 700 Club Asia
@@ -27,7 +27,7 @@ TUESDAY
 5:30 AM - Unang Hirit
 8:00 AM - One Piece Dressrosa Arc
 8:25 AM - Kamen Rider Saber
-9:00 AM - The Baker King
+9:00 AM - Astrophile
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
@@ -39,11 +39,11 @@ TUESDAY
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:05 PM - Encantadia Chronicles Sang'gre
-8:55 PM - Sanggang Dikit FR
+8:55 PM - Never Say Die
 9:40 PM - Pinoy Big Brother Celebrity Collab Edition
 10:20 PM - Saksi
 11:00 PM - Tricky Love
-11:30 PM - To the Moon and Back
+11:30 PM - The Cherry Lee Village Headman
 
 WEDNESDAY
 12:00 AM - The 700 Club Asia
@@ -51,7 +51,7 @@ WEDNESDAY
 5:30 AM - Unang Hirit
 8:00 AM - One Piece Dressrosa Arc
 8:25 AM - Kamen Rider Saber
-9:00 AM - The Baker King
+9:00 AM - Astrophile
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
@@ -63,11 +63,11 @@ WEDNESDAY
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:05 PM - Encantadia Chronicles Sang'gre
-8:55 PM - Sanggang Dikit FR
+8:55 PM - Never Say Die
 9:40 PM - Pinoy Big Brother Celebrity Collab Edition
 10:20 PM - Saksi
 11:00 PM - Tricky Love
-11:30 PM - To the Moon and Back
+11:30 PM - The Cherry Lee Village Headman
 
 THURSDAY
 12:00 AM - The 700 Club Asia
@@ -75,7 +75,7 @@ THURSDAY
 5:30 AM - Unang Hirit
 8:00 AM - One Piece Dressrosa Arc
 8:25 AM - Kamen Rider Saber
-9:00 AM - The Baker King
+9:00 AM - Astrophile
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
@@ -87,11 +87,11 @@ THURSDAY
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:05 PM - Encantadia Chronicles Sang'gre
-8:55 PM - Sanggang Dikit FR
+8:55 PM - Never Say Die
 9:40 PM - Pinoy Big Brother Celebrity Collab Edition
 10:20 PM - Saksi
 11:00 PM - Tricky Love
-11:30 PM - To the Moon and Back
+11:30 PM - The Cherry Lee Village Headman
 
 FRIDAY
 12:00 AM - The 700 Club Asia
@@ -99,7 +99,7 @@ FRIDAY
 5:30 AM - Unang Hirit
 8:00 AM - One Piece Dressrosa Arc
 8:25 AM - Kamen Rider Saber
-9:00 AM - The Baker King
+9:00 AM - Astrophile
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
@@ -111,11 +111,11 @@ FRIDAY
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:05 PM - Encantadia Chronicles Sang'gre
-8:55 PM - Sanggang Dikit FR
+8:55 PM - Never Say Die
 9:40 PM - Pinoy Big Brother Celebrity Collab Edition
 10:20 PM - Saksi
 11:00 PM - Tricky Love
-11:30 PM - To the Moon and Back
+11:30 PM - The Cherry Lee Village Headman
 
 SATURDAY
 12:00 AM - The 700 Club Asia
@@ -145,7 +145,7 @@ SATURDAY
 9:30 PM - Daig Kayo Ng Lola Ko
 10:15 PM - I-Witness
 11:00 PM - Reporter's Notebook
-11:30 PM - To the Moon and Back
+11:30 PM - The Cherry Lee Village Headman
 
 SUNDAY
 12:00 AM - Sign Off
@@ -168,6 +168,7 @@ SUNDAY
 8:15 PM - Kapuso Mo, Jessica Soho
 10:05 PM - The Boobay and Tekla Show
 11:05 PM - Doors
+
 
 
 
