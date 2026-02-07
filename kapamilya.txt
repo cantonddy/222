@@ -12,7 +12,7 @@ MONDAY
 3:15 PM - Senior High
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
-5:45 PM - Kapamilya Deal or No Deal
+5:45 PM - Minute To Win It
 6:30 PM - TV Patrol (Live)
 8:00 PM - FPJ's Batang Quiapo
 8:45 PM - Roja
@@ -36,7 +36,7 @@ TUESDAY
 3:15 PM - Senior High
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
-5:45 PM - Kapamilya Deal or No Deal
+5:45 PM - Minute To Win It
 6:30 PM - TV Patrol (Live)
 8:00 PM - FPJ's Batang Quiapo
 8:45 PM - Roja
@@ -60,7 +60,7 @@ WEDNESDAY
 3:15 PM - Senior High
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
-5:45 PM - Kapamilya Deal or No Deal
+5:45 PM - Minute To Win It
 6:30 PM - TV Patrol (Live)
 8:00 PM - FPJ's Batang Quiapo
 8:45 PM - Roja
@@ -84,7 +84,7 @@ THURSDAY
 3:15 PM - Senior High
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
-5:45 PM - Kapamilya Deal or No Deal
+5:45 PM - Minute To Win It
 6:30 PM - TV Patrol (Live)
 8:00 PM - FPJ's Batang Quiapo
 8:45 PM - Roja
@@ -108,7 +108,7 @@ FRIDAY
 3:15 PM - Senior High
 4:00 PM - Kapamilya Gold Hits
 5:30 PM - TV Patrol Express (Live)
-5:45 PM - Kapamilya Deal or No Deal
+5:45 PM - Minute To Win It
 6:30 PM - TV Patrol (Live)
 8:00 PM - FPJ's Batang Quiapo
 8:45 PM - Roja
@@ -157,6 +157,7 @@ SUNDAY
 8:15 PM - Rated Korina
 9:15 PM - Mega Blockbusters
 10:45 PM - Sunday's Best
+
 
 
 
