@@ -16,7 +16,7 @@ Monday
 3:00pm - Ako To Si Tyang Amy
 4:00pm - Headline sa Hapon
 4:30pm - ATM: Anong Take Mo!
-5:30pm - Isyu Spotted
+5:30pm - Arangkada Balita
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
@@ -41,7 +41,7 @@ Tuesday
 3:00pm - Ako To Si Tyang Amy
 4:00pm - Headline sa Hapon
 4:30pm - ATM: Anong Take Mo!
-5:30pm - Isyu Spotted
+5:30pm - Arangkada Balita
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
@@ -66,7 +66,7 @@ Wednesday
 3:00pm - Ako To Si Tyang Amy
 4:00pm - Headline sa Hapon
 4:30pm - ATM: Anong Take Mo!
-5:30pm - Isyu Spotted
+5:30pm - Arangkada Balita
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
@@ -92,7 +92,7 @@ Thursday
 3:00pm - Ako To Si Tyang Amy
 4:00pm - Headline sa Hapon
 4:30pm - ATM: Anong Take Mo!
-5:30pm - Isyu Spotted
+5:30pm - Arangkada Balita
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
@@ -117,7 +117,7 @@ Friday
 3:00pm - Ako To Si Tyang Amy
 4:00pm - Headline sa Hapon
 4:30pm - ATM: Anong Take Mo!
-5:30pm - Isyu Spotted
+5:30pm - Arangkada Balita
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
@@ -128,9 +128,9 @@ Saturday
 12:00am - Music Automation
 4:00am - Yan Tayo!
 6:00am - Ano'ng Ganap?
-7:00am - Balita Antemano
+7:00am - Radyo Patrol Balita Alas-Syete
 8:00am - PINASigla
-9:00am - Aksyon DOLE
+9:00am - Balita Antemano
 10:00am - Win Today
 11:00am - Serbisyong DSWD For Every Juan
 12:00pm - Ligtas Dapat
@@ -154,6 +154,7 @@ Sunday
 11:00am - Iwas Sakit, Iwas Gastos
 12:00pm - Bongga Ka Jhai!
 1:30pm - With Due Respect
+3:00pm - Konek Ka Dyan
 3:30pm - Travel ni Ahwel
 5:30pm - TV Patrol Weekend
 6:30pm - Story Outlook
@@ -161,6 +162,7 @@ Sunday
 8:30pm - Replay
 9:30pm - Replay
 10:00pm - Replay
+
 
 
 
