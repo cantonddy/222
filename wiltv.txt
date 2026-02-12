@@ -29,8 +29,8 @@ Wednesday
 6:00am - No Programming
 8:00am - No Programming
 10:00am - No Programming
-12:30pm - WILYONARYO
-2:00pm - No Programming
+12:00pm - WILYONARYO
+2:30pm - No Programming
 4:00pm - No Programming
 6:00pm - No Programming
 8:00pm - No Programming
@@ -42,8 +42,8 @@ Thursday
 6:00am - No Programming
 8:00am - No Programming
 10:00am - No Programming
-12:30pm - WILYONARYO
-2:00pm - No Programming
+12:00pm - WILYONARYO
+2:30pm - No Programming
 4:00pm - No Programming
 6:00pm - No Programming
 8:00pm - No Programming
@@ -54,8 +54,8 @@ Friday
 6:00am - No Programming
 8:00am - No Programming
 10:00am - No Programming
-12:30pm - WILYONARYO
-2:00pm - No Programming
+12:00pm - WILYONARYO
+2:30pm - No Programming
 4:00pm - No Programming
 6:00pm - No Programming
 8:00pm - No Programming
