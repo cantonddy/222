@@ -4,8 +4,8 @@ MONDAY
 1:30 AM - Sign Off
 4:30 AM - Word of God
 5:30 AM - Gud Morning Kapatid (LIVE)
-8:00 AM - The Adventures of Tom Sawyer
-8:30 AM - Kiddie Explorers
+8:00 AM - Chibi Maruko Chan
+8:30 AM - The Adventures of Tom Sawyer
 9:00 AM - Cine Cinco sa Umaga
 10:30 AM - Frontline Express AM
 11:00 AM - Face to Face: Harapan
@@ -27,8 +27,8 @@ TUESDAY
 1:00 AM - Sign Off
 4:30 AM - Word of God
 5:30 AM - Gud Morning Kapatid (LIVE)
-8:00 AM - The Adventures of Tom Sawyer
-8:30 AM - Kiddie Explorers
+8:00 AM - Chibi Maruko Chan
+8:30 AM - The Adventures of Tom Sawyer
 9:00 AM - Cine Cinco sa Umaga
 10:30 AM - Frontline Express
 11:00 AM - Face to Face: Harapan
@@ -50,8 +50,8 @@ WEDNESDAY
 1:00 AM - Sign Off
 4:30 AM - Word of God
 5:30 AM - Gud Morning Kapatid (LIVE)
-8:00 AM - The Adventures of Tom Sawyer
-8:30 AM - Kiddie Explorers
+8:00 AM - Chibi Maruko Chan
+8:30 AM - The Adventures of Tom Sawyer
 9:00 AM - Cine Cinco sa Umaga
 10:30 AM - Frontline Express
 11:00 AM - Face to Face: Harapan
@@ -73,8 +73,8 @@ THURSDAY
 1:00 AM - Sign Off
 4:30 AM - Word of God
 5:30 AM - Gud Morning Kapatid (LIVE)
-8:00 AM - The Adventures of Tom Sawyer
-8:30 AM - Kiddie Explorers
+8:00 AM - Chibi Maruko Chan
+8:30 AM - The Adventures of Tom Sawyer
 9:00 AM - Cine Cinco sa Umaga
 10:30 AM - Frontline Express
 11:00 AM - Face to Face: Harapan
@@ -96,8 +96,8 @@ FRIDAY
 1:00 AM - Sign Off
 4:30 AM - Word of God
 5:30 AM - Gud Morning Kapatid (LIVE)
-8:00 AM - The Adventures of Tom Sawyer
-8:30 AM - Kiddie Explorers
+8:00 AM - Chibi Maruko Chan
+8:30 AM - The Adventures of Tom Sawyer
 9:00 AM - Cine Cinco sa Umaga
 10:30 AM - Frontline Express
 11:00 AM - Face to Face: Harapan
@@ -122,6 +122,7 @@ SATURDAY
 7:30 AM - Dragon Race To The Edge
 8:30 AM - Little Princess Sarah
 9:30 AM - Cine Cinco Weekend Saya
+11:00 AM - From Helen's Kitchen
 11:25 AM - E.A.T Bulaga (LIVE)
 2:30 PM - Frontline Express (LIVE)
 3:00 PM - Cine Cinco Hit na Hit
@@ -131,7 +132,7 @@ SATURDAY
 6:30 PM - Frontline Weekend (LIVE)
 7:00 PM - Sing Galing: Sing-lebrity Edition
 8:15 PM - Kagat ng Dilim
-9:15 PM - American Idol
+9:15 PM - America's Got Talent
 10:15 PM - Forensics
 11:15 PM - Pinoy Explorer
 
@@ -157,6 +158,7 @@ SUNDAY
 9:30 PM - Tik Talks
 10:45 PM - Long Conversations: The Men’s Room with Janno Gibbs and Stanley Chi
 11:30 PM - CCF Worship Service
+
 
 
 
