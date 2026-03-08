@@ -12,19 +12,19 @@ MONDAY
 8:00 AM - Ano Sa Palagay Nyo ASPN
 10:00 AM - Kada Umaga
 12:00 PM - Mata ng Agila sa Tanghali
-12:30 PM - Love Me, Love My Voice
-1:00 PM - Love Designer
-1:30 PM - Strict Ang Mommy Ko
-2:00 PM - Rising with the Wind
-2:30 PM - A Date With The Future
+12:30 PM - Happy Ending
+1:00 PM - Love in her Bag
+1:30 PM - As Beautiful as You
+2:00 PM - Syndrome
+2:30 PM - Happy Ending
 3:00 PM - Oh No It's B.O
 4:00 PM - Net25 Starkada
 4:30 PM - Sa Ganang Mamamayan
 6:00 PM - Mata Ng Agila Primetime
-7:30 PM - Best Choice Ever
-8:00 PM - Go Go Squid
-8:30 PM - A Date With The Future
-9:00 PM - As Beautiful As You
+7:30 PM - Meet Yourself
+8:00 PM - Hi Venus
+8:30 PM - Love Me Love My Voice
+9:00 PM - Here We Meet Again
 9:30 PM - Mata Ng Agila International
 10:30 PM - REV
 11:00 PM - In Good Shape
@@ -46,19 +46,19 @@ TUESDAY
 8:00 AM - Ano Sa Palagay Nyo ASPN
 10:00 AM - Kada Umaga
 12:00 PM - Mata ng Agila sa Tanghali
-12:30 PM - Love Me, Love My Voice
-1:00 PM - Love Designer
-1:30 PM - Strict Ang Mommy Ko
-2:00 PM - Rising with the Wind
-2:30 PM - A Date With The Future
+12:30 PM - Happy Ending
+1:00 PM - Love in her Bag
+1:30 PM - As Beautiful as You
+2:00 PM - Syndrome
+2:30 PM - Happy Ending
 3:00 PM - Responde: Mata Ng Mamamayan
 4:00 PM - Net25 Starkada
 4:30 PM - Sa Ganang Mamamayan
 6:00 PM - Mata Ng Agila Primetime
-7:30 PM - Best Choice Ever
-8:00 PM - Go Go Squid
-8:30 PM - A Date With The Future
-9:00 PM - As Beautiful As You
+7:30 PM - Meet Yourself
+8:00 PM - Hi Venus
+8:30 PM - Love Me Love My Voice
+9:00 PM - Here We Meet Again
 9:30 PM - Mata Ng Agila International
 10:30 PM - Lingap Stories
 11:00 PM - Pundasyon
@@ -79,19 +79,19 @@ WEDNESDAY
 8:00 AM - Ano Sa Palagay Nyo ASPN
 10:00 AM - Kada Umaga
 12:00 PM - Mata ng Agila sa Tanghali
-12:30 PM - Love Me, Love My Voice
-1:00 PM - Love Designer
-1:30 PM - Strict Ang Mommy Ko
-2:00 PM - Rising with the Wind
-2:30 PM - A Date With The Future
+12:30 PM - Happy Ending
+1:00 PM - Love in her Bag
+1:30 PM - As Beautiful as You
+2:00 PM - Syndrome
+2:30 PM - Happy Ending
 3:00 PM - Anong Meron Kay Abok?
 4:00 PM - Net25 Starkada
 4:30 PM - Sa Ganang Mamamayan
 6:00 PM - Mata Ng Agila Primetime
-7:30 PM - Best Choice Ever
-8:00 PM - Go Go Squid
-8:30 PM - A Date With The Future
-9:00 PM - As Beautiful As You
+7:30 PM - Meet Yourself
+8:00 PM - Hi Venus
+8:30 PM - Love Me Love My Voice
+9:00 PM - Here We Meet Again
 9:30 PM - Mata Ng Agila International
 10:30 PM - REV
 11:00 PM - In Good Shape
@@ -113,19 +113,19 @@ THURSDAY
 8:00 AM - Ano Sa Palagay Nyo ASPN
 10:00 AM - Kada Umaga
 12:00 PM - Mata ng Agila sa Tanghali
-12:30 PM - Love Me, Love My Voice
-1:00 PM - Love Designer
-1:30 PM - Strict Ang Mommy Ko
-2:00 PM - Rising with the Wind
-2:30 PM - A Date With The Future
+12:30 PM - Happy Ending
+1:00 PM - Love in her Bag
+1:30 PM - As Beautiful as You
+2:00 PM - Syndrome
+2:30 PM - Happy Ending
 3:00 PM - Quizon CT
 4:00 PM - Net25 Starkada
 4:30 PM - Sa Ganang Mamamayan
 6:00 PM - Mata Ng Agila Primetime
-7:30 PM - Best Choice Ever
-8:00 PM - Go Go Squid
-8:30 PM - A Date With The Future
-9:00 PM - As Beautiful As You
+7:30 PM - Meet Yourself
+8:00 PM - Hi Venus
+8:30 PM - Love Me Love My Voice
+9:00 PM - Here We Meet Again
 9:30 PM - Mata Ng Agila International
 10:30 PM - Tomorrow Today
 11:00 PM - Letters and Music
@@ -145,19 +145,19 @@ FRIDAY
 8:00 AM - Ano Sa Palagay Nyo ASPN
 10:00 AM - Kada Umaga
 12:00 PM - Mata ng Agila sa Tanghali
-12:30 PM - Love Me, Love My Voice
-1:00 PM - Love Designer
-1:30 PM - Strict Ang Mommy Ko
-2:00 PM - Rising with the Wind
-2:30 PM - A Date With The Future
+12:30 PM - Happy Ending
+1:00 PM - Love in her Bag
+1:30 PM - As Beautiful as You
+2:00 PM - Syndrome
+2:30 PM - Happy Ending
 3:00 PM - Korina Interviews
 4:00 PM - Net25 Starkada
 4:30 PM - Sa Ganang Mamamayan
 6:00 PM - Mata Ng Agila Primetime
-7:30 PM - Best Choice Ever
-8:00 PM - Go Go Squid
-8:30 PM - A Date With The Future
-9:00 PM - As Beautiful As You
+7:30 PM - Meet Yourself
+8:00 PM - Hi Venus
+8:30 PM - Love Me Love My Voice
+9:00 PM - Here We Meet Again
 9:30 PM - Mata Ng Agila International
 10:30 PM - Global Us
 11:00 PM - Open for Business
@@ -226,10 +226,11 @@ SUNDAY
 3:00 PM - UNLAD Kaagapay sa Hanapbuhay
 3:30 PM - Lingap Stories
 4:00 PM - Love, BosLeng and Tali
-5:00 PM - Anong Meron Kay Abok?
+5:00 PM - Good Will
 6:00 PM - Korina Interviews
 7:00 PM - Tara Game, Agad-Agad! Level Up!
 8:00 PM - 3-in-1
 9:00 PM - Open for Business
 10:00 PM - INCinema
+
 
