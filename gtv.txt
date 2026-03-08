@@ -8,15 +8,15 @@ MONDAY
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
 2:30 PM - Afternoon Movie Break
-4:45 PM - One The Woman
-5:15 PM - The Skywatcher
-5:45 PM - Heartful Cafe
+4:45 PM - AraBella
+5:15 PM - The Seed of Love
+5:45 PM - Makiling
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
 9:45 PM - Encantadia Chronicles Sang'gre
 10:30 PM - Never Say Die
 11:05 PM - State of The Nation (Live)
-11:25 PM - True Horror Stories 
+11:25 PM - The Secrets Of Hotel 88 
 
 TUESDAY
 12:00 AM - Sign Off
@@ -28,15 +28,15 @@ TUESDAY
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
 2:30 PM - Afternoon Movie Break
-4:45 PM - One The Woman
-5:15 PM - The Skywatcher
-5:45 PM - Heartful Cafe
+4:45 PM - AraBella
+5:15 PM - The Seed of Love
+5:45 PM - Makiling
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
 9:45 PM - Encantadia Chronicles Sang'gre
 10:30 PM - Never Say Die
 11:05 PM - State of The Nation (Live)
-11:25 PM - True Horror Stories
+11:25 PM - The Secrets Of Hotel 88 
 
 
 WEDNESDAY
@@ -49,15 +49,14 @@ WEDNESDAY
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
 2:30 PM - NCAA Season 101 Building Greatness: Women's Volleyball (Live)
-5:15 PM - The Skywatcher
-5:45 PM - Heartful Cafe
-5:15 PM - The Skywatcher
+5:00 PM - The Seed of Love
+5:45 PM - Makiling
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
 9:45 PM - Encantadia Chronicles Sang'gre
 10:30 PM - Never Say Die
 11:05 PM - State of The Nation (Live)
-11:25 PM - True Horror Stories
+11:25 PM - The Secrets Of Hotel 88 
 
 
 THURSDAY
@@ -70,15 +69,15 @@ THURSDAY
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
 2:30 PM - Afternoon Movie Break
-4:45 PM - One The Woman
-5:15 PM - The Skywatcher
-5:45 PM - Heartful Cafe
+4:45 PM - AraBella
+5:15 PM - The Seed of Love
+5:45 PM - Makiling
 6:30 PM - 24 Oras (Live)
 8:05 PM - G! Flicks
 9:45 PM - Encantadia Chronicles Sang'gre
 10:30 PM - Never Say Die
 11:05 PM - State of The Nation (Live)
-11:25 PM - True Horror Stories
+11:25 PM - The Secrets Of Hotel 88 
 
 
 FRIDAY
@@ -91,9 +90,9 @@ FRIDAY
 11:00 AM - Balitanghali (Live)
 12:00 PM - Noontime Movie Hits
 2:30 PM - Afternoon Movie Break
-4:45 PM - One The Woman
-5:15 PM - The Skywatcher
-5:45 PM - Heartful Cafe
+4:45 PM - AraBella
+5:15 PM - The Seed of Love
+5:45 PM - Makiling
 6:30 PM - 24 Oras (Live)
 8:05 PM - FPJ sa G! Flicks
 9:45 PM - Encantadia Chronicles Sang'gre
@@ -126,7 +125,7 @@ SUNDAY
 12:00 AM - Sign Off
 6:00 AM - Piggy Tales
 6:30 AM - Puppy In My Pocket
-7:00 AM - Aliens NINANO
+7:00 AM - The Little Prince and Friends
 7:30 AM - The Amazing Spiez
 8:30 AM - Yashahime
 9:30 AM - Word of God Network
@@ -134,7 +133,7 @@ SUNDAY
 11:00 AM - Kamen Rider Zero One
 11:30 AM - The Bureau of Magical Things
 12:00 PM - NCAA Season 101 Building Greatness: Women's Volleyball (Live)
-5:00 PM - The Skywatcher
+5:00 PM - The Seed of Love
 5:30 PM - 24 Oras Weekend (Live)
 6:15 PM - Biyahe ni Drew
 7:00 PM - Farm To Table
@@ -142,6 +141,7 @@ SUNDAY
 8:30 PM - Happy ToGetHer
 9:15 PM - Kapuso Mo, Jessica Soho
 11:05 PM - Dear Uge
+
 
 
 
