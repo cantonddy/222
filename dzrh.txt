@@ -1,7 +1,7 @@
 Monday
 12:00am – The Better News
 12:30am – TNVS: Trending ‘N Viral Show
-1:00am - Music
+1:00am - NHK World Japan
 3:00am – Balitang Promdi
 4:00am – Magandang Umaga, Pilipinas
 6:00am – Dos Por Dos
@@ -26,7 +26,7 @@ Monday
 Tuesday
 12:00am – The Better News
 12:30am – TNVS: Trending ‘N Viral Show
-1:00am - Music
+1:00am - NHK World Japan
 3:00am – Balitang Promdi
 4:00am – Magandang Umaga, Pilipinas
 6:00am – Dos Por Dos
@@ -51,7 +51,7 @@ Tuesday
 Wednesday
 12:00am – The Better News
 12:30am – TNVS: Trending ‘N Viral Show
-1:00am - Music
+1:00am - NHK World Japan
 3:00am – Balitang Promdi
 4:00am – Magandang Umaga, Pilipinas
 6:00am – Dos Por Dos
@@ -76,7 +76,7 @@ Wednesday
 Thursday
 12:00am – The Better News
 12:30am – TNVS: Trending ‘N Viral Show
-1:00am - Music
+1:00am - NHK World Japan
 3:00am – Balitang Promdi
 4:00am – Magandang Umaga, Pilipinas
 6:00am – Dos Por Dos
@@ -101,7 +101,7 @@ Thursday
 
 Friday
 12:00am – Radio dramas replay
-1:00am - Music
+1:00am - NHK World Japan
 3:00am – Balitang Promdi
 4:00am – Magandang Umaga, Pilipinas
 6:00am – Dos Por Dos
@@ -175,4 +175,5 @@ Sunday
 9:00pm – Showbiz Talk
 10:00pm – Bisaya Time
 11:00pm – For Tonight Only
+
 
