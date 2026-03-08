@@ -16,11 +16,11 @@ Monday
 3:00pm - Ako To Si Tyang Amy
 4:00pm - Headline sa Hapon
 4:30pm - ATM: Anong Take Mo!
-5:30pm - Arangkada Balita
+5:30pm - Isyu Spotted
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
-10:00pm - Kwento Nights
+10:00pm - Love Konek
 
 
 Tuesday
@@ -41,11 +41,11 @@ Tuesday
 3:00pm - Ako To Si Tyang Amy
 4:00pm - Headline sa Hapon
 4:30pm - ATM: Anong Take Mo!
-5:30pm - Arangkada Balita
+5:30pm - Isyu Spotted
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
-10:00pm - Kwento Nights
+10:00pm - Love Konek
 
 
 Wednesday
@@ -66,11 +66,11 @@ Wednesday
 3:00pm - Ako To Si Tyang Amy
 4:00pm - Headline sa Hapon
 4:30pm - ATM: Anong Take Mo!
-5:30pm - Arangkada Balita
+5:30pm - Isyu Spotted
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
-10:00pm - Kwento Nights
+10:00pm - Love Konek
 
 
 
@@ -92,11 +92,11 @@ Thursday
 3:00pm - Ako To Si Tyang Amy
 4:00pm - Headline sa Hapon
 4:30pm - ATM: Anong Take Mo!
-5:30pm - Arangkada Balita
+5:30pm - Isyu Spotted
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
-10:00pm - Kwento Nights
+10:00pm - Love Konek
 
 
 Friday
@@ -117,11 +117,11 @@ Friday
 3:00pm - Ako To Si Tyang Amy
 4:00pm - Headline sa Hapon
 4:30pm - ATM: Anong Take Mo!
-5:30pm - Arangkada Balita
+5:30pm - Isyu Spotted
 6:30pm - TV Patrol
 8:00pm - Spot Report
 9:00pm - Alam na This!
-10:00pm - Kwento Nights
+10:00pm - Love Konek
 
 
 Saturday
@@ -134,18 +134,19 @@ Saturday
 10:00am - Win Today
 11:00am - Serbisyong DSWD For Every Juan
 12:00pm - Ligtas Dapat
-1:30pm - Kwatro Alas
+1:30pm - MariTres
 3:00pm - Safe Space
 4:00pm - Pasado Serbisyo
 5:15pm - TV Patrol Weekend
-6:15pm - Story Outlook
+6:15pm - SOCO sa DZMM
 8:00pm - Feel Kita
 10:00pm - Replay
 
 
 Sunday
 12:00am - Music Automation
-4:00am - Sunny Side Up
+4:00am - The Secret of Health
+4:30am - Sunny Side Up
 6:00am - Ano'ng Ganap?
 7:00 - Radyo Patrol Balita Alas-Siyete Weekend
 7:15am - Ano'ng Ganap?
@@ -153,8 +154,7 @@ Sunday
 9:30am - Panalong Diskarte
 11:00am - Iwas Sakit, Iwas Gastos
 12:00pm - Bongga Ka Jhai!
-1:30pm - With Due Respect
-3:00pm - Konek Ka Dyan
+1:30pm - Konek Ka Dyan
 3:30pm - Travel ni Ahwel
 5:30pm - TV Patrol Weekend
 6:30pm - Story Outlook
@@ -162,6 +162,7 @@ Sunday
 8:30pm - Replay
 9:30pm - Replay
 10:00pm - Replay
+
 
 
 
