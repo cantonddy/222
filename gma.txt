@@ -9,14 +9,14 @@ MONDAY
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
 3:20 PM - House of Lies
-4:05 PM - Fast Talk with Boy Abunda
-4:30 PM - Unica Hija
+4:05 PM - Apoy Sa Dugo
+4:45 PM - Fast Talk with Boy Abunda
 5:10 PM - Delightfully Deceitful
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
-8:05 PM - Encantadia Chronicles Sang'gre
-8:55 PM - Never Say Die
-9:40 PM - Pinoy Big Brother Celebrity Collab Edition
+8:00 PM - Encantadia Chronicles Sang'gre
+8:50 PM - Never Say Die
+9:35 PM - The Secrets of Hotel 88
 10:20 PM - Saksi
 11:00 PM - Tricky Love
 11:30 PM - The Cherry Lee Village Headman
@@ -33,14 +33,14 @@ TUESDAY
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
 3:20 PM - House of Lies
-4:05 PM - Fast Talk with Boy Abunda
-4:30 PM - Unica Hija
+4:05 PM - Apoy Sa Dugo
+4:45 PM - Fast Talk with Boy Abunda
 5:10 PM - Delightfully Deceitful
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
-8:05 PM - Encantadia Chronicles Sang'gre
-8:55 PM - Never Say Die
-9:40 PM - Pinoy Big Brother Celebrity Collab Edition
+8:00 PM - Encantadia Chronicles Sang'gre
+8:50 PM - Never Say Die
+9:35 PM - The Secrets of Hotel 88
 10:20 PM - Saksi
 11:00 PM - Tricky Love
 11:30 PM - The Cherry Lee Village Headman
@@ -57,14 +57,14 @@ WEDNESDAY
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
 3:20 PM - House of Lies
-4:05 PM - Fast Talk with Boy Abunda
-4:30 PM - Unica Hija
+4:05 PM - Apoy Sa Dugo
+4:45 PM - Fast Talk with Boy Abunda
 5:10 PM - Delightfully Deceitful
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
-8:05 PM - Encantadia Chronicles Sang'gre
-8:55 PM - Never Say Die
-9:40 PM - Pinoy Big Brother Celebrity Collab Edition
+8:00 PM - Encantadia Chronicles Sang'gre
+8:50 PM - Never Say Die
+9:35 PM - The Secrets of Hotel 88
 10:20 PM - Saksi
 11:00 PM - Tricky Love
 11:30 PM - The Cherry Lee Village Headman
@@ -81,14 +81,14 @@ THURSDAY
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
 3:20 PM - House of Lies
-4:05 PM - Fast Talk with Boy Abunda
-4:30 PM - Unica Hija
+4:05 PM - Apoy Sa Dugo
+4:45 PM - Fast Talk with Boy Abunda
 5:10 PM - Delightfully Deceitful
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
-8:05 PM - Encantadia Chronicles Sang'gre
-8:55 PM - Never Say Die
-9:40 PM - Pinoy Big Brother Celebrity Collab Edition
+8:00 PM - Encantadia Chronicles Sang'gre
+8:50 PM - Never Say Die
+9:35 PM - The Secrets of Hotel 88
 10:20 PM - Saksi
 11:00 PM - Tricky Love
 11:30 PM - The Cherry Lee Village Headman
@@ -105,14 +105,14 @@ FRIDAY
 12:00 PM - It's Showtime
 2:30 PM - Hating Kapatid
 3:20 PM - House of Lies
-4:05 PM - Fast Talk with Boy Abunda
-4:30 PM - Unica Hija
+4:05 PM - Apoy Sa Dugo
+4:45 PM - Fast Talk with Boy Abunda
 5:10 PM - Delightfully Deceitful
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
-8:05 PM - Encantadia Chronicles Sang'gre
-8:55 PM - Never Say Die
-9:40 PM - Pinoy Big Brother Celebrity Collab Edition
+8:00 PM - Encantadia Chronicles Sang'gre
+8:50 PM - Never Say Die
+9:35 PM - The Secrets of Hotel 88
 10:20 PM - Saksi
 11:00 PM - Tricky Love
 11:30 PM - The Cherry Lee Village Headman
@@ -126,10 +126,10 @@ SATURDAY
 7:00 AM - Turbo Zone
 7:30 AM - Detective Conan
 8:00 AM - Taffy
-8:30 AM - Magic Kaito
+8:30 AM - Oscar's Oasis
 9:00 AM - All New Jackie Chan Adventures
 9:30 AM - Voltes V
-10:00 AM - Angry Birds Toons
+10:00 AM - Angry Birds 
 10:15 AM - One Piece Dressrosa Arc
 10:45 AM - Dami Mong Alam, Kuya Kim
 11:15 AM - Pera Paraan
@@ -137,15 +137,15 @@ SATURDAY
 2:30 PM - Hating Kapatid
 3:15 PM - Tadhana
 4:05 PM - Wish Ko Lang
-4:45 PM - Sparkle U
+4:45 PM - The Veiled Cup: Galing ng Pinoy
 5:30 PM - 24 Oras Weekend
 6:15 PM - Pinoy Big Brother Celebrity Collab Edition
 7:15 PM - Pepito Manaloto Tuloy Ang Kuwento
 8:15 PM - Magpakailanman
-9:30 PM - Daig Kayo Ng Lola Ko
+9:30 PM - Heart World
 10:15 PM - I-Witness
 11:00 PM - Reporter's Notebook
-11:30 PM - The Cherry Lee Village Headman
+11:30 PM - To The Moon and Back
 
 SUNDAY
 12:00 AM - Sign Off
@@ -163,11 +163,12 @@ SUNDAY
 2:45 PM - RESIBO: Walang Lusot Ang May Atraso
 3:15 PM - FPJ Sa GMA
 5:30 PM - 24 Oras Weekend
-6:15 PM - Pinoy Big Brother Celebrity Collab Edition
-7:15 PM - BBLGANG
+6:15 PM - BBLGANG
+7:15 PM - Stars on the Floor
 8:15 PM - Kapuso Mo, Jessica Soho
 10:05 PM - The Boobay and Tekla Show
 11:05 PM - Doors
+
 
 
 
