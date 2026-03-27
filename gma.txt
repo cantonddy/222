@@ -7,11 +7,11 @@ MONDAY
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
-2:30 PM - Hating Kapatid
+2:30 PM - Born To Shine
 3:20 PM - House of Lies
 4:05 PM - Apoy Sa Dugo
 4:45 PM - Fast Talk with Boy Abunda
-5:10 PM - Delightfully Deceitful
+5:10 PM - The Sweetest Taboo
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:00 PM - Encantadia Chronicles Sang'gre
@@ -31,11 +31,11 @@ TUESDAY
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
-2:30 PM - Hating Kapatid
+2:30 PM - Born To Shine
 3:20 PM - House of Lies
 4:05 PM - Apoy Sa Dugo
 4:45 PM - Fast Talk with Boy Abunda
-5:10 PM - Delightfully Deceitful
+5:10 PM - The Sweetest Taboo
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:00 PM - Encantadia Chronicles Sang'gre
@@ -55,11 +55,11 @@ WEDNESDAY
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
-2:30 PM - Hating Kapatid
+2:30 PM - Born To Shine
 3:20 PM - House of Lies
 4:05 PM - Apoy Sa Dugo
 4:45 PM - Fast Talk with Boy Abunda
-5:10 PM - Delightfully Deceitful
+5:10 PM - The Sweetest Taboo
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:00 PM - Encantadia Chronicles Sang'gre
@@ -79,11 +79,11 @@ THURSDAY
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
-2:30 PM - Hating Kapatid
+2:30 PM - Born To Shine
 3:20 PM - House of Lies
 4:05 PM - Apoy Sa Dugo
 4:45 PM - Fast Talk with Boy Abunda
-5:10 PM - Delightfully Deceitful
+5:10 PM - The Sweetest Taboo
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:00 PM - Encantadia Chronicles Sang'gre
@@ -103,11 +103,11 @@ FRIDAY
 9:30 AM - Kapuso Movie Festival
 11:00 AM - TiktoClock
 12:00 PM - It's Showtime
-2:30 PM - Hating Kapatid
+2:30 PM - Born To Shine
 3:20 PM - House of Lies
 4:05 PM - Apoy Sa Dugo
 4:45 PM - Fast Talk with Boy Abunda
-5:10 PM - Delightfully Deceitful
+5:10 PM - The Sweetest Taboo
 5:40 PM - Family Feud
 6:30 PM - 24 Oras
 8:00 PM - Encantadia Chronicles Sang'gre
@@ -134,7 +134,7 @@ SATURDAY
 10:45 AM - Dami Mong Alam, Kuya Kim
 11:15 AM - Pera Paraan
 12:00 PM - It's Showtime
-2:30 PM - Hating Kapatid
+2:30 PM - Born To Shine
 3:15 PM - Tadhana
 4:05 PM - Wish Ko Lang
 4:45 PM - The Veiled Cup: Galing ng Pinoy
