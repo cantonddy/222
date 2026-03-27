@@ -5,10 +5,10 @@ MONDAY
 4:30 AM - Word of God
 5:30 AM - Gud Morning Kapatid (LIVE)
 8:00 AM - Chibi Maruko Chan
-8:30 AM - The Adventures of Tom Sawyer
+8:30 AM - Prinsipe Cedie
 9:00 AM - Cine Cinco sa Umaga
 10:30 AM - Frontline Express AM
-11:00 AM - Face to Face: Harapan
+11:00 AM - Face To Face With Ate Koring
 12:00 PM - E.A.T Bulaga (LIVE)
 2:30 PM - Frontline Express (LIVE)
 3:15 PM - Sky Castle
@@ -29,10 +29,10 @@ TUESDAY
 4:30 AM - Word of God
 5:30 AM - Gud Morning Kapatid (LIVE)
 8:00 AM - Chibi Maruko Chan
-8:30 AM - The Adventures of Tom Sawyer
+8:30 AM - Prinsipe Cedie
 9:00 AM - Cine Cinco sa Umaga
 10:30 AM - Frontline Express
-11:00 AM - Face to Face: Harapan
+11:00 AM - Face To Face With Ate Koring
 12:00 PM - E.A.T Bulaga (LIVE)
 2:30 PM - Frontline Express (LIVE)
 3:15 PM - Sky Castle
@@ -53,10 +53,10 @@ WEDNESDAY
 4:30 AM - Word of God
 5:30 AM - Gud Morning Kapatid (LIVE)
 8:00 AM - Chibi Maruko Chan
-8:30 AM - The Adventures of Tom Sawyer
+8:30 AM - Prinsipe Cedie
 9:00 AM - Cine Cinco sa Umaga
 10:30 AM - Frontline Express
-11:00 AM - Face to Face: Harapan
+11:00 AM - Face To Face With Ate Koring
 12:00 PM - E.A.T Bulaga (LIVE)
 2:30 PM - Frontline Express (LIVE)
 3:15 PM - Sky Castle
@@ -77,10 +77,10 @@ THURSDAY
 4:30 AM - Word of God
 5:30 AM - Gud Morning Kapatid (LIVE)
 8:00 AM - Chibi Maruko Chan
-8:30 AM - The Adventures of Tom Sawyer
+8:30 AM - Prinsipe Cedie
 9:00 AM - Cine Cinco sa Umaga
 10:30 AM - Frontline Express
-11:00 AM - Face to Face: Harapan
+11:00 AM - Face To Face With Ate Koring
 12:00 PM - E.A.T Bulaga (LIVE)
 2:30 PM - Frontline Express (LIVE)
 3:15 PM - Sky Castle
@@ -101,10 +101,10 @@ FRIDAY
 4:30 AM - Word of God
 5:30 AM - Gud Morning Kapatid (LIVE)
 8:00 AM - Chibi Maruko Chan
-8:30 AM - The Adventures of Tom Sawyer
+8:30 AM - Prinsipe Cedie
 9:00 AM - Cine Cinco sa Umaga
 10:30 AM - Frontline Express
-11:00 AM - Face to Face: Harapan
+11:00 AM - Face To Face With Ate Koring
 12:00 PM - E.A.T Bulaga (LIVE)
 2:30 PM - Frontline Express (LIVE)
 3:15 PM - Sky Castle
@@ -125,7 +125,7 @@ SATURDAY
 1:00 AM - Sign Off
 7:00 AM - Trolls
 7:30 AM - Dragon Race To The Edge
-8:30 AM - The Adventures of Tom Sawyer
+8:30 AM - Prinsipe Cedie
 9:30 AM - Cine Cinco Weekend Saya
 11:00 AM - Helen's Kitchen
 11:25 AM - E.A.T Bulaga (LIVE)
@@ -149,7 +149,7 @@ SUNDAY
 6:00 AM - Sunday TV Mass
 7:00 AM - Oras ng Katotohanan
 8:00 AM - Dragon Race To The Edge
-9:00 AM - The Adventures of Tom Sawyer
+9:00 AM - Prinsipe Cedie
 10:00 AM - Cine Cinco Weekend Saya
 12:00 PM - VIBE Playback
 2:00 PM - Cine Cinco Astig Sunday
